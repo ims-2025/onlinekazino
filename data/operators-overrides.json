@@ -97,7 +97,7 @@
     "name": "OlyBet Kazino",
     "keep": true,
     "isMercuryDemo": false,
-    "featuredImage": "/operators/olybet.png",
+    "featuredImage": "https://www.onlinekazino.com/wp-content/uploads/2022/11/olybet.png",
     "ratings": { "trust": 4.5, "games": 4, "bonus": 4, "customer": 4, "overall": 4.15 },
     "affiliate": { "url": "https://www.olybet.lv/lv/casino", "partner": "direct", "status": "pending-partner-link" },
     "bonus": {
@@ -127,7 +127,7 @@
     "name": "Tonybet Kazino",
     "keep": true,
     "isMercuryDemo": false,
-    "featuredImage": "/operators/tonybet.png",
+    "featuredImage": "https://www.onlinekazino.com/wp-content/uploads/2022/11/TonyBet-logo.webp",
     "ratings": { "trust": 4, "games": 4, "bonus": 3.5, "customer": 4, "overall": 3.85 },
     "affiliate": { "url": "https://www.tonybet.lv/lv/casino", "partner": "direct", "status": "pending-partner-link" },
     "bonus": {
@@ -157,7 +157,7 @@
     "name": "LVBet Kazino",
     "keep": true,
     "isMercuryDemo": false,
-    "featuredImage": "/operators/lvbet.png",
+    "featuredImage": "https://www.onlinekazino.com/wp-content/uploads/2024/06/lvbet-672x372-1.png",
     "ratings": { "trust": 4, "games": 4, "bonus": 4, "customer": 3.5, "overall": 3.9 },
     "affiliate": { "url": "https://www.lvbet.lv/lv/casino", "partner": "direct", "status": "pending-partner-link" },
     "bonus": {
@@ -187,7 +187,7 @@
     "name": "Verde Casino",
     "keep": true,
     "isMercuryDemo": false,
-    "featuredImage": "/operators/verde.png",
+    "featuredImage": "https://www.onlinekazino.com/wp-content/uploads/2024/06/verde-casino-logo.jpg",
     "ratings": { "trust": 3.5, "games": 4.5, "bonus": 4.5, "customer": 3.5, "overall": 4.0 },
     "affiliate": { "url": "https://verde.casino/lv", "partner": "direct", "status": "pending-partner-link" },
     "bonus": {
