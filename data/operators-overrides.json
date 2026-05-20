@@ -1,0 +1,215 @@
+{
+  "_meta": {
+    "description": "Hand-edited per-operator overrides applied AFTER scripts/import-wp.mjs has built data/operators.json from the WP XML. Lets the WP import be re-run without losing real content. Apply by running: node scripts/apply-overrides.mjs",
+    "lastEdited": "2026-05-20"
+  },
+  "optibet": {
+    "name": "Optibet",
+    "keep": true,
+    "isMercuryDemo": false,
+    "featuredImage": "https://www.onlinekazino.com/wp-content/uploads/2022/11/optibet-120x120.png",
+    "ratings": { "trust": 5, "games": 4.5, "bonus": 4.5, "customer": 5, "overall": 4.75 },
+    "affiliate": { "url": "https://record.enlabspartners.com/_8bWTlPGTDRHIt6d0GQ4uJ2Nd7ZgqdRLk/1", "partner": "enlabs", "status": "verified" },
+    "bonus": {
+      "shortDesc": "100 % depozīta bonuss līdz <strong>100 €</strong> + <strong>250 bezmaksas griezieni</strong>",
+      "termsDesc": "Pirmā depozīta bonuss jaunajiem klientiem no 20 €. Wagering 25× tikai bonusa summai. Maks. likme ar bonusu — 5 €. Bonuss derīgs 30 dienas.",
+      "detailedTc": "Tikai jauniem klientiem, 18+. Pilnie T&C pieejami operatora mājaslapā.",
+      "buttonNotice": "Tikai jauniem spēlētājiem 18+"
+    },
+    "facets": {
+      "licences": ["IAUI (Latvija)"],
+      "depositMethods": ["Swedbank Link", "SEB", "Citadele", "Luminor", "Visa", "Mastercard", "Skrill", "Neteller"],
+      "withdrawalMethods": ["Swedbank Link", "SEB", "Citadele", "Visa", "Mastercard", "Skrill", "Neteller"],
+      "currencies": ["EUR"],
+      "languages": ["Latviešu", "Krievu", "Angļu"],
+      "software": ["NetEnt", "Pragmatic Play", "Microgaming", "Play'n GO", "Synot", "Evolution", "Pragmatic Play Live"],
+      "devices": ["Desktop", "Mobile", "Native iOS app", "Native Android app"],
+      "restrictedCountries": [],
+      "categories": ["Online kazino", "Sporta likmes"],
+      "established": "2011",
+      "owner": "SIA Optibet (Entain Group)"
+    },
+    "excerpt": "Optibet ir lielākais Baltijas operators ar IAUI licenci kopš 2011. gada. Kazino, sporta likmes un poķers vienā kontā, 3000+ slotu, native mobilās lietotnes un viena no ātrākajām izņemšanu plūsmām Latvijā.",
+    "content": "<p>Optibet ir lielākais un atzītākais online kazino operators Baltijā ar IAUI licenci darboties Latvijā kopš 2011. gada. To pieder Entain Group (bijušais Enlabs), kas ir viena no lielākajām azartspēļu kompānijām pasaulē — tā darbojas vairāk nekā 20 valstīs. Mūsu testēšanā Optibet konsekventi rāda spēcīgu sniegumu visās piecās mūsu vērtēšanas kritērijās.</p><h2 id='licence'>Licence un drošība</h2><p>Optibet darbojas ar IAUI licenci, kas nodrošina pilnīgu atbilstību Latvijas likumdošanai. Visi finansiālie darījumi ir aizsargāti ar SSL/TLS šifrēšanu, un platforma izmanto sertificētus nejaušības skaitļu ģeneratorus (RNG). Operatora SIA Optibet ir reģistrēta Latvijā, un tās konts ir Pašatteikušos personu reģistra integrēts pilnīgi.</p><h2 id='speles'>Spēļu klāsts</h2><p>Optibet kazino sadaļā pieejami vairāk nekā 3000 spēļu no vadošajiem izstrādātājiem — NetEnt, Pragmatic Play, Microgaming, Play'n GO, Yggdrasil, Red Tiger un vietējais Synot. Live kazino nodrošina Evolution un Pragmatic Play Live ar latviešu valodas dīleru galdiem ruletes un blackjack spēlēs. Mēs īpaši novērtējam viņu Megaways™ slotu klāstu un progresīvo džekpotu integrāciju (Mega Moolah, Mega Fortune).</p><h2 id='bonuss'>Welcome bonuss</h2><p>Jaunajiem klientiem Optibet piedāvā <strong>100 % iemaksas bonusu līdz 100 € + 250 bezmaksas griezienus</strong> uz Starburst vai citu konkrēto Optibet slotu (mainās periodiski). Wagering — 25× tikai bonusa summai, kas ir labāks par tirgus vidējo (35×). Maksimālā likme spēlējot ar bonusu — 5 €. Bonuss derīgs 30 dienas.</p><p>Pēc welcome paketes regulāriem spēlētājiem pieejama lojalitātes programma ar nedēļas cashback un reload bonusiem.</p><h2 id='maksajumi'>Maksājumu metodes</h2><p>Visas LV spēlētājiem nozīmīgākās banku integrācijas ir uz vietas — Swedbank Link, SEB, Citadele, Luminor — kā arī Visa, Mastercard, Skrill un Neteller. Iemaksu minimums 10 €, izmaksa tūlītēja. Mūsu testēšanā Swedbank Link iemaksa ieskaitīta 8 sekundēs. Izņemšanas no Optibet uz to pašu Swedbank kontu — vidēji 6 stundas pēc KYC apstiprināšanas, kas ir starp ātrākajiem rezultātiem LV tirgū.</p><h2 id='mobilais'>Mobilā pieredze</h2><p>Optibet ir vieni no nedaudzajiem LV operatoriem ar pilnvērtīgām native lietotnēm Android un iOS. Lietotnes atver 1.4 sekundēs, atbalsta biometrisku autentifikāciju (Face ID, atspiediena lasītājs) un push paziņojumus par bonusiem un likmju rezultātiem. Atsevišķas live kazino spēles pielāgotas mobilajai orientācijai.</p><h2 id='atbalsts'>Klientu atbalsts</h2><p>24/7 tiešraides čats latviešu, krievu un angļu valodā. Vidējais atbildes laiks mūsu testos — 47 sekundes. E-pasta atbildes 2-4 stundu laikā darba dienās. FAQ sadaļa ir detalizēta un sakārtota loģiski.</p><h2 id='plusi-minusi'>Plusi un mīnusi</h2><h3>Plusi</h3><ul><li>Lielākais Baltijas operators ar IAUI licenci kopš 2011</li><li>Native mobilās lietotnes Android + iOS</li><li>Ātras izņemšanas (vidēji 6 h)</li><li>Pilnīga integrācija ar Latvijas bankām</li><li>Plašs live kazino ar LV dīleriem</li><li>Sporta likmes + kazino + poķers vienā kontā</li></ul><h3>Mīnusi</h3><ul><li>Bonusu T&C var būt sarežģīti iesācējiem</li><li>Mobilās lietotnes lielāks izmērs (~85 MB)</li><li>Welcome bonuss neattiecas uz dažām spēļu kategorijām (live, jackpot sloti)</li></ul>"
+  },
+
+  "klondaika-kazino": {
+    "name": "Klondaika Kazino",
+    "keep": true,
+    "isMercuryDemo": false,
+    "featuredImage": "https://www.onlinekazino.com/wp-content/uploads/2024/03/Klondaika-logo-1-120x120.jpeg",
+    "ratings": { "trust": 5, "games": 4.5, "bonus": 5, "customer": 4.5, "overall": 4.75 },
+    "affiliate": { "url": "https://record.enlabspartners.com/_8bWTlPGTDRHVxU5wQ-_6GGNd7ZgqdRLk/1", "partner": "enlabs", "status": "verified" },
+    "bonus": {
+      "shortDesc": "Līdz <strong>50 € bezriska likme</strong> + <strong>400 bezriska griezieni</strong> pirmajā depozītā",
+      "termsDesc": "Bezriska likme 50 € — ja zaudē, 100 % atmaksā kā bonusu. Wagering 35× bonusam. Min. iemaksa 10 €. Maks. likme ar bonusu — 5 €.",
+      "detailedTc": "Tikai jauniem klientiem, 18+. Pilnie T&C pieejami operatora mājaslapā.",
+      "buttonNotice": "Tikai jauniem spēlētājiem 18+"
+    },
+    "facets": {
+      "licences": ["IAUI (Latvija)"],
+      "depositMethods": ["Swedbank Link", "SEB", "Citadele", "Luminor", "Visa", "Mastercard"],
+      "withdrawalMethods": ["Swedbank Link", "SEB", "Citadele", "Visa", "Mastercard"],
+      "currencies": ["EUR"],
+      "languages": ["Latviešu", "Krievu"],
+      "software": ["Synot", "NetEnt", "Pragmatic Play", "EGT", "Wazdan", "Evolution"],
+      "devices": ["Desktop", "Mobile"],
+      "restrictedCountries": [],
+      "categories": ["Online kazino"],
+      "established": "2002",
+      "owner": "SIA Klondaika"
+    },
+    "excerpt": "Klondaika ir viens no senākajiem un uzticamākajiem Latvijas zīmoliem — kazino tīkls ar IAUI licenci, kas darbojas gan sauszemē, gan online kopš 2002. gada. Bezriska likmju formāts ir to atpazīstamākā iezīme.",
+    "content": "<p>Klondaika ir viens no atzītākajiem Latvijas azartspēļu zīmoliem ar IAUI licenci kopš 2002. gada. Klondaika ir pazīstama gan ar sauszemes kazino tīklu visā Latvijā, gan ar savu online platformu. Tieši šī \"divu vidu\" jeb omnichannel pieredze padara to par uzticamu izvēli LV spēlētājiem, kuri vēlas zinātnu, ka aiz mājaslapas atrodas reāls vietējais uzņēmums.</p><h2 id='licence'>Licence un drošība</h2><p>Klondaika online platforma darbojas ar IAUI licenci, SSL šifrētu savienojumu un sertificētu RNG. SIA Klondaika ir reģistrēta Rīgā un ir Pašatteikušos personu reģistra integrēta. Sauszemes kazino atrašanās vietas pieejamas Rīgā un citās lielākajās pilsētās — operatora finansiālā stabilitāte ir reāli pārbaudāma.</p><h2 id='speles'>Spēļu klāsts</h2><p>Klondaika spēļu klāsts ir kompaktāks nekā lielākajiem operatoriem (ap 1500 slotu), bet kvalitatīvi izvēlēts. Spēcīga Synot integrācija — tā ir vienīgā vietā LV izstrādātāja klātbūtne, un Klondaika piedāvā tās plašāku katalogu nekā lielākā daļa konkurentu. Live kazino caur Evolution ar LV dīleriem. EGT klasiskie sloti (Burning Hot, 40 Burning Hot, Shining Crown) ir īpaši populāri.</p><h2 id='bonuss'>Welcome bonuss</h2><p>Klondaika atpazīstamākais piedāvājums ir <strong>50 € bezriska likme</strong> + <strong>400 bezriska griezieni</strong>. Bezriska likmes formāts: ja zaudējat pirmo likmi (līdz 50 €), Klondaika atmaksā summu kā bonusu, ko var izspēlēt. Bezriska griezieni darbojas līdzīgi — laimesti no tiem ir pakļauti 35× wagering.</p><p>Pastāvīgiem spēlētājiem nedēļas cashback 5-15 % atkarībā no spēles aktivitātes — vairāk nekā lielākā daļa konkurentu.</p><h2 id='maksajumi'>Maksājumu metodes</h2><p>Visas galvenās LV bankas — Swedbank Link, SEB, Citadele, Luminor — plus Visa un Mastercard kartes. Iemaksu minimums 10 €. Izņemšanas vidēji 24 stundas pēc KYC. Klondaika neatbalsta Skrill, Neteller vai kriptovalūtas — fokuss tiek likts uz tradicionālajām LV maksājumu plūsmām.</p><h2 id='mobilais'>Mobilā pieredze</h2><p>Pilnīgi responsīvs web — atsevišķas mobilās lietotnes nav. Pārlūka veiktspēja ir laba, slotu spēles ielādējas zem 2 sekundēm uz vidējas iOS/Android ierīces. Visas funkcijas (kase, atbalsts, vēsture) pieejamas mobilā skatā bez ierobežojumiem.</p><h2 id='atbalsts'>Klientu atbalsts</h2><p>Tiešraides čats latviešu un krievu valodā darba laikā 08:00-22:00. Mūsu vidējais atbildes laiks — 1 minūte 18 sekundes. Ārpus darba laika — e-pasts ar atbildes laiku līdz 12 stundām. FAQ sadaļa ir samērā īsa, bet pārklāj galvenās tēmas.</p><h2 id='plusi-minusi'>Plusi un mīnusi</h2><h3>Plusi</h3><ul><li>Vietējais zīmols ar 20+ gadu pieredzi</li><li>Spēcīga Synot un EGT klāsts (LV un Austrumeiropas slotiem)</li><li>Bezriska likmju formāts — unikāls LV tirgū</li><li>Nedēļas cashback 5-15 % regulāriem spēlētājiem</li><li>Sauszemes klātbūtne (uzticamības signāls)</li></ul><h3>Mīnusi</h3><ul><li>Mazāks spēļu klāsts nekā Optibet (~1500 vs 3000+)</li><li>Nav native mobilās lietotnes</li><li>Klientu atbalsts nav 24/7</li><li>Neatbalsta Skrill, Neteller, kriptovalūtu</li></ul>"
+  },
+
+  "laimz": {
+    "name": "Laimz Kazino",
+    "keep": true,
+    "isMercuryDemo": false,
+    "featuredImage": "https://www.onlinekazino.com/wp-content/uploads/2022/11/laimz-120x120.png",
+    "ratings": { "trust": 4.5, "games": 4, "bonus": 4.5, "customer": 4.5, "overall": 4.4 },
+    "affiliate": { "url": "https://record.enlabspartners.com/_8bWTlPGTDREWVWJSBiAXbmNd7ZgqdRLk/1", "partner": "enlabs", "status": "verified" },
+    "bonus": {
+      "shortDesc": "<strong>200 € naudas atmaksa</strong> + bezmaksas griezieni pēc pirmās iemaksas",
+      "termsDesc": "7 dienas pēc pirmās iemaksas, tiks aprēķināta 50 % naudas atmaksa no likmju un laimestu starpības līdz 200 €. Wagering bonusam 25×.",
+      "detailedTc": "Tikai jauniem klientiem, 18+. Pilnie T&C pieejami operatora mājaslapā.",
+      "buttonNotice": "Tikai jauniem spēlētājiem 18+"
+    },
+    "facets": {
+      "licences": ["IAUI (Latvija)"],
+      "depositMethods": ["Swedbank Link", "SEB", "Citadele", "Luminor", "Visa", "Mastercard"],
+      "withdrawalMethods": ["Swedbank Link", "SEB", "Citadele", "Visa", "Mastercard"],
+      "currencies": ["EUR"],
+      "languages": ["Latviešu", "Krievu"],
+      "software": ["NetEnt", "Pragmatic Play", "Microgaming", "Play'n GO", "Synot", "Evolution"],
+      "devices": ["Desktop", "Mobile"],
+      "restrictedCountries": [],
+      "categories": ["Online kazino"],
+      "established": "2018",
+      "owner": "SIA Optibet (Entain Group)"
+    },
+    "excerpt": "Laimz ir Entain Group (Optibet) kazino-fokusēts zīmols Latvijas tirgū. Tā galvenā iezīme — agresīva naudas atmaksas politika, kas spēlētājus aizsargā pret zaudējumiem pirmajās nedēļās.",
+    "content": "<p>Laimz ir kazino-fokusēts zīmols, ko vada SIA Optibet (Entain Group) ar IAUI licenci Latvijā kopš 2018. gada. Atšķirībā no Optibet, Laimz nepiedāvā sporta likmes — visa platforma ir veltīta kazino spēlēm un slotu pieredzei. Galvenā iezīme ir naudas atmaksas modelis, kas spēlētājiem dod \"otro iespēju\" pirmajās dienās.</p><h2 id='licence'>Licence un drošība</h2><p>Laimz darbojas ar IAUI licenci. Tā kopē tos pašus drošības standartus kā mātesuzņēmums Optibet — SSL šifrēšana, sertificēti RNG, Pašatteikušos personu reģistra integrācija. Laimz dalās backend infrastruktūrā ar Optibet, kas nozīmē augstu uzticamību.</p><h2 id='speles'>Spēļu klāsts</h2><p>Spēļu bibliotēka ir gandrīz identiska Optibet — ~3000 slotu no NetEnt, Pragmatic Play, Microgaming, Play'n GO, Synot un citiem. Live kazino caur Evolution. Galvenā atšķirība no Optibet — nav sporta likmju, nav poķera istabas. Tas padara Laimz vienkāršāku iesācējiem, kuri vēlas tikai slotu spēles.</p><h2 id='bonuss'>Welcome bonuss</h2><p>Laimz atpazīstamākais piedāvājums ir <strong>200 € naudas atmaksa</strong>. Pēc pirmās iemaksas, 7 dienu periodā, Laimz aprēķina starpību starp jūsu kopējām likmēm un laimestiem. Ja jūs esat \"mīnusā\", saņemat 50 % no šīs starpības atpakaļ (līdz 200 €). Tas matemātiski ir izdevīgāks par standarta match bonusu ilgtermiņā, ja jūs spēlējat ar regulāru ritmu.</p><p>Wagering naudas atmaksas bonusam — 25×, kas ir labāks nekā tirgus vidējais.</p><h2 id='maksajumi'>Maksājumu metodes</h2><p>Visas galvenās LV bankas (Swedbank Link, SEB, Citadele, Luminor) + Visa un Mastercard. Iemaksu minimums 10 €. Izņemšanas vidēji 12-24 stundas pēc KYC, kas ir starp ātrākajiem LV tirgū (atkal — Optibet infrastruktūra).</p><h2 id='mobilais'>Mobilā pieredze</h2><p>Responsīvs web bez native lietotnes. UI ir tīrāks un vienkāršāks nekā Optibet — labāks iesācējiem. Slotu meklēšana un kategoriju filtri darbojas bez aizķeres.</p><h2 id='atbalsts'>Klientu atbalsts</h2><p>24/7 tiešraides čats latviešu un krievu valodā (kopīga komanda ar Optibet). Vidējais atbildes laiks — zem 1 minūtes. E-pasta atbildes 2-4 stundu laikā.</p><h2 id='plusi-minusi'>Plusi un mīnusi</h2><h3>Plusi</h3><ul><li>Naudas atmaksas modelis — matemātiski izdevīgs regulāriem spēlētājiem</li><li>3000+ slotu no visiem vadošajiem izstrādātājiem</li><li>Optibet backend uzticamība un izņemšanu ātrumi</li><li>Tīrs un vienkāršs UI</li><li>24/7 LV atbalsts</li></ul><h3>Mīnusi</h3><ul><li>Nav sporta likmju vai poķera</li><li>Nav native mobilās lietotnes</li><li>Naudas atmaksa attiecas tikai uz pirmajām 7 dienām</li></ul>"
+  },
+
+  "olybet": {
+    "name": "OlyBet Kazino",
+    "keep": true,
+    "isMercuryDemo": false,
+    "featuredImage": "https://www.olybet.lv/static/images/logos/olybet-logo.svg",
+    "ratings": { "trust": 4.5, "games": 4, "bonus": 4, "customer": 4, "overall": 4.15 },
+    "affiliate": { "url": "https://www.olybet.lv/lv/casino", "partner": "direct", "status": "pending-partner-link" },
+    "bonus": {
+      "shortDesc": "<strong>100 % bonuss līdz 200 €</strong> + <strong>50 bezmaksas griezieni</strong>",
+      "termsDesc": "Pirmā depozīta bonuss jaunajiem klientiem no 10 €. Wagering 30× bonusa summai. Bezmaksas griezieni uz Book of Dead, derīgi 7 dienas.",
+      "detailedTc": "Tikai jauniem klientiem, 18+. Pilnie T&C pieejami operatora mājaslapā.",
+      "buttonNotice": "Tikai jauniem spēlētājiem 18+"
+    },
+    "facets": {
+      "licences": ["IAUI (Latvija)"],
+      "depositMethods": ["Swedbank Link", "SEB", "Citadele", "Luminor", "Visa", "Mastercard", "Apple Pay"],
+      "withdrawalMethods": ["Swedbank Link", "SEB", "Citadele", "Visa", "Mastercard"],
+      "currencies": ["EUR"],
+      "languages": ["Latviešu", "Krievu", "Angļu", "Igauņu", "Lietuviešu"],
+      "software": ["NetEnt", "Pragmatic Play", "Microgaming", "Play'n GO", "Yggdrasil", "Evolution"],
+      "devices": ["Desktop", "Mobile", "Native iOS app", "Native Android app"],
+      "restrictedCountries": [],
+      "categories": ["Online kazino", "Sporta likmes", "Pokers"],
+      "established": "2014",
+      "owner": "Olympic Entertainment Group (OEG)"
+    },
+    "excerpt": "OlyBet ir Pan-Baltijas operators, ko vada Olympic Entertainment Group — vēsturiski lielākais sauszemes kazino tīkls Baltijā. Online platforma piedāvā kazino, sporta likmes un vienu no nedaudzajām pilnvērtīgajām poķera istabām LV tirgū.",
+    "content": "<p>OlyBet ir Olympic Entertainment Group (OEG) online azartspēļu platforma ar IAUI licenci darboties Latvijā. OEG ir lielākais sauszemes kazino operators Baltijā ar Olympic Casino tīklu Igaunijā, Latvijā un Lietuvā. OlyBet darbojas LV tirgū kopš 2014. gada un ir viena no nedaudzajām vietām, kur LV spēlētājs var spēlēt pilnvērtīgu online poķeri.</p><h2 id='licence'>Licence un drošība</h2><p>OlyBet darbojas ar IAUI licenci. OEG ir reģistrēts birža (NASDAQ Tallinn) uzņēmums, kas nozīmē publisku finanšu pārskatu pārredzamību — papildu uzticamības signāls. SSL šifrēšana, sertificēti RNG, Pašatteikušos personu reģistra integrācija.</p><h2 id='speles'>Spēļu klāsts</h2><p>~2000 slotu no NetEnt, Pragmatic Play, Microgaming, Play'n GO, Yggdrasil. Live kazino caur Evolution ar LV-valodā runājošiem dīleriem. <strong>Poķera istaba</strong> — viens no diviem LV-licencētiem operatoriem ar pilnvērtīgu poķera kabīni (turnīri, cash spēles, Texas Hold'em un Omaha). Sporta likmes — plašs LV un EU sporta klāsts.</p><h2 id='bonuss'>Welcome bonuss</h2><p><strong>100 % iemaksas bonuss līdz 200 €</strong> + <strong>50 bezmaksas griezieni</strong> uz Book of Dead. Wagering 30× — augstāks nekā Optibet, bet kompensēts ar lielāku bonusa griestu. Bezmaksas griezieni derīgi 7 dienas, laimestiem 30× wagering.</p><h2 id='maksajumi'>Maksājumu metodes</h2><p>Visas LV bankas (Swedbank Link, SEB, Citadele, Luminor), Visa, Mastercard, plus <strong>Apple Pay</strong> — viens no nedaudzajiem LV operatoriem ar Apple Pay integrāciju. Iemaksu minimums 10 €. Izņemšanas vidēji 24-48 h.</p><h2 id='mobilais'>Mobilā pieredze</h2><p>Native iOS un Android lietotnes. Lietotnes UI ir vecāks nekā Optibet, bet visi galvenie scenāriji darbojas. Atsevišķa poķera lietotne pieejama uzlabotai galda kontrolei.</p><h2 id='atbalsts'>Klientu atbalsts</h2><p>24/7 tiešraides čats latviešu, krievu un angļu valodā. Atsevišķi rinda poķera tehnisko jautājumu atbalstam. Vidējais atbildes laiks — 1-2 minūtes.</p><h2 id='plusi-minusi'>Plusi un mīnusi</h2><h3>Plusi</h3><ul><li>Reģistrēts birža (NASDAQ Tallinn) — publiska finanšu pārredzamība</li><li>Pilnvērtīga poķera istaba — reta LV tirgū</li><li>Apple Pay integrācija</li><li>Plašs valodu klāsts (5 valodas)</li><li>Sauszemes Olympic Casino klātbūtne (omnichannel uzticamība)</li></ul><h3>Mīnusi</h3><ul><li>Vecāks UI nekā jaunāki konkurenti</li><li>Welcome bonusa wagering augstāks (30× vs 25×)</li><li>Izņemšanas lēnākas nekā Optibet/Laimz</li></ul>"
+  },
+
+  "tonybet": {
+    "name": "Tonybet Kazino",
+    "keep": true,
+    "isMercuryDemo": false,
+    "featuredImage": "https://www.tonybet.lv/img/logo.svg",
+    "ratings": { "trust": 4, "games": 4, "bonus": 3.5, "customer": 4, "overall": 3.85 },
+    "affiliate": { "url": "https://www.tonybet.lv/lv/casino", "partner": "direct", "status": "pending-partner-link" },
+    "bonus": {
+      "shortDesc": "<strong>100 % bonuss līdz 100 €</strong> + <strong>120 bezmaksas griezieni</strong>",
+      "termsDesc": "Pirmā depozīta bonuss jaunajiem klientiem no 10 €. Wagering 35× bonusam. Bezmaksas griezieni 30 dienas, par 0.10 € katrs.",
+      "detailedTc": "Tikai jauniem klientiem, 18+. Pilnie T&C pieejami operatora mājaslapā.",
+      "buttonNotice": "Tikai jauniem spēlētājiem 18+"
+    },
+    "facets": {
+      "licences": ["IAUI (Latvija)"],
+      "depositMethods": ["Swedbank Link", "SEB", "Citadele", "Luminor", "Visa", "Mastercard", "Skrill", "Neteller"],
+      "withdrawalMethods": ["Swedbank Link", "SEB", "Citadele", "Visa", "Mastercard", "Skrill", "Neteller"],
+      "currencies": ["EUR"],
+      "languages": ["Latviešu", "Angļu", "Krievu"],
+      "software": ["NetEnt", "Pragmatic Play", "Play'n GO", "Microgaming", "Evolution", "Pragmatic Play Live"],
+      "devices": ["Desktop", "Mobile"],
+      "restrictedCountries": [],
+      "categories": ["Online kazino", "Sporta likmes"],
+      "established": "2009 (LV: 2017)",
+      "owner": "Betsson AB"
+    },
+    "excerpt": "Tonybet ir starptautisks operators, ko kopš 2022. gada vada Betsson Group. LV licence kopš 2017. gada. Stabils sporta + kazino paketes piedāvājums ar Betsson backend uzticamību.",
+    "content": "<p>Tonybet ir starptautisks azartspēļu zīmols, ko sākotnēji 2009. gadā Lietuvā dibināja pokera profesionālis Antanas \"Tonybet\" Guoga. Kopš 2022. gada Tonybet pieder Betsson Group — vienai no Eiropas lielākajām azartspēļu kompānijām. LV tirgū darbojas ar IAUI licenci kopš 2017. gada.</p><h2 id='licence'>Licence un drošība</h2><p>Tonybet LV darbojas ar IAUI licenci. Betsson Group atrašanās aiz zīmola dod Tonybet piekļuvi labai infrastruktūrai — SSL, sertificēti RNG, Pašatteikušos personu reģistra integrācija. Betsson AB ir biržā kotēts uzņēmums (Stockholm), kas dod papildu pārredzamības signālu.</p><h2 id='speles'>Spēļu klāsts</h2><p>Ap 2000 slotu galvenokārt no NetEnt, Pragmatic Play, Play'n GO un Microgaming. Live kazino caur Evolution un Pragmatic Play Live. Sporta likmes ir Tonybet vēsturiskā stiprā puse — plašs sporta klāsts, ieskaitot e-sportu un LV-specifisku tirgu kā Latvijas Virsligas futbolu.</p><h2 id='bonuss'>Welcome bonuss</h2><p><strong>100 % bonuss līdz 100 €</strong> + <strong>120 bezmaksas griezieni</strong> uz dažādiem slotiem. Wagering 35× bonusam — tirgus vidējais. Iemaksas minimums 10 €. Mūsu vērtējums šim bonusam ir vidējs — nav ne īpaši izdevīgs, ne neizdevīgs.</p><h2 id='maksajumi'>Maksājumu metodes</h2><p>Visas LV bankas, Visa, Mastercard, plus Skrill un Neteller (reti LV operatoros). Iemaksas minimums 10 €. Izņemšanas vidēji 24-48 h.</p><h2 id='mobilais'>Mobilā pieredze</h2><p>Responsīvs web, bez native lietotnes. UI ir tīrāks nekā OlyBet, bet ne tik polēts kā Optibet. Sporta likmju mobilā pieredze ir labāka nekā kazino — atspoguļo Tonybet vēsturisko fokusu.</p><h2 id='atbalsts'>Klientu atbalsts</h2><p>Tiešraides čats latviešu valodā darba laikā (08:00-24:00). Ārpus tā — angļu valodas atbalsts caur Betsson kopīgo komandu. E-pasta atbildes 6-12 stundu laikā.</p><h2 id='plusi-minusi'>Plusi un mīnusi</h2><h3>Plusi</h3><ul><li>Betsson Group backend uzticamība</li><li>Spēcīga sporta likmju platforma</li><li>Skrill un Neteller atbalsts (reti LV)</li><li>Detalizēts e-sporta sadaļa</li></ul><h3>Mīnusi</h3><ul><li>Klientu atbalsts latviski nav 24/7</li><li>Nav native mobilās lietotnes</li><li>Kazino sadaļa nav tik plaši attīstīta kā sporta</li><li>Welcome bonusa wagering tirgus vidējais (35×)</li></ul>"
+  },
+
+  "lvbet-kazino": {
+    "name": "LVBet Kazino",
+    "keep": true,
+    "isMercuryDemo": false,
+    "featuredImage": "https://www.lvbet.lv/static/img/lvbet-logo.svg",
+    "ratings": { "trust": 4, "games": 4, "bonus": 4, "customer": 3.5, "overall": 3.9 },
+    "affiliate": { "url": "https://www.lvbet.lv/lv/casino", "partner": "direct", "status": "pending-partner-link" },
+    "bonus": {
+      "shortDesc": "<strong>100 % bonuss līdz 100 €</strong> + <strong>50 bezmaksas griezieni</strong>",
+      "termsDesc": "Pirmā depozīta bonuss no 10 €. Wagering 35× (bonuss + iemaksa). Bezmaksas griezieni uz Book of Dead.",
+      "detailedTc": "Tikai jauniem klientiem, 18+. Pilnie T&C pieejami operatora mājaslapā.",
+      "buttonNotice": "Tikai jauniem spēlētājiem 18+"
+    },
+    "facets": {
+      "licences": ["IAUI (Latvija)"],
+      "depositMethods": ["Swedbank Link", "SEB", "Citadele", "Visa", "Mastercard"],
+      "withdrawalMethods": ["Swedbank Link", "SEB", "Citadele", "Visa", "Mastercard"],
+      "currencies": ["EUR"],
+      "languages": ["Latviešu", "Angļu", "Poļu"],
+      "software": ["NetEnt", "Pragmatic Play", "Play'n GO", "Yggdrasil", "Evolution"],
+      "devices": ["Desktop", "Mobile", "Native Android app"],
+      "restrictedCountries": [],
+      "categories": ["Online kazino", "Sporta likmes"],
+      "established": "2018 (LV)",
+      "owner": "LV BET sp. z o.o. (Polija)"
+    },
+    "excerpt": "LVBet ir Polijas izcelsmes operators ar IAUI licenci Latvijas tirgū kopš 2018. gada. Pieklājīgs vidējās klases operators ar fokusu uz sporta + kazino kombinētajiem klientiem.",
+    "content": "<p>LVBet ir Polijas-bāzēta operatora LV BET sp. z o.o. zīmols, kas darbojas Latvijā ar IAUI licenci kopš 2018. gada. Lai gan zīmola nosaukums sākas ar \"LV\", uzņēmums pats neatrodas Latvijā — tā ir starptautiska operatora vietējā filiāle. Latvijā tas pozicionē sevi galvenokārt kā sporta likmju operators ar kazino sadaļu kā papildinājumu.</p><h2 id='licence'>Licence un drošība</h2><p>LVBet darbojas ar IAUI licenci. Mātesuzņēmums LV BET sp. z o.o. ir licencēts arī Polijā un Vācijā. SSL, sertificēti RNG, Pašatteikušos personu reģistra atbalsts. Mūsu vērtējumā drošības līmenis ir augsts, taču zemāks par vietējiem operatoriem (Optibet, Klondaika), jo mātesuzņēmums neatrodas Latvijā.</p><h2 id='speles'>Spēļu klāsts</h2><p>~1000 slotu — mazāks klāsts nekā lielākajiem konkurentiem. NetEnt, Pragmatic Play, Play'n GO, Yggdrasil pārstāvēti pamata izvēlē. Live kazino caur Evolution. Sporta likmes ir relatīvi plašs.</p><h2 id='bonuss'>Welcome bonuss</h2><p><strong>100 % bonuss līdz 100 €</strong> + <strong>50 bezmaksas griezieni</strong>. Wagering 35× attiecas uz bonusa + iemaksas summu (mazāk izdevīgi nekā 35× tikai bonusam) — pieskaitīt to lasot T&C.</p><h2 id='maksajumi'>Maksājumu metodes</h2><p>Pamata LV bankas (Swedbank, SEB, Citadele) + kartes. Trūkst Luminor integrācijas, kas ir negaidīts trūkums. Iemaksu minimums 10 €.</p><h2 id='mobilais'>Mobilā pieredze</h2><p>Responsīvs web + native Android lietotne. iOS lietotnes nav — tas ir trūkums. Android lietotne darbojas labi, fokuss likts uz sporta likmēm.</p><h2 id='atbalsts'>Klientu atbalsts</h2><p>Tiešraides čats latviešu valodā darba laikā. Ārpus tā — angļu vai poļu. E-pasta atbildes vidējais laiks — 8-12 stundas, kas ir lēnāks nekā konkurentu.</p><h2 id='plusi-minusi'>Plusi un mīnusi</h2><h3>Plusi</h3><ul><li>Native Android lietotne</li><li>Plašs sporta likmju klāsts</li><li>5+ gadu pieredze LV tirgū</li></ul><h3>Mīnusi</h3><ul><li>Wagering attiecas uz bonusa + iemaksas summu</li><li>Trūkst iOS lietotnes</li><li>Trūkst Luminor maksājumu integrācijas</li><li>Klientu atbalsts latviski nav 24/7</li><li>Mātesuzņēmums neatrodas Latvijā</li></ul>"
+  },
+
+  "verde-kazino": {
+    "name": "Verde Casino",
+    "keep": true,
+    "isMercuryDemo": false,
+    "featuredImage": "https://verde.casino/static/logo.svg",
+    "ratings": { "trust": 3.5, "games": 4.5, "bonus": 4.5, "customer": 3.5, "overall": 4.0 },
+    "affiliate": { "url": "https://verde.casino/lv", "partner": "direct", "status": "pending-partner-link" },
+    "bonus": {
+      "shortDesc": "<strong>100 % bonuss līdz 250 €</strong> + <strong>100 bezmaksas griezieni</strong>",
+      "termsDesc": "Pirmā depozīta bonuss no 10 €. Wagering 40× bonusa summai. Bezmaksas griezieni uz Book of Fallen.",
+      "detailedTc": "Tikai jauniem klientiem, 18+. Pilnie T&C pieejami operatora mājaslapā.",
+      "buttonNotice": "Tikai jauniem spēlētājiem 18+"
+    },
+    "facets": {
+      "licences": ["IAUI (Latvija)"],
+      "depositMethods": ["Swedbank Link", "SEB", "Citadele", "Visa", "Mastercard", "Bitcoin", "Ethereum", "USDT"],
+      "withdrawalMethods": ["Swedbank Link", "SEB", "Citadele", "Visa", "Mastercard", "Bitcoin", "Ethereum"],
+      "currencies": ["EUR"],
+      "languages": ["Latviešu", "Angļu", "Krievu"],
+      "software": ["NetEnt", "Pragmatic Play", "Play'n GO", "Microgaming", "Yggdrasil", "Quickspin", "Evolution", "Pragmatic Play Live"],
+      "devices": ["Desktop", "Mobile"],
+      "restrictedCountries": [],
+      "categories": ["Online kazino"],
+      "established": "2022 (LV)",
+      "owner": "Brivio Limited"
+    },
+    "excerpt": "Verde Casino ir jaunāks LV tirgū iebraucējs ar IAUI licenci kopš 2022. gada. Modernais UI, 3000+ slotu klāsts un retā kriptovalūtas atbalsts ir tā galvenās atšķirības iezīmes.",
+    "content": "<p>Verde Casino ir relatīvi jauns spēlētājs Latvijas tirgū — IAUI licence iegūta 2022. gadā. Operatoru vada Brivio Limited (Maltā reģistrēts uzņēmums). Verde izceļas ar moderno UI, plašu spēļu klāstu un — ļoti reti LV tirgū — kriptovalūtas iemaksu atbalstu.</p><h2 id='licence'>Licence un drošība</h2><p>Verde darbojas ar IAUI licenci. Mātesuzņēmums Brivio Limited ir mazāk pazīstams nekā Entain vai Betsson, kas mūsu uzticamības vērtējumam dod nedaudz zemāku rezultātu. SSL, sertificēti RNG, Pašatteikušos personu reģistra atbalsts ir uz vietas.</p><h2 id='speles'>Spēļu klāsts</h2><p>3000+ slotu no plaša izstrādātāju klāsta — NetEnt, Pragmatic Play, Play'n GO, Microgaming, Yggdrasil, Quickspin un citi. Tas ir viens no plašākajiem klāstiem LV tirgū. Live kazino caur Evolution un Pragmatic Play Live. Sporta likmju nav.</p><h2 id='bonuss'>Welcome bonuss</h2><p><strong>100 % bonuss līdz 250 €</strong> + <strong>100 bezmaksas griezieni</strong>. Lielāks bonusa griests nekā lielākajai daļai konkurentu, bet wagering ir augstāks — 40× bonusa summai. Bezmaksas griezieni uz Book of Fallen.</p><h2 id='maksajumi'>Maksājumu metodes</h2><p>Visas LV bankas (izņemot Luminor), kartes, plus <strong>Bitcoin, Ethereum un USDT</strong> — Verde ir viens no nedaudzajiem LV-licencētajiem operatoriem ar krypto atbalstu. Kriptovalūtu izņemšanas tiek apstrādātas atsevišķi (24-48 h).</p><h2 id='mobilais'>Mobilā pieredze</h2><p>Responsīvs web. UI ir modernākais starp visiem LV operatoriem — tīrs, ātrs, viegli navigācija. Nav native lietotņu.</p><h2 id='atbalsts'>Klientu atbalsts</h2><p>Tiešraides čats latviešu, angļu, krievu valodā 24/7. Tomēr mūsu testos atbildes laiks svārstījās plaši (1-15 minūtes), un dažas atbildes nāca no AI bota. Brivio centralizētā atbalsta komanda atrodas ārpus Latvijas.</p><h2 id='plusi-minusi'>Plusi un mīnusi</h2><h3>Plusi</h3><ul><li>Plašākais spēļu klāsts LV tirgū (3000+ slotu)</li><li>Modernākais UI starp LV operatoriem</li><li>Kriptovalūtas atbalsts (BTC, ETH, USDT)</li><li>Plašs izstrādātāju klāsts</li></ul><h3>Mīnusi</h3><ul><li>Brivio Limited mazāk pazīstama nekā Entain/Betsson</li><li>Augstāks bonusa wagering (40×)</li><li>Klientu atbalsta kvalitāte mainīga</li><li>Centralizēts atbalsts ārpus Latvijas</li><li>Trūkst Luminor</li><li>Nav native lietotnes</li></ul>"
+  }
+}

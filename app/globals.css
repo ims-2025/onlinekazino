@@ -1,0 +1,155 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---------------------------------------------------------------------------
+   OnlineKazino — light editorial premium theme.
+
+   Surfaces: warm cream "paper". Type: deep ink. Accent: Latvian carmine.
+   Star ratings: restrained brass. Headlines: Source Serif 4. Body: Inter.
+   --------------------------------------------------------------------------- */
+
+:root {
+  --font-sans: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-serif: 'Source Serif 4', 'Source Serif Pro', Georgia, serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  text-size-adjust: 100%;
+  background-color: #FAF7F0; /* paper, available on first paint */
+}
+
+body {
+  @apply bg-paper text-ink antialiased;
+  font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11', 'ss01';
+}
+
+::selection {
+  @apply bg-carmine-500 text-paper;
+}
+
+/* Subtle scrollbar in supporting browsers ---------------------------------- */
+@supports (scrollbar-width: thin) {
+  html {
+    scrollbar-width: thin;
+    scrollbar-color: #C4B997 #FAF7F0;
+  }
+}
+
+/* Editorial body copy ----------------------------------------------------- */
+
+.prose-editorial {
+  @apply max-w-prose font-sans text-base leading-relaxed text-ink-soft;
+}
+
+.prose-editorial > :first-child {
+  @apply mt-0;
+}
+
+.prose-editorial h1,
+.prose-editorial h2,
+.prose-editorial h3,
+.prose-editorial h4 {
+  @apply font-serif font-semibold tracking-tightish text-ink;
+}
+
+.prose-editorial h2 {
+  @apply mt-12 text-2xl md:text-3xl;
+}
+
+.prose-editorial h3 {
+  @apply mt-9 text-xl md:text-2xl;
+}
+
+.prose-editorial p {
+  @apply my-5;
+}
+
+.prose-editorial a {
+  @apply text-carmine-600 underline decoration-carmine-300 underline-offset-2 transition hover:decoration-carmine-500;
+}
+
+.prose-editorial strong {
+  @apply font-semibold text-ink;
+}
+
+.prose-editorial ul,
+.prose-editorial ol {
+  @apply my-5 ml-6;
+}
+
+.prose-editorial ul {
+  @apply list-disc marker:text-carmine-400;
+}
+
+.prose-editorial ol {
+  @apply list-decimal marker:text-ink-mute;
+}
+
+.prose-editorial li {
+  @apply my-2;
+}
+
+.prose-editorial blockquote {
+  @apply my-7 border-l-2 border-carmine-500 pl-5 font-serif text-lg italic text-ink/90;
+}
+
+.prose-editorial table {
+  @apply my-7 w-full border-collapse text-sm;
+}
+
+.prose-editorial th,
+.prose-editorial td {
+  @apply border-b border-line px-3 py-2.5 text-left;
+}
+
+.prose-editorial th {
+  @apply text-xs font-semibold uppercase tracking-widest2 text-ink-mute;
+}
+
+.prose-editorial code {
+  @apply rounded bg-paper-deep px-1.5 py-0.5 font-mono text-[0.9em] text-carmine-700;
+}
+
+.prose-editorial hr {
+  @apply my-10 border-line;
+}
+
+.prose-editorial h2[id],
+.prose-editorial h3[id] {
+  scroll-margin-top: 7rem;
+}
+
+/* Micro-typography: small caps eyebrow ----------------------------------- */
+
+.eyebrow {
+  @apply text-2xs font-semibold uppercase tracking-widest2 text-carmine-600;
+}
+
+/* "Latvian flag" hairline — a subtle 4px carmine accent above hero
+   sections. Used as a national-flavor cue without being literal. */
+.flag-rule {
+  position: relative;
+}
+.flag-rule::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 3px;
+  width: 4rem;
+  background-color: #9D2235;
+}
+
+/* Reduced motion ---------------------------------------------------------- */
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}

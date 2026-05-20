@@ -1,0 +1,257 @@
+{
+  "speles": {
+    "spelu-automati": {
+      "title": "Online spēļu automāti",
+      "lede": "Spēļu automāti jeb sloti ir populārākais online kazino spēļu veids Latvijā. Šajā ceļvedī skaidrojam, kā tie darbojas, ko nozīmē RTP, un kuri ir labākie sloti, ko spēlēt LV-licencētos kazino.",
+      "sections": [
+        { "h": "Kā strādā online slots", "p": "Mūsdienu spēļu automāts ir programmatūra, kuras rezultātu nosaka neatkarīgs nejaušības skaitļu ģenerators (RNG). Katram pagriezienam ir vienāda neatkarīga varbūtība — iepriekšējais rezultāts neietekmē nākamo. Visi IAUI licencētie operatori izmanto sertificētu RNG, ko regulāri auditē neatkarīgas laboratorijas." },
+        { "h": "RTP — atgriešanas spēlētājam koeficients", "p": "RTP (Return to Player) ir teorētisks ilgtermiņa atgriešanas procents. Slots ar RTP 96.5% nozīmē, ka uz katriem 100 € likmēm, ilgtermiņā, spēlētājs saņem atpakaļ 96.50 €. RTP virs 96% ir labs; virs 97% — izcils. Mēs ranžējam visus slotus, ko mūsu pārskatos minējam, pēc to publicētā RTP." },
+        { "h": "Volatilitāte", "p": "Slota volatilitāte (vai variance) raksturo, cik bieži un cik lielus laimestus tas dod. Zema volatilitāte = bieži, mazi laimesti. Augsta volatilitāte = reti, lieli laimesti. Iesācējiem iesakām sākt ar zemu/vidēju volatilitāti." }
+      ]
+    },
+    "blackjack": {
+      "title": "Online blackjack",
+      "lede": "Blackjack ir viena no nedaudzajām kazino spēlēm, kur prasme tieši ietekmē rezultātu. Pareiza pamata stratēģija samazina mājas priekšrocību līdz ~0.5%, padarot blackjack par vienu no izdevīgākajām online kazino spēlēm.",
+      "sections": [
+        { "h": "Mērķis un noteikumi", "p": "Mērķis ir iegūt karšu summu, kas ir tuvāka 21 nekā dīlerim, neizejot pāri (\"bust\"). Numurkartēm ir to nominālvērtība, attēli (J, Q, K) ir 10, dūzis ir 1 vai 11 pēc izvēles. Dīleris ievēro stingrus noteikumus — parasti ņem karti uz 16, paliek uz 17." },
+        { "h": "Pamata stratēģija", "p": "Pamata stratēģijas tabula norāda matemātiski optimālo darbību katrai spēlētāja+dīlera kombinācijai. To izmantošana samazina mājas priekšrocību no ~2% uz <0.5%. Tabulas pieejamas bezmaksas tiešsaistē — IAUI licencētie operatori ļauj jums atvērt tās tieši blakus spēlei." },
+        { "h": "Live blackjack", "p": "Live blackjack ar reālu dīleri (Evolution, Pragmatic Play Live) sniedz autentiskāku pieredzi nekā RNG variants. Likmju robežas parasti augstākas, taču gameplay ir identiska — pamata stratēģija strādā vienādi." }
+      ]
+    },
+    "rulete": {
+      "title": "Online rulete",
+      "lede": "Rulete ir viena no senākajām kazino spēlēm, un online versijās pieejama trīs galvenajos variantos: Eiropas (vienkārt zero), franču (la partage noteikums) un amerikāņu (divreiz zero). Mājas priekšrocība atšķiras ievērojami starp tām.",
+      "sections": [
+        { "h": "Eiropas vs. amerikāņu rulete", "p": "Eiropas ruletei ir 37 lauki (1-36 + viens 0), mājas priekšrocība 2.7%. Amerikāņu ruletei ir 38 lauki (papildu 00), kas dubulto mājas priekšrocību līdz 5.26%. Vienmēr izvēlieties Eiropas vai franču variantu, ja pieejams." },
+        { "h": "Franču rulete un La Partage", "p": "Franču rulete ir Eiropas ruletes variants ar īpašu noteikumu: ja bumba apstājas uz zero, vienkāršie likmes (sarkans/melns, pāra/nepāra utt.) zaudē tikai pusi. Tas samazina mājas priekšrocību uz 1.35% — labākā likme online ruletē." },
+        { "h": "Stratēģijas un to robežas", "p": "Sistēmas kā Martingale (dubultošana pēc zaudējuma), Fibonacci, D'Alembert var sniegt īstermiņa rezultātus, bet matemātiski nemaina mājas priekšrocību. Ilgtermiņā nav stratēģijas, kas pārvarētu negatīvas paredzamās vērtības spēli. Spēlējiet izklaides dēļ, ne kā ieguldījuma metodi." }
+      ]
+    },
+    "pokers": {
+      "title": "Online pokers",
+      "lede": "Pokers atšķiras no citām kazino spēlēm — tā ir prasmes spēle pret citiem spēlētājiem, nevis pret māju. Operatoram ir tikai \"rake\" (komisija no bankas). Latvijā vairāki IAUI licencēti operatori piedāvā pokera istabas vai video pokeru.",
+      "sections": [
+        { "h": "Texas Hold'em pamati", "p": "Texas Hold'em ir populārākais variants. Katrs spēlētājs saņem 2 slēgtās kartes, plus 5 kopējās kartes uz galda (flop 3, turn 1, river 1). Mērķis — labākā 5-karšu kombinācija no jūsu 2 un 5 kopējām. Likmēs ir četras kārtas." },
+        { "h": "Video pokers", "p": "Video pokers ir solo spēle pret RNG — 5 kartes, izvēlaties, kuras paturēt, pārējās aizvieto. Variantu RTP svārstās no 95% (Jacks or Better) līdz 100.76% (Deuces Wild ar pilnu izmaksu tabulu un optimālu spēli)." },
+        { "h": "Turnīri vs. cash spēles", "p": "Turnīros maksājat fiksētu ieejas maksu, saņemat fiksētus žetonus, un spēlējat, līdz vienam paliek visi. Cash spēlēs žetoni ir tieši nauda, varat pievienoties un pamest jebkurā brīdī. Turnīri labāki iesācējiem (zemāks risks)." }
+      ]
+    },
+    "baccarat": {
+      "title": "Online baccarat",
+      "lede": "Baccarat (jeb Punto Banco) ir vienkārša kāršu spēle — likme uz \"spēlētāju\", \"banku\" vai \"neizšķirtu\". Spēles loģika ir noteikta, nav stratēģisku lēmumu, taču zema mājas priekšrocība padara to par vienu no izdevīgākajām kazino spēlēm.",
+      "sections": [
+        { "h": "Noteikumi", "p": "Spēlētājs un banka saņem pa 2 kartēm. Mērķis — summa tuvāk 9. Karšu vērtības: numurkartes pēc nomināla, 10/J/Q/K = 0, dūzis = 1. Ja summa ir 10 vai vairāk, atskaita 10 (piem., 7+8=15 → 5). Trešās kartes noteikumi automātiski." },
+        { "h": "Mājas priekšrocība pēc likmes", "p": "Likme uz banku: 1.06% (zemākā mājas priekšrocība, bet ar 5% komisiju no laimesta). Likme uz spēlētāju: 1.24%. Likme uz neizšķirtu: 14.4% (izvairieties)." },
+        { "h": "Mini un Speed Baccarat", "p": "Mini baccarat ir ātrāks ar mazākām likmēm — labi iesācējiem. Speed Baccarat live kazino apvienots ar īsākiem likmju logiem — spēles ātrums ~27 sekundes." }
+      ]
+    },
+    "live-kazino": {
+      "title": "Live kazino",
+      "lede": "Live kazino apvieno online ērtības ar reālu dīleri, kas straumē video no profesionālas studijas. Lielākie pakalpojumu sniedzēji ir Evolution Gaming un Pragmatic Play Live, un visi LV-licencētie operatori tos integrē.",
+      "sections": [
+        { "h": "Kā tas darbojas", "p": "Reāls dīleris fiziskā studijā vada spēli (rulete, blackjack, baccarat, spēļu šovi). Video straume tiek pārsūtīta uz jūsu ierīci HD kvalitātē. Likmes liekat caur ekrānu, dīleris redz jūsu darbības caur monitoru. Mūsdienās studijas darbojas 24/7." },
+        { "h": "Spēļu šovi", "p": "Crazy Time, Monopoly Live, Lightning Roulette, Funky Time — šie ir Evolution \"game show\" formāti, kas apvieno klasiskos riteņus un interaktīvas bonus kārtas. Spēļu šovu RTP svārstās no 95% līdz 96.5%." },
+        { "h": "Minimālās likmes", "p": "Live kazino likmju robežas atšķiras pēc galda. Standarta live blackjack sākas no 1 €, ruletes no 0.10 €, augstu likmju \"VIP\" galdi sākas no 50-100 €. Latvijas operatoros pieejami galdi latviešu valodā." }
+      ]
+    },
+    "dzekpoti": {
+      "title": "Progresīvie džekpoti",
+      "lede": "Progresīvais džekpots aug ar katru likmi, ko spēlētāji visā tīklā veic — līdz brīdim, kad kāds laime. Lielākie tīkli (Microgaming Mega Moolah, NetEnt Mega Fortune) regulāri izmaksā vairāku miljonu eiro laimestus.",
+      "sections": [
+        { "h": "Veidi", "p": "Standalone — pieaug tikai konkrētajā automātā. Local — pieaug konkrētā kazino visos automātos. Network — pieaug vairākos kazino visā pasaulē (lielākais). Mega Moolah tīkls vairākkārt ir maksājis virs 18 miljoniem eiro." },
+        { "h": "Kā kvalificēties", "p": "Lielākajā daļā progresīvo slotu ir jāveic maksimālā likme uz visām līnijām, lai pretendētu uz galveno džekpotu. Mazākiem džekpotiem (mini, minor) var pretendēt arī ar mazākām likmēm. Pārbaudiet konkrētā slota \"info\" sadaļu pirms spēles." },
+        { "h": "Reālas izredzes", "p": "Iespēja vinnēt progresīvo džekpotu ir niecīga (parasti 1 pret vairākiem miljoniem pagriezieniem). Spēlējiet tikai izklaides nolūkā — nekad neuzskatiet to par finanšu stratēģiju. RTP progresīvajiem slotiem mēdz būt zemāks (~94-95%), jo daļa likmes aizplūst džekpota baseinā." }
+      ]
+    }
+  },
+
+  "maksajumi": {
+    "swedbank-link": {
+      "title": "Swedbank Link kazino",
+      "lede": "Swedbank Link ir tūlītēja banku iemaksu metode, kas pieejama lielākajā daļā IAUI licencēto kazino. Pievilcīga Swedbank klientiem, jo iemaksa tiek ieskaitīta dažu sekunžu laikā bez papildu komisijas.",
+      "sections": [
+        { "h": "Kā veikt iemaksu", "p": "Kazino kasē izvēlieties \"Swedbank Link\", ievadiet summu, pārvirzās uz Swedbank autorizāciju (Smart-ID vai kods), apstipriniet — līdzekļi parādās kontā ~10 sekundēs." },
+        { "h": "Limiti un komisijas", "p": "Minimālā iemaksa parasti 5-10 €, maksimālā 5 000-10 000 € atkarībā no operatora. Swedbank nepiemēro komisiju Link iemaksai uz Latvijas pakalpojumu sniedzējiem, taču operators var piemērot savu." },
+        { "h": "Izņemšanas", "p": "Daudzi operatori ļauj arī izņemt caur Swedbank Link uz to pašu kontu, no kura veikta iemaksa (KYC prasība). Izņemšanas laiks parasti 24-48 stundas pēc operatora pārbaudes." }
+      ]
+    },
+    "seb": {
+      "title": "SEB kazino iemaksas",
+      "lede": "SEB internetbankas integrācija ir viena no izplatītākajām maksājumu metodēm Latvijas online kazino. Tūlītējas iemaksas, autentifikācija ar Smart-ID vai SEB kodu kalkulatoru.",
+      "sections": [
+        { "h": "Plūsma", "p": "Operatora kasē izvēlieties SEB, autorizējaties caur SEB internetbankas redirect, apstipriniet maksājumu — līdzekļi ieskaitīti tūlītēji." },
+        { "h": "Drošība", "p": "SEB izmanto vienu no stiprākajām autentifikācijas plūsmām Latvijas tirgū. Visi maksājumi tiek apstrādāti caur SEB pašu sistēmām — operators nesaņem jūsu bankas paroli vai kartes datus." },
+        { "h": "Izņemšanas", "p": "Atkarīgs no operatora — vairums ļauj izņemt uz SEB kontu pēc identitātes apstiprināšanas (KYC). Apstrādes laiks parasti 24 stundas no operatora puses, plus standarta banku pārskaitījuma laiks." }
+      ]
+    },
+    "citadele": {
+      "title": "Citadele kazino iemaksas",
+      "lede": "Citadele banka ir trešais lielākais maksājumu kanāls Latvijas online kazino tirgū. Lielākā daļa IAUI licencēto operatoru atbalsta tūlītējās internetbankas iemaksas no Citadele kontiem.",
+      "sections": [
+        { "h": "Kā tas strādā", "p": "Izvēlieties \"Citadele\" kasē, autorizējaties caur Citadele internetbanku (Smart-ID), apstipriniet summu — iemaksa tūlītēja." },
+        { "h": "Komisijas", "p": "Citadele parasti nepiemēro komisiju iemaksai LV pakalpojumu sniedzējiem. Operators var piemērot savu — pārbaudiet operatora kases lapā pirms apstiprināšanas." },
+        { "h": "Izņemšanas", "p": "Izņemšanas uz Citadele kontu pieejamas vairumā operatoru pēc KYC apstiprināšanas. Apstrāde 24-48 h." }
+      ]
+    },
+    "trustly": {
+      "title": "Trustly kazino",
+      "lede": "Trustly ir tūlītēja banku maksājumu pakalpojumu sniedzējs, kas darbojas kā tilts starp jūsu banku un operatoru, bez nepieciešamības atklāt bankas datus operatoram. Populārs \"Pay N Play\" plūsmā.",
+      "sections": [
+        { "h": "Kā tas atšķiras no Swedbank Link", "p": "Swedbank Link iet tieši caur Swedbank. Trustly ir starpnieks, kas atbalsta daudzas bankas (Swedbank, SEB, Citadele, Luminor un vēl), tāpēc vienai izvēlei darbojas vairāk banku." },
+        { "h": "Pay N Play", "p": "Daži Trustly-integrētie kazino piedāvā \"Pay N Play\" — bez tradicionālas reģistrēšanās. Jūs vienkārši ievadiet iemaksu, banka autentificē, un spēlējat. KYC notiek fonā. Latvijas tirgū šī plūsma vēl nav plaši izplatīta — vairums operatoru pieprasa tradicionālo reģistrāciju." },
+        { "h": "Komisijas", "p": "Trustly bieži ir bez maksas iemaksām, taču daži operatori var piemērot 0.5-1.5 % izņemšanas komisiju. Pārbaudiet operatora konkrētos noteikumus." }
+      ]
+    },
+    "revolut": {
+      "title": "Revolut kazino",
+      "lede": "Revolut karte un konts kļūst par populāru iemaksas metodi LV kazino, īpaši jaunāku spēlētāju vidū. Var lietot kā standarta Visa/Mastercard vai caur Revolut Pay integrāciju.",
+      "sections": [
+        { "h": "Kā lietot Revolut karti", "p": "Vienkārši izvēlieties \"Visa\" vai \"Mastercard\" kazino kasē un ievadiet Revolut kartes datus — iemaksa apstrādājas kā standarta karte." },
+        { "h": "Revolut Pay tieša integrācija", "p": "Daži operatori atbalsta Revolut Pay tiešu integrāciju ar QR kodu vai push paziņojumu Revolut lietotnē — līdzīgi kā Apple Pay/Google Pay, bet ar Revolut autentifikāciju." },
+        { "h": "Brīdinājums", "p": "Revolut pakalpojumu noteikumi var ierobežot azartspēles atsevišķos kontos. Pārbaudiet sava Revolut konta līmeni (Standard, Premium, Metal) un atļaujas — daži jaunāki spēlētāji ziņojuši par bloķētiem darījumiem." }
+      ]
+    },
+    "visa-mastercard": {
+      "title": "Visa un MasterCard kazino",
+      "lede": "Klasiskās kredīta un debeta kartes joprojām ir visizplatītākā maksājumu metode online kazino visā pasaulē. Latvijas IAUI licencētie operatori visi pieņem Visa un MasterCard.",
+      "sections": [
+        { "h": "Iemaksu plūsma", "p": "Ievadiet kartes numuru, derīguma termiņu un CVV. 3D Secure (Verified by Visa / Mastercard SecureCode) jūs novirzīs uz bankas autorizāciju ar Smart-ID vai SMS kodu — ja banka to pieprasa." },
+        { "h": "Iemaksu komisijas", "p": "Vairums operatoru iemaksu sūta bez komisijas. Tomēr daži bankas var traktēt kazino iemaksu kā skaidras naudas izņemšanu (cash advance), kas piesaista bankas komisiju un procentus — pārbaudiet sava izdevēja noteikumus." },
+        { "h": "Izņemšanas", "p": "Izņemšanas uz karti notiek 1-5 darbdienu laikā. Daži operatori izņemšanu uz karti neatbalsta — tādos gadījumos izmantojiet banku pārskaitījumu uz to pašu kontu." }
+      ]
+    },
+    "skrill": {
+      "title": "Skrill kazino",
+      "lede": "Skrill ir starptautisks e-makss, kas tradicionāli ir bijis ļoti populārs online kazino spēlētāju vidū tūlītēju izņemšanu dēļ. Mazāk izplatīts Latvijas spēlētāju vidū kā bankas, bet pieejams lielākajā daļā operatoru.",
+      "sections": [
+        { "h": "Kāpēc Skrill", "p": "Galvenā priekšrocība — izņemšanas uz Skrill ir teju tūlītējas (parasti 24h pēc operatora KYC pārbaudes), savukārt uz banku tas var aizņemt 3-5 dienas. Privātums — operators redz tikai Skrill e-pastu, nevis bankas datus." },
+        { "h": "Komisijas", "p": "Skrill piemēro 1% komisiju iemaksām operatoram (parasti operators uzņemas) un standarta 1.45-2.99% izņemšanas komisiju uz banku. Visa-to-Skrill iemaksas 2.5%." },
+        { "h": "Bonusu izslēgšana", "p": "Daudzi operatori izslēdz Skrill (un Neteller) iemaksas no welcome bonusu kvalificēšanas. Vienmēr pārbaudiet bonusu T&C pirms iemaksas." }
+      ]
+    },
+    "neteller": {
+      "title": "Neteller kazino",
+      "lede": "Neteller ir Skrill māsas pakalpojums (abi pieder Paysafe Group). Funkcionalitāte un komisijas ir teju identiskas. Vēsturiski populārs azartspēlnieku vidū tūlītēju izņemšanu dēļ.",
+      "sections": [
+        { "h": "Plūsma", "p": "Reģistrējiet Neteller kontu, papildiniet to caur banku/karti, izmantojiet kazino. Izņemšana uz Neteller ir tūlītēja pēc operatora apstiprināšanas." },
+        { "h": "VIP programmas", "p": "Neteller Loyalty programma piedāvā samazinātas komisijas un papildu funkcionalitāti aktīvajiem lietotājiem. Mazāk nozīmīgs ikdienas spēlētājam." },
+        { "h": "Welcome bonusu izslēgšana", "p": "Tāpat kā Skrill, Neteller iemaksas bieži izslēdz no welcome bonusu kvalificēšanas. Pārbaudiet T&C." }
+      ]
+    },
+    "paypal": {
+      "title": "PayPal kazino Latvijā",
+      "lede": "PayPal ir globāli atpazīstams maksājumu pakalpojums, taču tā pieejamība online kazino ir ierobežota. Latvijā tikai daži operatori to pieņem, un PayPal pati ierobežo savu atbalstu azartspēļu nozarē.",
+      "sections": [
+        { "h": "Reālais stāvoklis", "p": "Lielākā daļa IAUI licencēto operatoru NEPIEŅEM PayPal. Ja redzat PayPal logotipu kazino mājaslapā, pārbaudiet tās maksājumu lapu, lai apstiprinātu pašreizējo pieejamību — operatori reizēm atstāj veco informāciju." },
+        { "h": "Alternatīvas", "p": "Ja vēlaties e-maksu, Skrill un Neteller ir daudz plašāk atbalstīti azartspēļu nozarē. Trustly piedāvā līdzīgu \"starpnieks starp banku un operatoru\" pieredzi bez azartspēļu ierobežojumiem." },
+        { "h": "Ja PayPal strādā", "p": "Plūsma identiska citiem e-maksiem — autorizējaties caur PayPal, apstipriniet summu, atgriežaties operatorā. Iemaksa tūlītēja. Izņemšana uz to pašu PayPal kontu, no kura veikta iemaksa." }
+      ]
+    },
+    "kriptovaluta": {
+      "title": "Kriptovalūtu kazino",
+      "lede": "Bitcoin, Ethereum, USDT un citas kriptovalūtas tiek pieņemtas dažos online kazino, taču Latvijas IAUI licencētie operatori pārsvarā tās nepiedāvā. Kriptovalūtu kazino parasti ir bez LV licences, kas rada papildu riskus.",
+      "sections": [
+        { "h": "Juridiskais aspekts", "p": "Latvijā kriptovalūtas atļauts izmantot kā maksājumu līdzekli, taču IAUI licencētie operatori parasti nepiedāvā kriptovalūtu kā depozīta metodi — tas tāpēc, ka KYC/AML noteikumi prasa identificētus maksājumu kanālus. Vairums kriptokazino darbojas ar Curaçao vai citas jurisdikcijas licencēm." },
+        { "h": "Riski", "p": "Spēlējot kriptokazino bez LV licences, jums nav IAUI aizsardzības — Pašatteikušos personu reģistrs neattiecas, strīdu risināšanā nevar iesaistīties LV regulators, un laimesti nav LV nodokļa atbrīvojuma diapazonā." },
+        { "h": "Tehniskā plūsma", "p": "Kriptokazino ģenerē jums depozīta adresi vienai sesijai vai pastāvīgu. Pārskaitiet kriptovalūtu no savas maciņas vai biržas. Apstiprināšana atkarīga no tīkla — Bitcoin ~10-30 min, Ethereum ~30 sek-1 min, USDT TRC-20 — sekunžu laikā." }
+      ]
+    }
+  },
+
+  "bonusi": {
+    "depozita-bonusi": {
+      "title": "Depozīta bonusi",
+      "lede": "Depozīta bonuss (jeb match bonus) ir tradicionālākais welcome piedāvājums online kazino — operators papildina jūsu iemaksu par noteiktu procentu līdz noteiktai maksimālajai summai. Galvenais — saprast wagering nosacījumus.",
+      "sections": [
+        { "h": "Kā tas darbojas", "p": "Piemērs: 100% bonuss līdz 200 €, wagering 35x. Iemaksājat 100 €, kazino pievieno 100 €, jūs spēlējat ar 200 €. Pirms izņemšanas jāizspēlē 100 × 35 = 3500 € (parasti tikai bonusa summa, nevis bonuss + iemaksa)." },
+        { "h": "Wagering varianti", "p": "Wagering var attiekties uz: tikai bonusu (zemākais aprēķins), bonuss + iemaksa (augstāks aprēķins). Vienmēr pārbaudiet T&C — \"35x bonuss\" un \"35x (bonuss + iemaksa)\" ir lielas atšķirības." },
+        { "h": "Spēļu kontribūcija", "p": "Sloti parasti kontribū 100%, blackjack 5-10%, ruletes 5%, video pokers 10%. Tas nozīmē, ka spēlējot blackjack ar 35x wagering, faktiski jāizspēlē 10x vairāk (350x). Sloti ir efektīvākais wagering izpildē." }
+      ]
+    },
+    "bezmaksas-griezieni": {
+      "title": "Bezmaksas griezieni (free spins)",
+      "lede": "Bezmaksas griezieni ir kazino bonuss, kur operators dod jums noteiktu skaitu pagriezienu konkrētā slotā par fiksētu likmi (bieži 0.10 € vai 0.20 €). Atšķirībā no depozīta bonusa, jūs nezaudējat savu naudu, ja zaudējat griezienus.",
+      "sections": [
+        { "h": "Welcome free spins", "p": "Vairums IAUI licencētu operatoru piedāvā welcome free spins kā daļu no first-deposit paketes — piem., 100 grieziens uz Starburst pēc 20 € iemaksas." },
+        { "h": "Wagering uz laimestiem", "p": "Lielākais kāps — wagering parasti attiecas uz GRIEZIENU LAIMESTIEM, nevis griezienu vērtību. Ja no 100 free spins laime 50 €, jums tas jāizspēlē 35x = 1750 € pirms izņemšanas." },
+        { "h": "Maksimālais laimests", "p": "Daudzi operatori ierobežo maksimālo summu, ko var izņemt no free spins laimestiem (piem., 100 € maks). Pirms pieņemšanas pārbaudiet T&C." }
+      ]
+    },
+    "bezdepozita": {
+      "title": "Bezdepozīta bonusi",
+      "lede": "Bezdepozīta bonuss (no-deposit bonus) ir maza naudas summa vai bezmaksas griezienu pakete, ko operators dod tikai par reģistrēšanos — bez nepieciešamības veikt iemaksu. Reta, bet ļoti pievilcīga akcija.",
+      "sections": [
+        { "h": "Kāpēc tas ir reti", "p": "No-deposit bonusi ir dārgi operatoram un piesaista \"bonus hunter\" auditoriju. Latvijā tie ir mazāk izplatīti nekā citos tirgos — biežāk redzami kā 5-10 € vai 10-25 free spins. Lielākie bonusi (50+ €) gandrīz nekad nav īsti — vai nu tas ir match bonuss, vai operators bez licences." },
+        { "h": "Stingri T&C", "p": "Wagering parasti augsts (50-100x), maksimālais laimests ir mazs (10-100 €), un jums jāveic vismaz viena reāla iemaksa pirms varat izņemt." },
+        { "h": "Kā atrast īstus", "p": "Mēs pārbaudām un publicējam katru aktuālo bezdepozīta piedāvājumu LV-licencētajos kazino. Skat. mūsu bonusu salīdzinājuma lapu." }
+      ]
+    },
+    "cashback": {
+      "title": "Cashback bonusi",
+      "lede": "Cashback ir naudas atmaksa par neto zaudējumiem noteiktā periodā — piem., 10% no nedēļas zaudējumiem. Atšķirībā no welcome bonusa, cashback ir paredzēts esošajiem klientiem un parasti ir bez wagering vai ar zemu wagering.",
+      "sections": [
+        { "h": "Plusi", "p": "Bez vai ar zemu wagering — vairums LV operatoru cashback maksā kā tīru naudu. Loģiski matemātiski izdevīgāks ilgtermiņā nekā vienreizējais welcome bonuss, ja jūs spēlējat regulāri." },
+        { "h": "Aprēķins", "p": "Operators aprēķina jūsu neto zaudējumus (iemaksas - laimesti - izņemšanas) konkrētā periodā un atmaksā procentu. Daži operatori izslēdz noteiktas spēles (jackpot sloti) no cashback aprēķina." },
+        { "h": "LV piemēri", "p": "Laimz, Optibet un Klondaika piedāvā regulārus cashback piedāvājumus. Detalizēti skat. mūsu operatoru pārskatos." }
+      ]
+    },
+    "high-roller": {
+      "title": "High roller bonusi",
+      "lede": "High roller bonusi ir lieli welcome vai reload bonusi (5 000+ € pakete), kas paredzēti spēlētājiem ar lielām iemaksām. Daudzi operatori piedāvā tos ar īpašu pieprasījumu klientu apkalpošanai.",
+      "sections": [
+        { "h": "Tipiska struktūra", "p": "100% match bonuss līdz 1 000-10 000 € + papildu free spins. Wagering bieži zemāks (25-30x) nekā standarta bonusiem, kas matemātiski padara tos pievilcīgākus, neskatoties uz lielāku summu." },
+        { "h": "VIP integrācija", "p": "High roller bonusi parasti nāk pakā ar VIP programmu — privāts klientu vadītājs, augstākas likmju robežas, ātrākas izņemšanas, ekskluzīvas akcijas." },
+        { "h": "Brīdinājums", "p": "Liels bonuss = liela summa risks. Nekad neuzņemieties iemaksu, kuras zaudējumu jūs nevarat atļauties. Latvijas IAUI licencētie operatori obligāti piedāvā iemaksu un zaudējumu limitu rīkus — izmantojiet tos." }
+      ]
+    }
+  },
+
+  "atbildiga-spele": {
+    "pasatteikuso-registrs": {
+      "title": "Pašatteikušos personu reģistrs (PPR)",
+      "lede": "Pašatteikušos personu reģistrs ir Izložu un azartspēļu uzraudzības inspekcijas (IAUI) uzturēts valsts reģistrs, kurā persona var brīvprātīgi pieteikt sevi izslēgšanai no azartspēlēm. Iekļaušana ir bez maksas un attiecas uz visiem operatoriem, kas darbojas Latvijā.",
+      "sections": [
+        { "h": "Kā pieteikties", "p": "Pieteikšanās notiek elektroniski caur portālu Latvija.lv ar elektronisko parakstu (eID karte, eParaksts) vai bankas autorizāciju (Smart-ID, Swedbank, SEB, Citadele, Luminor). Process aizņem 5-10 minūtes." },
+        { "h": "Cik ilgi tas ilgst", "p": "Varat izvēlēties periodu: 6 mēneši, 1 gads, 2 gadi, 5 gadi vai nenoteikti. Reģistrācija stājas spēkā 24 stundu laikā pēc pieteikuma." },
+        { "h": "Pēc reģistrācijas", "p": "Visi LV-licencētie operatori automātiski atsakās jūs apkalpot. Esoši konti tiek bloķēti, jauni — neapstiprināti reģistrācijas brīdī. Reģistrāciju var izņemt agrāk tikai par tiem periodiem, kas izvēlēti virs noteiktā minimālā ilguma." },
+        { "h": "Saite uz IAUI", "p": "Oficiālā pieteikšanās lapa: iaui.gov.lv. Vienmēr lietojiet oficiālo IAUI portālu — uzmanieties no krāpniecības mājaslapām." }
+      ]
+    },
+    "limitu-iestatisana": {
+      "title": "Limitu iestatīšana kazino",
+      "lede": "Visi IAUI licencētie operatori obligāti piedāvā limitu rīkus, kas ir bezmaksas un viegli pieejami klienta profilā. Limitu iestatīšana ir vienkāršākais veids, kā saglabāt kontroli pār savu spēli.",
+      "sections": [
+        { "h": "Pieejamie limiti", "p": "Iemaksas limits (diennakts/nedēļas/mēneša), zaudējumu limits, sesijas ilguma limits, \"reality check\" atgādinājumi, maksimālā vienreizēja likme. Vairāki operatori arī piedāvā automātisku pašizslēgšanos uz 1-90 dienām." },
+        { "h": "Kā tos iestatīt", "p": "Ielogojaties → \"Konts\" → \"Atbildīga spēle\" vai \"Limiti\". Iestatiet vēlamo skaitli — limits stājas spēkā nekavējoties. Limita palielināšanai parasti ir 24 stundu atvēsināšanas periods, kas ir tīši ieprogrammēts." },
+        { "h": "Ko iestatīt iesācējam", "p": "Sākt ar reālistisku iemaksas limitu (piem., 50 € nedēļā) un sesijas limitu (piem., 1 stunda). Pēc pirmā mēneša pārskatīt — vai palicis komfortabli, vai jāmaina." }
+      ]
+    }
+  },
+
+  "spelu-izstradataji": {
+    "synot": {
+      "title": "Synot",
+      "lede": "Synot Group ir vienīgais nozīmīgais LV-bāzētais spēļu izstrādātājs. Pieejams gandrīz visos LV-licencētajos kazino, populāri ir Book of Secrets, Joker 81 un Burning Hot sērija."
+    },
+    "netent": {
+      "title": "NetEnt",
+      "lede": "NetEnt (Net Entertainment) ir Zviedrijas izstrādātājs ar 25+ gadu pieredzi. Pieder Evolution. Slavenākie sloti: Starburst, Gonzo's Quest, Mega Fortune, Dead or Alive II."
+    },
+    "egt": {
+      "title": "EGT (Euro Games Technology)",
+      "lede": "EGT ir Bulgārijas izstrādātājs, ļoti izplatīts Austrumeiropā un sauszemes kazino. Online klāsts iekļauj klasikas kā Burning Hot, 40 Burning Hot un Shining Crown."
+    },
+    "pragmatic-play": {
+      "title": "Pragmatic Play",
+      "lede": "Pragmatic Play ir maltēzu izstrādātājs ar plašāko spēļu klāstu LV tirgū. Slavenākie: Sweet Bonanza, Wolf Gold, Gates of Olympus, Big Bass Bonanza. Pragmatic Play Live nodrošina arī live kazino spēles."
+    },
+    "microgaming": {
+      "title": "Microgaming",
+      "lede": "Microgaming ir Isle of Man izstrādātājs, kas izveidoja pirmo online kazino programmatūru 1994. gadā. Slavenākais hits — Mega Moolah progresīvais džekpots, kas regulāri izmaksā 10M+ EUR laimestus."
+    },
+    "evolution": {
+      "title": "Evolution",
+      "lede": "Evolution Gaming ir nozares līderis live kazino jomā. Lielākā studija pasaulē — 1000+ live galdi 24/7. Slavenākie: Crazy Time, Lightning Roulette, Monopoly Live, First Person sērija."
+    }
+  }
+}

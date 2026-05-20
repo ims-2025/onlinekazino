@@ -1,0 +1,38 @@
+[
+  {
+    "operatorSlug": "klondaika-kazino",
+    "partner": "enlabs",
+    "sourceUrl": "https://record.enlabspartners.com/_8bWTlPGTDRHVxU5wQ-_6GGNd7ZgqdRLk/1",
+    "goPath": "/go/klondaika-kazino"
+  },
+  {
+    "operatorSlug": "optibet",
+    "partner": "enlabs",
+    "sourceUrl": "https://record.enlabspartners.com/_8bWTlPGTDRHIt6d0GQ4uJ2Nd7ZgqdRLk/1",
+    "goPath": "/go/optibet"
+  },
+  {
+    "operatorSlug": "laimz",
+    "partner": "enlabs",
+    "sourceUrl": "https://record.enlabspartners.com/_8bWTlPGTDREWVWJSBiAXbmNd7ZgqdRLk/1",
+    "goPath": "/go/laimz"
+  },
+  {
+    "operatorSlug": "tonybet",
+    "partner": "direct",
+    "sourceUrl": "https://www.onlinekazino.com",
+    "goPath": "/go/tonybet"
+  },
+  {
+    "operatorSlug": "lvbet-kazino",
+    "partner": "enlabs",
+    "sourceUrl": "https://record.enlabspartners.com/_8bWTlPGTDRHVxU5wQ-_6GGNd7ZgqdRLk/1",
+    "goPath": "/go/lvbet-kazino"
+  },
+  {
+    "operatorSlug": "verde-kazino",
+    "partner": "enlabs",
+    "sourceUrl": "https://record.enlabspartners.com/_8bWTlPGTDRHVxU5wQ-_6GGNd7ZgqdRLk/1",
+    "goPath": "/go/verde-kazino"
+  }
+]
