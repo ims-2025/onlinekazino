@@ -42,6 +42,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/speles/`,                   lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/maksajumi/`,                lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/spelu-izstradataji/`,       lastModified: now, changeFrequency: 'monthly', priority: 0.6 },
+    { url: `${base}/salidzinajumi/`,            lastModified: now, changeFrequency: 'monthly', priority: 0.75 },
     { url: `${base}/raksti/`,                   lastModified: now, changeFrequency: 'daily',   priority: 0.8 },
     { url: `${base}/atbildiga-spele/`,          lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/par-mums/`,                 lastModified: now, changeFrequency: 'yearly',  priority: 0.4 },
@@ -94,11 +95,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   );
 
+  const comparisonPages: MetadataRoute.Sitemap = getComparisonSlugs().map((slug) => ({
+    url: `${base}/salidzinajumi/${slug}/`,
+    lastModified: now,
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
   return [
     ...staticPages,
     ...operatorPages,
     ...articlePages,
     ...categoryPages,
     ...topicPages,
+    ...comparisonPages,
   ];
 }

@@ -75,8 +75,14 @@ const HUBS = [
     copy: 'Synot, NetEnt, EGT, Pragmatic Play — kuri studio dominē Latvijas tirgū.',
   },
   {
-    href: '/atbildiga-spele/',
+    href: '/salidzinajumi/',
     eyebrow: '06',
+    title: 'Salīdzinājumi',
+    copy: 'Operatoru dueles — Optibet vs OlyBet, Klondaika vs Optibet, citi.',
+  },
+  {
+    href: '/atbildiga-spele/',
+    eyebrow: '07',
     title: 'Atbildīga spēle',
     copy: 'Limitu iestatīšana, Pašatteikušos personu reģistrs un atbalsta organizācijas.',
   },
