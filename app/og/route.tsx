@@ -19,7 +19,8 @@ import { SITE } from '@/lib/site';
 
 export const runtime = 'edge';
 export const dynamic = 'force-static';
-export const contentType = 'image/png';
+// Note: ImageResponse sets the Content-Type header itself; a `contentType`
+// export on a regular route handler is rejected by Next 14's type checker.
 
 const PALETTE = {
   paper: '#FAF7F0',
