@@ -44,9 +44,20 @@ async function download(slug, url) {
   const ext = extFromUrl(url);
   const targetName = `${slug}${ext}`;
   const targetPath = resolve(PUBLIC_DIR, targetName);
+  // Send a realistic browser request — the old WP install has hotlink/UA
+  // protection and 403s anything that looks scripted.
   const res = await fetch(url, {
     redirect: 'follow',
-    headers: { 'User-Agent': 'Mozilla/5.0 (logo-downloader)' },
+    headers: {
+      'User-Agent':
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+      'Accept-Language': 'en-US,en;q=0.9,lv;q=0.8',
+      'Referer': 'https://www.onlinekazino.com/',
+      'Sec-Fetch-Dest': 'image',
+      'Sec-Fetch-Mode': 'no-cors',
+      'Sec-Fetch-Site': 'same-origin',
+    },
   });
   if (!res.ok) {
     throw new Error(`HTTP ${res.status} for ${url}`);
