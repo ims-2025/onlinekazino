@@ -9,6 +9,18 @@ import { getTopicSlugs } from '@/lib/topics';
 import { SITE } from '@/lib/site';
 
 /**
+ * Safe Date parser. Some WP records (draft posts that were never published)
+ * have `0000-00-00 00:00:00` as their modified date, which becomes an Invalid
+ * Date — `.toISOString()` then throws RangeError and kills the sitemap build.
+ * Fall back to `now` for anything we can't parse cleanly.
+ */
+function safeDate(input: string | undefined, fallback: Date): Date {
+  if (!input) return fallback;
+  const d = new Date(input);
+  return Number.isNaN(d.getTime()) ? fallback : d;
+}
+
+/**
  * Static sitemap generated at build time. Includes:
  *   - homepage + hub pages + legal pages
  *   - every operator review
@@ -42,14 +54,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const operatorPages: MetadataRoute.Sitemap = getOperators().map((op) => ({
     url: `${base}/kazino/${op.slug}/`,
-    lastModified: op.modifiedAt ? new Date(op.modifiedAt) : now,
+    lastModified: safeDate(op.modifiedAt, now),
     changeFrequency: 'monthly' as const,
     priority: 0.85,
   }));
 
   const articlePages: MetadataRoute.Sitemap = getArticles().map((a) => ({
     url: `${base}/raksti/${a.slug}/`,
-    lastModified: a.modifiedAt ? new Date(a.modifiedAt) : now,
+    lastModified: safeDate(a.modifiedAt, now),
     changeFrequency: 'monthly' as const,
     priority: 0.6,
   }));
