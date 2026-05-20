@@ -30,13 +30,25 @@ export const SITE = {
       name: 'Aldis Skuja',
       role: 'Galvenais redaktors',
       bio: 'Aldis Skuja ir azartspēļu industrijas analītiķis ar vairāk nekā 12 gadu pieredzi Baltijas tirgū. Specializējas regulējumu un licencēšanas jautājumos.',
+      longBio:
+        'Aldis savu karjeru azartspēļu jomā sāka 2013. gadā, sākotnēji strādājot Igaunijas operatora compliance komandā un vēlāk pārejot uz neatkarīgu industrijas analīzi. Viņš ir publicējis dažādās Baltijas finanšu un biznesa publikācijās par regulējumu attīstību, IAUI lēmumiem un Baltijas valstu salīdzinošajām politikām. Viņa redakcijas darbs OnlineKazino.com ietver visu pārskatu galīgo apstiprināšanu, faktu pārbaudi un partneru attiecību nodalīšanu no redakcijas lēmumiem.',
+      role_yearsExperience: 12,
+      specialties: ['Regulējumi un licences', 'IAUI un Baltijas tirgi', 'Editorial standards', 'Atbildīga spēle'],
       url: 'https://www.onlinekazino.com/autori/aldis-skuja/',
+      wpAuthorId: 'dt_admin',
+      email: 'aldis@onlinekazino.com',
     },
     'anna-jansons': {
       name: 'Anna Jansons',
       role: 'Vecākā satura autore',
       bio: 'Anna Jansons raksta par online kazino, bonusiem un spēļu stratēģijām kopš 2018. gada. Padziļinātās zināšanas par maksājumu metodēm un atbildīgu spēli Latvijā.',
+      longBio:
+        'Anna raksta par online kazino, bonusiem un spēļu mehānikām kopš 2018. gada. Pirms pievienošanās OnlineKazino.com viņa strādāja kā freelance autors vairākos LV finanšu un izklaides medijos. Annas darba galvenais fokuss ir maksājumu metožu detalizēta testēšana (Swedbank Link, SEB, Trustly, Revolut), wagering nosacījumu matemātika un atbildīgas spēles izglītojošais saturs. Viņa raksta pārsvarā latviešu valodā un veic visu mūsu operatoru klientu apkalpošanas un izņemšanu testēšanu.',
+      role_yearsExperience: 8,
+      specialties: ['Maksājumu metodes Latvijā', 'Welcome bonusi un wagering', 'Spēļu stratēģijas', 'Atbildīga spēle'],
       url: 'https://www.onlinekazino.com/autori/anna-jansons/',
+      wpAuthorId: 'annab',
+      email: 'anna@onlinekazino.com',
     },
   },
 } as const;
@@ -53,6 +65,7 @@ export const NAV_PRIMARY = [
 export const NAV_FOOTER = {
   company: [
     { href: '/par-mums/', label: 'Par mums' },
+    { href: '/autori/', label: 'Autori' },
     { href: '/redakcionala-politika/', label: 'Redakcionālā politika' },
     { href: '/metodologija/', label: 'Vērtēšanas metodoloģija' },
     { href: '/kontakti/', label: 'Kontakti' },

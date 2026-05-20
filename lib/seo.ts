@@ -11,6 +11,12 @@ export interface SeoInput {
   description: string;
   path: string; // canonical path beginning with `/`
   image?: string;
+  /** Inputs to the dynamic OG renderer at `/og`. Ignored if `image` is set. */
+  og?: {
+    eyebrow?: string;
+    rating?: string | number;
+    meta?: string;
+  };
   type?: 'website' | 'article' | 'profile';
   publishedTime?: string;
   modifiedTime?: string;
@@ -18,11 +24,21 @@ export interface SeoInput {
   noindex?: boolean;
 }
 
+/**
+ * Build the dynamic OG image URL by passing title + optional eyebrow/rating
+ * to `/og`. Resolved against SITE.url so social crawlers see an absolute URL.
+ */
+function buildOgUrl(input: SeoInput): string {
+  const params = new URLSearchParams({ title: input.title });
+  if (input.og?.eyebrow) params.set('eyebrow', input.og.eyebrow);
+  if (input.og?.rating !== undefined) params.set('rating', String(input.og.rating));
+  if (input.og?.meta) params.set('meta', input.og.meta);
+  return `${SITE.url}/og?${params.toString()}`;
+}
+
 export function buildMetadata(input: SeoInput): Metadata {
   const url = new URL(input.path, SITE.url).toString();
-  const ogImage =
-    input.image ??
-    `${SITE.url}/og/default.png`; // generated at build time, fallback included
+  const ogImage = input.image ?? buildOgUrl(input);
 
   return {
     title: input.title,

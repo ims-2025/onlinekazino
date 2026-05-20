@@ -38,6 +38,10 @@ export async function generateMetadata({ params }: Props) {
     authors: [
       AUTHOR_SLUGS[a.author] === 'anna-jansons' ? 'Anna Jansons' : 'Aldis Skuja',
     ],
+    og: {
+      eyebrow: a.categories[0]?.label ?? 'Raksts',
+      meta: AUTHOR_SLUGS[a.author] === 'anna-jansons' ? 'Anna Jansons' : 'Aldis Skuja',
+    },
   });
 }
 

@@ -17,6 +17,7 @@ export const metadata = buildMetadata({
   ),
   path: '/',
   type: 'website',
+  og: { eyebrow: 'Latvijas premium kazino ceļvedis' },
 });
 
 const HOMEPAGE_FAQ = [

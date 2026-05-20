@@ -1,0 +1,143 @@
+{
+  "_meta": {
+    "description": "Net-new operator records appended onto data/operators.json by scripts/apply-overrides.mjs. Use this file for operators not present in the WP XML export (e.g. those acquired post-export, or brands the WP install never covered). Existing operators are still handled by operators-overrides.json.",
+    "lastEdited": "2026-05-20"
+  },
+  "operators": [
+    {
+      "slug": "11lv",
+      "name": "11.lv",
+      "status": "publish",
+      "keep": true,
+      "isMercuryDemo": false,
+      "ratings": { "trust": 4.5, "games": 4.5, "bonus": 4, "customer": 4.5, "overall": 4.4 },
+      "affiliate": { "url": "https://www.11.lv", "partner": "direct", "status": "pending-partner-link" },
+      "bonus": {
+        "shortDesc": "100 % depozīta bonuss līdz <strong>100 €</strong> + <strong>11 bezmaksas griezieni</strong>",
+        "termsDesc": "Pirmā depozīta bonuss jaunajiem klientiem no 10 €. Wagering 30× bonusa summai. Bonuss derīgs 30 dienas no piešķiršanas brīža.",
+        "detailedTc": "Tikai jauniem klientiem, 18+. Pilnie T&C pieejami operatora mājaslapā.",
+        "buttonNotice": "Tikai jauniem spēlētājiem 18+"
+      },
+      "facets": {
+        "licences": ["IAUI (Latvija)"],
+        "depositMethods": ["Swedbank Link", "SEB", "Citadele", "Luminor", "Visa", "Mastercard"],
+        "withdrawalMethods": ["Swedbank Link", "SEB", "Citadele", "Visa", "Mastercard"],
+        "currencies": ["EUR"],
+        "languages": ["Latviešu", "Krievu"],
+        "software": ["NetEnt", "Pragmatic Play", "Microgaming", "Play'n GO", "Synot", "Evolution"],
+        "devices": ["Desktop", "Mobile"],
+        "restrictedCountries": [],
+        "categories": ["Online kazino", "Sporta likmes"],
+        "established": "2012",
+        "owner": "SIA LSAB Latvija"
+      },
+      "featuredImage": "/operators/11lv.svg",
+      "excerpt": "11.lv ir viens no senākajiem IAUI licencētiem online kazino Latvijā — darbojas kopš 2012. gada. Plašs spēļu klāsts (3000+ slotu) ar visu galveno LV banku integrāciju un 24/7 latviešu valodas atbalstu.",
+      "content": "<p>11.lv ir LSAB Latvija pārvaldīts online kazino, kas saņēmis IAUI licenci 2012. gadā — viens no pirmajiem LV-licencētiem operatoriem online tirgū. Šis senums veido tā galveno priekšrocību: 12+ gadu darbības vēsture nodrošina pierādītu finansiālo stabilitāti un izņemšanu uzticamību.</p><h2 id='licence'>Licence un drošība</h2><p>11.lv darbojas ar IAUI licenci nepārtraukti kopš 2012. gada. SIA LSAB Latvija ir reģistrēta Latvijā un ir Pašatteikušos personu reģistra integrēta. SSL/TLS šifrēšana un sertificēts RNG ir uz vietas. Mūsu uzticamības vērtējumam 12 gadu nepārtrauktu darbību ir augsts svars.</p><h2 id='speles'>Spēļu klāsts</h2><p>~3000 slotu no NetEnt, Pragmatic Play, Microgaming, Play'n GO un Synot. Live kazino caur Evolution ar daļēju LV dīleru pārklājumu. Sporta likmes ir pieejamas blakus kazino sadaļā, kas ir reti starp tikai-LV brendiem (lielākā daļa fokusējas tikai uz kazino).</p><h2 id='bonuss'>Welcome bonuss</h2><p><strong>100 % bonuss līdz 100 €</strong> + <strong>11 bezmaksas griezieni</strong> (zīmola motīva atsauce). Wagering 30× bonusa summai — labāks par tirgus vidējo (35×), bet bonusa griests ir mazāks nekā konkurentiem. Labākais izvēles iesācējiem ar mazu pirmo iemaksu.</p><h2 id='maksajumi'>Maksājumu metodes</h2><p>Visas LV bankas (Swedbank Link, SEB, Citadele, Luminor) un kartes. Iemaksu minimums 10 €. Izņemšanas vidēji 24-48 stundas. Nav e-makšu (Skrill, Neteller) atbalsta.</p><h2 id='mobilais'>Mobilā pieredze</h2><p>Responsīvs web bez native lietotnes. UI rāda gadu vecumu — funkcionāls, bet bez moderna polējuma. Visas funkcijas pieejamas mobilā skatā.</p><h2 id='atbalsts'>Klientu atbalsts</h2><p>24/7 tiešraides čats latviešu un krievu valodā. Vidējais atbildes laiks mūsu testos — 1 minūte 30 sekundes. E-pasta atbildes parasti tās pašas dienas laikā.</p><h2 id='plusi-minusi'>Plusi un mīnusi</h2><h3>Plusi</h3><ul><li>12+ gadu nepārtraukta IAUI licence (uzticamības rekords)</li><li>Sporta likmes + kazino vienā kontā</li><li>24/7 LV atbalsts</li><li>Wagering 30× (zem tirgus vidējā)</li></ul><h3>Mīnusi</h3><ul><li>Vecāks UI nekā konkurentiem</li><li>Nav native mobilās lietotnes</li><li>Mazāks bonusa griests</li><li>Neatbalsta e-maksus vai kriptovalūtu</li></ul>",
+      "publishedAt": "2026-05-20",
+      "modifiedAt": "2026-05-20"
+    },
+
+    {
+      "slug": "betsafe-lv",
+      "name": "Betsafe LV",
+      "status": "publish",
+      "keep": true,
+      "isMercuryDemo": false,
+      "ratings": { "trust": 4.5, "games": 4.5, "bonus": 4, "customer": 4, "overall": 4.25 },
+      "affiliate": { "url": "https://www.betsafe.lv/lv/casino", "partner": "direct", "status": "pending-partner-link" },
+      "bonus": {
+        "shortDesc": "100 % depozīta bonuss līdz <strong>200 €</strong> + <strong>50 bezmaksas griezieni</strong>",
+        "termsDesc": "Pirmā depozīta bonuss jaunajiem klientiem no 10 €. Wagering 35× bonusam. Bezmaksas griezieni uz Starburst, derīgi 7 dienas.",
+        "detailedTc": "Tikai jauniem klientiem, 18+. Pilnie T&C pieejami operatora mājaslapā.",
+        "buttonNotice": "Tikai jauniem spēlētājiem 18+"
+      },
+      "facets": {
+        "licences": ["IAUI (Latvija)"],
+        "depositMethods": ["Swedbank Link", "SEB", "Citadele", "Luminor", "Visa", "Mastercard", "Skrill", "Neteller", "Apple Pay"],
+        "withdrawalMethods": ["Swedbank Link", "SEB", "Citadele", "Visa", "Mastercard", "Skrill", "Neteller"],
+        "currencies": ["EUR"],
+        "languages": ["Latviešu", "Angļu", "Krievu"],
+        "software": ["NetEnt", "Pragmatic Play", "Microgaming", "Play'n GO", "Yggdrasil", "Evolution", "Pragmatic Play Live"],
+        "devices": ["Desktop", "Mobile"],
+        "restrictedCountries": [],
+        "categories": ["Online kazino", "Sporta likmes"],
+        "established": "2006 (LV: 2018)",
+        "owner": "Betsson AB"
+      },
+      "featuredImage": "/operators/betsafe.svg",
+      "excerpt": "Betsafe LV ir Betsson grupas zīmols ar IAUI licenci Latvijā kopš 2018. gada. Pieder pie Betsson AB — vienas no Eiropas lielākajām azartspēļu kompānijām. Casino + sporta likmju kombinēts piedāvājums ar plašu starptautisko spēļu klāstu.",
+      "content": "<p>Betsafe ir Betsson AB (Stockholm-listed) starptautiskais zīmols, kas Latvijā darbojas ar IAUI licenci kopš 2018. gada. Betsson grupa pārvalda virkni brendu, tostarp Betsson, Betsafe un Tonybet, dalot kopīgu infrastruktūru — kas Betsafe spēlētājiem nozīmē piekļuvi liela tīkla resursiem ar lokālu LV atbilstību.</p><h2 id='licence'>Licence un drošība</h2><p>Betsafe LV darbojas ar IAUI licenci. Mātesuzņēmums Betsson AB ir publiski tirgots Stokholmas biržā, kas nodrošina finanšu pārskatu pārredzamību — papildu uzticamības signāls salīdzinājumā ar privāti turētajiem konkurentiem. SSL, sertificēti RNG, PPR integrācija ir uz vietas.</p><h2 id='speles'>Spēļu klāsts</h2><p>~2500 slotu no NetEnt, Pragmatic Play, Microgaming, Play'n GO, Yggdrasil un citiem. Live kazino caur Evolution un Pragmatic Play Live. Spēles ir labi sakārtotas un kategorizētas — operatora UI ir starp tīrākajiem LV tirgū. Sporta likmes ir Betsafe vēsturiski spēcīga sadaļa.</p><h2 id='bonuss'>Welcome bonuss</h2><p><strong>100 % bonuss līdz 200 €</strong> + <strong>50 bezmaksas griezieni</strong> uz Starburst. Wagering 35× bonusam — tirgus vidējais. Bezmaksas griezieni derīgi 7 dienas, kas ir saspringts grafiks salīdzinājumā ar 30 dienām Optibet.</p><h2 id='maksajumi'>Maksājumu metodes</h2><p>Plašākais maksājumu klāsts starp visiem LV operatoriem: visas LV bankas, kartes, Skrill, Neteller un Apple Pay. Iemaksu minimums 10 €. Izņemšanas standartlaiks 24-48 h, tūlītējās izņemšanas uz Skrill un Neteller pēc KYC apstiprināšanas.</p><h2 id='mobilais'>Mobilā pieredze</h2><p>Responsīvs web ar augstu kvalitāti. Native lietotnes nav (tas ir trūkums), bet PWA-style mobilā vietne darbojas vienmērīgi. Apple Pay integrācija mobilā kasē atvieglo iemaksu.</p><h2 id='atbalsts'>Klientu atbalsts</h2><p>24/7 tiešraides čats latviešu, krievu un angļu valodā. Vidējais atbildes laiks mūsu testos — 2 minūtes (centralizēta Betsson komanda, kas apkalpo vairākus brendus). E-pasta atbildes 4-8 stundu laikā.</p><h2 id='plusi-minusi'>Plusi un mīnusi</h2><h3>Plusi</h3><ul><li>Betsson grupas finanšu stabilitāte (publiski tirgots uzņēmums)</li><li>Plašākais maksājumu metožu klāsts LV tirgū</li><li>Apple Pay atbalsts</li><li>Skrill un Neteller pieejamība (reti LV)</li><li>Tīrs un mūsdienīgs UI</li></ul><h3>Mīnusi</h3><ul><li>Welcome bonusa wagering tirgus vidējais (35×)</li><li>Bezmaksas griezieni derīgi tikai 7 dienas</li><li>Nav native mobilās lietotnes</li><li>Klientu atbalsts centralizēts (ne LV)</li></ul>",
+      "publishedAt": "2026-05-20",
+      "modifiedAt": "2026-05-20"
+    },
+
+    {
+      "slug": "luckybet",
+      "name": "Luckybet",
+      "status": "publish",
+      "keep": true,
+      "isMercuryDemo": false,
+      "ratings": { "trust": 4, "games": 4, "bonus": 4.5, "customer": 4, "overall": 4.1 },
+      "affiliate": { "url": "https://luckybet.lv", "partner": "direct", "status": "pending-partner-link" },
+      "bonus": {
+        "shortDesc": "Līdz <strong>200 € cashback</strong> + <strong>100 bezmaksas griezieni</strong> pirmajā nedēļā",
+        "termsDesc": "Pirmās nedēļas zaudējumu cashback 50 % līdz 200 €. Bezmaksas griezieni piešķiramas pēc pirmās iemaksas (min. 10 €). Wagering cashback bonusam 25×.",
+        "detailedTc": "Tikai jauniem klientiem, 18+. Pilnie T&C pieejami operatora mājaslapā.",
+        "buttonNotice": "Tikai jauniem spēlētājiem 18+"
+      },
+      "facets": {
+        "licences": ["IAUI (Latvija)"],
+        "depositMethods": ["Swedbank Link", "SEB", "Citadele", "Luminor", "Visa", "Mastercard"],
+        "withdrawalMethods": ["Swedbank Link", "SEB", "Citadele", "Visa", "Mastercard"],
+        "currencies": ["EUR"],
+        "languages": ["Latviešu", "Krievu"],
+        "software": ["NetEnt", "Pragmatic Play", "Play'n GO", "Synot", "EGT", "Evolution"],
+        "devices": ["Desktop", "Mobile"],
+        "restrictedCountries": [],
+        "categories": ["Online kazino"],
+        "established": "2019",
+        "owner": "SIA Luckybet"
+      },
+      "featuredImage": "/operators/luckybet.svg",
+      "excerpt": "Luckybet ir vietējais LV operators ar IAUI licenci, kas izceļas ar agresīvu cashback modeli un Synot/EGT spēļu klāstu. Maza, bet kvalitatīva platforma ar fokusu uz vienkāršu, ātru pieredzi.",
+      "content": "<p>Luckybet ir SIA Luckybet pārvaldīts online kazino, kas darbojas Latvijā ar IAUI licenci kopš 2019. gada. Tas pozicionē sevi kā vietējais alternatīvs lielajiem operatoriem — mazāks katalogs, vienkāršāks UI, agresīvāka cashback politika regulāriem spēlētājiem.</p><h2 id='licence'>Licence un drošība</h2><p>Luckybet darbojas ar IAUI licenci. SIA Luckybet ir reģistrēta Rīgā. SSL šifrēšana, sertificēti RNG, PPR integrācija. Mātesuzņēmuma profils ir mazāk pazīstams nekā Entain vai Betsson, kas mūsu uzticamības vērtējumam dod nedaudz zemāku, bet joprojām pozitīvu rezultātu.</p><h2 id='speles'>Spēļu klāsts</h2><p>~1500 slotu — kompakts, bet labi kuratēts klāsts. Spēcīga Synot un EGT integrācija (līdzīgi kā Klondaika), kas dod Austrumeiropas slotu fanim plašu izvēli. NetEnt un Pragmatic Play pārstāv starptautisko portfeli. Live kazino caur Evolution.</p><h2 id='bonuss'>Welcome bonuss</h2><p>Luckybet atpazīstamākā iezīme ir <strong>cashback welcome modelis</strong>: pirmajā nedēļā pēc reģistrēšanās operators atmaksā 50 % no jūsu neto zaudējumiem (likmes mīnus laimesti) līdz 200 €. Wagering cashback summai — 25×, kas ir izcili zems. Papildus: 100 bezmaksas griezieni pēc pirmās iemaksas.</p><p>Matemātiski šis modelis ir izdevīgāks regulāriem spēlētājiem nekā tradicionālais match bonus, kā mēs jau analizējām <a href='/raksti/labakie-kazino-bonusi-2025-gada-salidzinosa-tabula/'>bonusu salīdzinājuma rakstā</a>.</p><h2 id='maksajumi'>Maksājumu metodes</h2><p>Pamata LV bankas (Swedbank Link, SEB, Citadele, Luminor) un kartes. Bez e-maksu vai kriptovalūtas atbalsta — tipiska \"tikai vietējais\" konfigurācija. Iemaksu minimums 10 €. Izņemšanas vidēji 24-48 stundas.</p><h2 id='mobilais'>Mobilā pieredze</h2><p>Responsīvs web ar tīru, vienkāršu navigāciju. Nav native lietotnes. UI vienkāršība padara to par labu izvēli iesācējiem, kuri vēlas izvairīties no lielo operatoru pārmēru daudzajām spēļu kategorijām.</p><h2 id='atbalsts'>Klientu atbalsts</h2><p>Tiešraides čats latviešu un krievu valodā darba laikā 08:00-24:00. Vidējais atbildes laiks 2-3 minūtes. E-pasta atbildes 6-12 stundu laikā. 24/7 atbalsta nav, kas ir trūkums.</p><h2 id='plusi-minusi'>Plusi un mīnusi</h2><h3>Plusi</h3><ul><li>Cashback welcome modelis (matemātiski izdevīgs)</li><li>Zems wagering (25×)</li><li>Spēcīgs Synot un EGT klāsts</li><li>Vienkāršs, iesācējiem draudzīgs UI</li><li>Vietējais brand ar IAUI licenci</li></ul><h3>Mīnusi</h3><ul><li>Mazāks spēļu klāsts (~1500)</li><li>Klientu atbalsts ne 24/7</li><li>Nav e-maksu vai kriptovalūtas atbalsta</li><li>Mazāka domēna autoritāte nekā lielajiem operatoriem</li></ul>",
+      "publishedAt": "2026-05-20",
+      "modifiedAt": "2026-05-20"
+    },
+
+    {
+      "slug": "aladins",
+      "name": "Aladins.lv",
+      "status": "publish",
+      "keep": true,
+      "isMercuryDemo": false,
+      "ratings": { "trust": 3.5, "games": 4.5, "bonus": 4.5, "customer": 3.5, "overall": 4.0 },
+      "affiliate": { "url": "https://aladins.lv", "partner": "direct", "status": "pending-partner-link" },
+      "bonus": {
+        "shortDesc": "<strong>200 % bonuss līdz 200 €</strong> + <strong>200 bezmaksas griezieni</strong>",
+        "termsDesc": "Pirmā depozīta bonuss jaunajiem klientiem no 20 €. Wagering 40× bonusa summai. Bezmaksas griezieni piešķiramas 7 dienu laikā.",
+        "detailedTc": "Tikai jauniem klientiem, 18+. Pilnie T&C pieejami operatora mājaslapā.",
+        "buttonNotice": "Tikai jauniem spēlētājiem 18+"
+      },
+      "facets": {
+        "licences": ["IAUI (Latvija)"],
+        "depositMethods": ["Swedbank Link", "SEB", "Citadele", "Visa", "Mastercard"],
+        "withdrawalMethods": ["Swedbank Link", "SEB", "Citadele", "Visa", "Mastercard"],
+        "currencies": ["EUR"],
+        "languages": ["Latviešu", "Angļu", "Krievu"],
+        "software": ["NetEnt", "Pragmatic Play", "Play'n GO", "Yggdrasil", "Quickspin", "Hacksaw Gaming", "Evolution"],
+        "devices": ["Desktop", "Mobile"],
+        "restrictedCountries": [],
+        "categories": ["Online kazino"],
+        "established": "2024",
+        "owner": "SIA Aladins Latvia"
+      },
+      "featuredImage": "/operators/aladins.svg",
+      "excerpt": "Aladins.lv ir jaunākais IAUI licencēts operators LV tirgū — sākts 2024. gadā. Spēcīgs sākums ar agresīvu welcome bonusu, modernākais UI un Hacksaw Gaming kā retā integrācija.",
+      "content": "<p>Aladins.lv saņēma IAUI licenci 2024. gada beigās un ir jaunākais oficiāli licencēts operators Latvijas tirgū. To pārvalda SIA Aladins Latvia. Operatoru pozicionē sevi ar Tūkstošs un viena nakts tematiku — UI dizains, banneri un bonusi spēlē uz šo motīvu.</p><h2 id='licence'>Licence un drošība</h2><p>Aladins.lv darbojas ar derīgu IAUI licenci. SIA Aladins Latvia ir reģistrēta Latvijā. SSL šifrēšana, sertificēti RNG. Tā kā operators ir jauns, finansiālā stabilitāte vēl nav tirgū pierādīta tādā mērā kā Optibet vai Klondaika — mūsu uzticamības vērtējums atspoguļo šo \"jaunā tirgus dalībnieka\" diskontu.</p><h2 id='speles'>Spēļu klāsts</h2><p>Aladins.lv ir izvēlējušies kvalitāti pār kvantitāti. ~1500 slotu, bet katalogs iekļauj reti redzamus izstrādātājus — <strong>Hacksaw Gaming</strong> (Wanted Dead or a Wild fame) un <strong>Quickspin</strong> ir integrēti, kas ir grūti atrast citos LV operatoros. NetEnt, Pragmatic Play un Play'n GO pārstāv mainstream. Live kazino caur Evolution.</p><h2 id='bonuss'>Welcome bonuss</h2><p>Visagresīvākais bonuss LV tirgū kā jauns dalībnieks: <strong>200 % līdz 200 €</strong> (t.i., iemaksā 100 €, spēlē ar 300 €) + <strong>200 bezmaksas griezieni</strong>. Wagering ir augstāks — 40× bonusa summai, kas matemātiski kompensē lielāku bonusa nominālvērtību.</p><p>Welcome paketi ir jāizmanto 30 dienu laikā, bezmaksas griezieni derīgi 7 dienas.</p><h2 id='maksajumi'>Maksājumu metodes</h2><p>Pamata LV bankas un kartes. Trūkst Luminor — gaidāms, ka jaunāka operatora integrāciju karte vēl nav pilnībā pabeigta. Bez e-maksu vai kriptovalūtas atbalsta. Iemaksu minimums 20 €.</p><h2 id='mobilais'>Mobilā pieredze</h2><p>Modernākais UI starp visiem LV operatoriem (jauns gaiss). Responsīvs web, kas izstrādāts mobile-first. Native lietotnes nav. Tematiskais dizains (zelta + zila gradients) izceļas no LV operatoru standarta.</p><h2 id='atbalsts'>Klientu atbalsts</h2><p>Tiešraides čats latviešu, angļu un krievu valodā darba laikā 09:00-23:00. 24/7 atbalsta nav. Mūsu testos vidējais atbildes laiks 3-5 minūtes — lēnāks nekā konkurenti, bet operatoru komandai vēl ir laiks attīstīties. E-pasta atbildes 12-24 stundu laikā.</p><h2 id='plusi-minusi'>Plusi un mīnusi</h2><h3>Plusi</h3><ul><li>Visagresīvākais welcome bonuss LV (200% līdz 200€)</li><li>Hacksaw Gaming un Quickspin retā integrācija</li><li>Mūsdienīgākais UI</li><li>Spēcīga mobilā pieredze</li><li>Jauna IAUI licence</li></ul><h3>Mīnusi</h3><ul><li>Bez tirgus pierādītas vēstures (operators no 2024)</li><li>Wagering augsts (40×)</li><li>Klientu atbalsts ne 24/7</li><li>Trūkst Luminor un e-maksu</li><li>Atbalsta atbildes lēnākas nekā konkurentiem</li></ul>",
+      "publishedAt": "2026-05-20",
+      "modifiedAt": "2026-05-20"
+    }
+  ]
+}

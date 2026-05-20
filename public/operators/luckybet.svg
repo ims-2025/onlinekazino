@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Luckybet">
+  <defs>
+    <linearGradient id="lb-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7E1B2A"/>
+      <stop offset="100%" stop-color="#3F0B14"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="14" fill="url(#lb-bg)"/>
+  <g font-family="'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
+    <text x="60" y="58" font-size="22" font-weight="900" fill="#F2C94C" letter-spacing="-0.5">Lucky</text>
+    <text x="60" y="86" font-size="22" font-weight="900" fill="#fff" letter-spacing="-0.5">bet</text>
+  </g>
+</svg>

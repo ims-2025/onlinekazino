@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "description": "Head-to-head operator comparisons. Each key is the URL slug under /salidzinajumi/. `left` and `right` reference operator slugs from data/operators.json. The verdict + intro are rendered above the auto-generated comparison table.",
+    "lastEdited": "2026-05-20"
+  },
+  "optibet-vs-olybet": {
+    "left": "optibet",
+    "right": "olybet",
+    "title": "Optibet vs OlyBet — Kurš ir labākais LV online kazino 2026?",
+    "intro": "Optibet un OlyBet ir divi no lielākajiem un atzītākajiem online kazino operatoriem Latvijā — abi ar IAUI licenci, abi ar nopietnu Baltijas vēsturi un abi piedāvā kombinētu kazino + sporta likmju paketi. Šis ir tipiskākais izvēles dilema LV spēlētājam, kuram svarīgs ir gan kazino, gan sports. Mēs salīdzinām abus operatorus pēc piecām dimensijām, kuras nosaka mūsu redakcijas vērtējumu.",
+    "verdict": "Optibet uzvarēja kopējā ranžējumā (4.75 vs 4.15) galvenokārt pateicoties zemākam wagering (25× vs 30×), native mobilajām lietotnēm Android+iOS un ātrākām izņemšanām (vidēji 6 h vs 24-48 h). OlyBet uzvar nišu kategorijās: poķera istaba ir pilnvērtīga (reta LV), Apple Pay integrācija un 5 valodu atbalsts. Iesakām Optibet vairumam spēlētāju, OlyBet — ja poķeris ir prioritāte.",
+    "winner": "optibet"
+  },
+  "optibet-vs-klondaika": {
+    "left": "optibet",
+    "right": "klondaika-kazino",
+    "title": "Optibet vs Klondaika — Starptautiskais milzis pret vietējo veterānu",
+    "intro": "Klondaika un Optibet pārstāv divus atšķirīgus LV kazino tirgus arhetipus. Klondaika ir vietējais veterāns ar sauszemes kazino tīklu kopš 2002. gada un online platformu, kas dziļi integrēta vietējā kultūrā. Optibet ir Entain Group starptautiskā pieeja Latvijas tirgum — lielāks katalogs, mūsdienīgāka tehnoloģija, plašākas maksājumu opcijas. Abi dabūja mūsu augstāko kopējo vērtējumu (4.75/5), tāpēc izvēle nāks no jūsu prioritātēm.",
+    "verdict": "Šī ir tehniska neizšķiršana — abi 4.75/5. Optibet uzvar tehnoloģiskā plašumā (3000+ slotu, native mobilās lietotnes, plašāks maksājumu klāsts), Klondaika uzvar vietējā autentiskumā un unikālajā bezriska likmju formātā. Iesakām Klondaika spēlētājiem, kuri vērtē Synot+EGT slotus un vietēja zīmola uzticamību; Optibet — spēlētājiem ar plašākām preferencēm.",
+    "winner": "tie"
+  },
+  "olybet-vs-laimz": {
+    "left": "olybet",
+    "right": "laimz",
+    "title": "OlyBet vs Laimz — Pilna paka pret kazino tīrs spēlētājs",
+    "intro": "OlyBet un Laimz pārstāv divus dažādus zīmolus, taču abi darbojas LV tirgū ar Baltijas pieredzi. OlyBet (Olympic Entertainment Group) piedāvā pilnu paketi: kazino + sporta likmes + poķera istaba. Laimz (Entain Group) ir tīri kazino-fokusēts zīmols ar agresīvu naudas atmaksas modeli. Salīdzinājums ir ne tik daudz par operatoru kvalitāti, cik par jūsu spēles stilu.",
+    "verdict": "Atšķirība atspoguļo lietotāja stratēģiju. OlyBet labāks daudzpusīgam spēlētājam, kuram patīk pārslēgties starp kazino, sportu un poķeri vienā kontā. Laimz labāks tīram slotu un live kazino spēlētājam, kuram patīk cashback-balstīta bonusu sistēma. Mēs vērtējam Laimz nedaudz augstāk (4.4 vs 4.15) tieši kazino kategorijā, bet OlyBet izceļas multifunkcionalitātē.",
+    "winner": "laimz"
+  },
+  "optibet-vs-11lv": {
+    "left": "optibet",
+    "right": "11lv",
+    "title": "Optibet vs 11.lv — Lielākais Baltijas operators pret IAUI veterānu",
+    "intro": "Optibet un 11.lv ir abi vieni no IAUI licencētiem operatoriem ar visilgāko vēsturi LV tirgū — Optibet kopš 2011., 11.lv kopš 2012. gada. Abi piedāvā kombinētu kazino + sporta likmju paketi. Atšķirības ir mērogos, tehnoloģijā un mūsdienīgumā: Optibet izvērsies starptautiskā Entain Group platforma, 11.lv saglabājis vietējās identitātes raksturīgu UI un piedāvājumu.",
+    "verdict": "Optibet uzvar visās tehnoloģiskajās dimensijās — native mobilās lietotnes, ātrākas izņemšanas, modernāks UI, plašāks katalogs. 11.lv saglabā priekšrocību gadu nepārtrauktas pieredzes ziņā un labākā wagering (30× vs Optibet 25×, kas faktiski padara Optibet izdevīgāku). Iesakām Optibet visiem, izņemot tradicionalistiem, kuri vērtē vietēja zīmola autentiskumu.",
+    "winner": "optibet"
+  }
+}

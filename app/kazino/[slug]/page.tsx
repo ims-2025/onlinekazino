@@ -31,6 +31,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props) {
   const op = getOperatorBySlug(params.slug);
   if (!op) return {};
+  const updated = (op.modifiedAt ?? op.publishedAt)?.slice(0, 7); // YYYY-MM
   return buildMetadata({
     title: `${op.name} apskats 2026 — bonusi, spēles, atsauksmes`,
     description: trimDescription(
@@ -42,6 +43,11 @@ export async function generateMetadata({ params }: Props) {
     publishedTime: op.publishedAt,
     modifiedTime: op.modifiedAt,
     authors: ['Anna Jansons'],
+    og: {
+      eyebrow: 'Operatora apskats',
+      rating: op.ratings.overall?.toFixed(2),
+      meta: updated ? `Atjaunināts ${updated}` : undefined,
+    },
   });
 }
 

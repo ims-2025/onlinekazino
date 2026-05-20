@@ -6,6 +6,7 @@ import {
   getArticleCategories,
 } from '@/lib/data';
 import { getTopicSlugs } from '@/lib/topics';
+import { getComparisonSlugs } from '@/lib/comparisons';
 import { SITE } from '@/lib/site';
 
 /**
@@ -44,6 +45,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/raksti/`,                   lastModified: now, changeFrequency: 'daily',   priority: 0.8 },
     { url: `${base}/atbildiga-spele/`,          lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/par-mums/`,                 lastModified: now, changeFrequency: 'yearly',  priority: 0.4 },
+    { url: `${base}/autori/`,                   lastModified: now, changeFrequency: 'monthly', priority: 0.5 },
+    { url: `${base}/autori/aldis-skuja/`,       lastModified: now, changeFrequency: 'monthly', priority: 0.5 },
+    { url: `${base}/autori/anna-jansons/`,      lastModified: now, changeFrequency: 'monthly', priority: 0.5 },
     { url: `${base}/redakcionala-politika/`,    lastModified: now, changeFrequency: 'yearly',  priority: 0.4 },
     { url: `${base}/metodologija/`,             lastModified: now, changeFrequency: 'yearly',  priority: 0.5 },
     { url: `${base}/kontakti/`,                 lastModified: now, changeFrequency: 'yearly',  priority: 0.4 },
