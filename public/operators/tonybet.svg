@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Tonybet">
+  <defs>
+    <linearGradient id="tb-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3D1067"/>
+      <stop offset="100%" stop-color="#1B0033"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="14" fill="url(#tb-bg)"/>
+  <text x="60" y="70" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="20" letter-spacing="-0.5" fill="#fff">tonybet</text>
+  <circle cx="60" cy="34" r="6" fill="#FF6633"/>
+</svg>
