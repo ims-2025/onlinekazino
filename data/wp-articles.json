@@ -4720,5 +4720,27 @@
     "publishedAt": "0000-00-00 00:00:00",
     "modifiedAt": "0000-00-00 00:00:00",
     "link": "https://www.onlinekazino.com/?p=1516"
+  },
+  {
+    "wpId": 1539,
+    "slug": "test-article-cik-drosas-ir-latvijas-licencetas-kazino-vietnes",
+    "title": "Test Article — Cik Drošas Ir Latvijas Licencētās Kazino Vietnes",
+    "status": "publish",
+    "isPublished": true,
+    "promoteDraft": false,
+    "author": "annab",
+    "excerpt": "Īss tests no publicēšanas skripta.",
+    "content": "<p>Šis ir testa raksts. <a href='/kazino/optibet/'>Optibet apskats</a> un <a href='/raksti/'>visi raksti</a>.</p>",
+    "categories": [
+      {
+        "slug": "kazino-celvezi",
+        "label": "Kazino ceļveži"
+      }
+    ],
+    "featuredImage": null,
+    "wordCount": 10,
+    "publishedAt": "2026-05-22 16:45:02",
+    "modifiedAt": "2026-05-22 16:45:02",
+    "link": "/raksti/test-article-cik-drosas-ir-latvijas-licencetas-kazino-vietnes/"
   }
 ]
