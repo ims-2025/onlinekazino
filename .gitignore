@@ -28,3 +28,7 @@ yarn-error.log*
 # TypeScript build info
 *.tsbuildinfo
 next-env.d.ts
+
+# Local secrets — GitHub Personal Access Token used by the daily publish script.
+# Single line: the raw PAT (classic or fine-grained, "Contents: write" scope).
+.github-token

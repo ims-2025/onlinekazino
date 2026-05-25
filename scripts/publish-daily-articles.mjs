@@ -31,7 +31,7 @@
  */
 
 import { execSync } from 'node:child_process';
-import { readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync, renameSync } from 'node:fs';
 import { resolve, join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -109,9 +109,41 @@ function nextWpId(existing) {
   return max + 1;
 }
 
+/**
+ * Clear stale git lock files left behind by previous aborted runs.
+ *
+ * The Cowork sandbox sometimes leaves orphaned `.git/*.lock` files because
+ * the shell can't `unlink()` them on cleanup. Rename works where delete
+ * doesn't, so we rename any lockfiles aside on every run.
+ */
+function clearStaleGitLocks() {
+  const gitDir = join(ROOT, '.git');
+  if (!existsSync(gitDir)) return;
+  const candidates = [
+    'HEAD.lock',
+    'index.lock',
+    'packed-refs.lock',
+    'REBASE_HEAD.lock',
+    'refs/heads/main.lock',
+  ];
+  for (const rel of candidates) {
+    const p = join(gitDir, rel);
+    if (existsSync(p)) {
+      try {
+        renameSync(p, `${p}.stale-${Date.now()}`);
+        console.log(`Cleared stale git lock: .git/${rel}`);
+      } catch (err) {
+        console.warn(`Could not clear .git/${rel}: ${err.message}`);
+      }
+    }
+  }
+}
+
 // --- main -----------------------------------------------------------------
 
 function main() {
+  clearStaleGitLocks();
+
   const batchPath = process.argv[2];
   if (!batchPath) {
     console.error('Usage: node scripts/publish-daily-articles.mjs <batch.json>');
@@ -191,12 +223,58 @@ function main() {
       `git commit -m "Daily articles ${today} (${added.length} posts)"`,
       { cwd: ROOT, stdio: 'inherit' },
     );
-    execSync('git push origin main', { cwd: ROOT, stdio: 'inherit' });
+    pushWithToken();
     console.log('Pushed to origin/main — Vercel will deploy.');
   } catch (err) {
     console.error('Git operation failed:', err.message);
     process.exit(2);
   }
+}
+
+/**
+ * Push to origin/main using a Personal Access Token from `.github-token` if
+ * the sandbox shell has no stored GitHub credentials.
+ *
+ * The token file is a single line containing a GitHub PAT (fine-grained token
+ * with "Contents: write" on this repo, or a classic token with `repo` scope).
+ * It is gitignored and never committed.
+ *
+ * If no token file exists, falls back to plain `git push` (which will work in
+ * a normal terminal where the user's credential helper is already configured).
+ */
+function pushWithToken() {
+  const tokenPath = join(ROOT, '.github-token');
+
+  if (!existsSync(tokenPath)) {
+    // No token — assume the caller has credentials already (e.g. macOS keychain,
+    // gh CLI, SSH). Use the configured remote unmodified.
+    execSync('git push origin main', { cwd: ROOT, stdio: 'inherit' });
+    return;
+  }
+
+  const token = readFileSync(tokenPath, 'utf8').trim();
+  if (!token) {
+    throw new Error(`.github-token exists but is empty: ${tokenPath}`);
+  }
+
+  // Read the existing remote so we can derive the owner/repo without hardcoding.
+  const remoteUrl = execSync('git remote get-url origin', { cwd: ROOT })
+    .toString()
+    .trim();
+  // Accept https://github.com/owner/repo(.git) or git@github.com:owner/repo(.git)
+  const match = remoteUrl.match(/github\.com[:/]+([^/]+)\/([^/.]+)(?:\.git)?$/);
+  if (!match) {
+    throw new Error(`Cannot parse GitHub remote URL: ${remoteUrl}`);
+  }
+  const [, owner, repo] = match;
+  const authedUrl = `https://x-access-token:${token}@github.com/${owner}/${repo}.git`;
+
+  // Push to the authenticated URL without persisting it to the repo config.
+  // `git push <url>` is a one-shot — origin's stored URL stays clean.
+  execSync(`git push ${authedUrl} main`, {
+    cwd: ROOT,
+    stdio: ['ignore', 'inherit', 'inherit'],
+  });
 }
 
 main();
