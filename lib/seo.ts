@@ -36,12 +36,25 @@ function buildOgUrl(input: SeoInput): string {
   return `${SITE.url}/og?${params.toString()}`;
 }
 
+/**
+ * Truncate a title to fit Google's ~60-char `<title>` display window without
+ * cutting a word mid-syllable. We deliberately keep H1 (rendered separately in
+ * the page template) untouched — only the <title>, OG title, and Twitter card
+ * use the trimmed version.
+ */
+export function trimTitle(s: string, max = 60): string {
+  const flat = s.replace(/\s+/g, ' ').trim();
+  if (flat.length <= max) return flat;
+  return flat.slice(0, max - 1).replace(/\s+\S*$/, '') + '…';
+}
+
 export function buildMetadata(input: SeoInput): Metadata {
   const url = new URL(input.path, SITE.url).toString();
   const ogImage = input.image ?? buildOgUrl(input);
+  const metaTitle = trimTitle(input.title);
 
   return {
-    title: input.title,
+    title: metaTitle,
     description: input.description,
     metadataBase: new URL(SITE.url),
     alternates: {
@@ -58,7 +71,7 @@ export function buildMetadata(input: SeoInput): Metadata {
       locale: 'lv_LV',
       url,
       siteName: SITE.name,
-      title: input.title,
+      title: metaTitle,
       description: input.description,
       images: [{ url: ogImage, width: 1200, height: 630 }],
       ...(input.publishedTime && { publishedTime: input.publishedTime }),
@@ -68,7 +81,7 @@ export function buildMetadata(input: SeoInput): Metadata {
     twitter: {
       card: 'summary_large_image',
       site: SITE.twitter,
-      title: input.title,
+      title: metaTitle,
       description: input.description,
       images: [ogImage],
     },

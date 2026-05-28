@@ -57,19 +57,33 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/sikdatnes/`,                lastModified: now, changeFrequency: 'yearly',  priority: 0.2 },
   ];
 
-  const operatorPages: MetadataRoute.Sitemap = getOperators().map((op) => ({
-    url: `${base}/kazino/${op.slug}/`,
-    lastModified: safeDate(op.modifiedAt, now),
-    changeFrequency: 'monthly' as const,
-    priority: 0.85,
-  }));
+  // Only emit operators that have a non-empty, slug-shaped slug — entries
+  // pointing at 4XX URLs get penalised in Ahrefs and ignored by Google.
+  const operatorPages: MetadataRoute.Sitemap = getOperators()
+    .filter((op) => op.slug && /^[a-z0-9-]+$/.test(op.slug))
+    .map((op) => ({
+      url: `${base}/kazino/${op.slug}/`,
+      lastModified: safeDate(op.modifiedAt, now),
+      changeFrequency: 'monthly' as const,
+      priority: 0.85,
+    }));
 
-  const articlePages: MetadataRoute.Sitemap = getArticles().map((a) => ({
-    url: `${base}/raksti/${a.slug}/`,
-    lastModified: safeDate(a.modifiedAt, now),
-    changeFrequency: 'monthly' as const,
-    priority: 0.6,
-  }));
+  // Only published articles with valid slugs. Drafts and anything with a
+  // malformed slug must never reach the sitemap.
+  const articlePages: MetadataRoute.Sitemap = getArticles()
+    .filter(
+      (a) =>
+        a.isPublished !== false &&
+        a.status !== 'draft' &&
+        a.slug &&
+        /^[a-z0-9-]+$/.test(a.slug),
+    )
+    .map((a) => ({
+      url: `${base}/raksti/${a.slug}/`,
+      lastModified: safeDate(a.modifiedAt, now),
+      changeFrequency: 'monthly' as const,
+      priority: 0.6,
+    }));
 
   const categoryPages: MetadataRoute.Sitemap = getArticleCategories().map((c) => ({
     url: `${base}/raksti/kategorija/${c.slug}/`,
