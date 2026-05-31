@@ -60,6 +60,10 @@ export function buildMetadata(input: SeoInput): Metadata {
     alternates: {
       canonical: url,
       languages: {
+        // x-default tells Google "use this when no locale matches" — required
+        // by the hreflang spec. Ahrefs flags pages without it as
+        // "X-default hreflang annotation missing".
+        'x-default': url,
         'lv-LV': url,
       },
     },
