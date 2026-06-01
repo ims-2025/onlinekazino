@@ -18,28 +18,28 @@ export const metadata = buildMetadata({
 
 const HUB_FAQ = [
   {
-    question: 'Cik pilsētās Latvijā darbojas sauszemes kazino?',
-    answer:
+    q: 'Cik pilsētās Latvijā darbojas sauszemes kazino?',
+    a:
       'Pilnvērtīgi sauszemes kazino ar dzīvajiem dīleriem darbojas galvenokārt sešās lielākajās pilsētās — Rīgā, Liepājā, Daugavpilī, Jūrmalā, Ventspilī un Jelgavā. IAUI licencētas spēļu zāles ar automātiem ir izvietotas vēl vismaz divdesmit citās Latvijas pilsētās un lielākos miestos.',
   },
   {
-    question: 'Kāds ir vecuma cenzs Latvijas sauszemes kazino?',
-    answer:
+    q: 'Kāds ir vecuma cenzs Latvijas sauszemes kazino?',
+    a:
       'Visā Latvijā vecuma cenzs ir 18 gadu. Pie ieejas kazino vai spēļu zāli obligāti uzrāda derīgu personu apliecinošu dokumentu — pasi, eID karti vai vadītāja apliecību. Studenta ID vai cita veida apliecības netiek pieņemtas.',
   },
   {
-    question: 'Vai online kazino piedāvājums Latvijā ir lielāks par klātienes?',
-    answer:
+    q: 'Vai online kazino piedāvājums Latvijā ir lielāks par klātienes?',
+    a:
       'Jā, ievērojami. Lielākie Latvijas sauszemes kazino piedāvā 60–150 automātu spēļu, savukārt IAUI licencēti online operatori uztur 1500+ spēļu katalogus, plašākas live kazino studijas un 24/7 pieejamību bez ceļošanas.',
   },
   {
-    question: 'Vai sauszemes kazino apmeklējumu reģistrē IAUI Pašatteikušos personu reģistrā?',
-    answer:
+    q: 'Vai sauszemes kazino apmeklējumu reģistrē IAUI Pašatteikušos personu reģistrā?',
+    a:
       'Jā. Pašatteikušos personu reģistrs (PPR) ir vienots gan online, gan sauszemes operatoriem. Ja persona ir reģistrējusies PPR, viņai aizliegta iekļuve visos IAUI licencētajos kazino un spēļu zālēs visā Latvijā uz reģistrācijas periodu (12 mēneši vai uz nenoteiktu laiku).',
   },
   {
-    question: 'Kāpēc Olympic Casino dominē Latvijas sauszemes tirgū?',
-    answer:
+    q: 'Kāpēc Olympic Casino dominē Latvijas sauszemes tirgū?',
+    a:
       'Olympic Casino zīmols pieder Odyssey Europe AS (līdz 2018. gadam — Olympic Entertainment Group), kas savu klātbūtni Latvijā veidoja kopš 2000. gadu sākuma. Centralizēta operāciju vadība, mērogs un Olympic lojalitātes programma ir radījuši dabisku tirgus līderību. Vietējais konkurents Klondaika uztur stabilu otro pozīciju, savukārt mazākie operatori specializējas spēļu zāļu segmentā.',
   },
 ];

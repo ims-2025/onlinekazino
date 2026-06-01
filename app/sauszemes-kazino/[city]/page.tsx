@@ -42,7 +42,7 @@ export default function CityHubPage({ params }: Props) {
             { name: 'Sauszemes kazino', href: '/sauszemes-kazino/' },
             { name: c.name, href: `/sauszemes-kazino/${c.slug}/` },
           ]),
-          faqSchema(c.faq.map((f) => ({ question: f.q, answer: f.a }))),
+          faqSchema(c.faq),
         ]}
       />
 
@@ -130,7 +130,7 @@ export default function CityHubPage({ params }: Props) {
             Bieži uzdotie jautājumi
           </h2>
           <div className="mt-6">
-            <Faq items={c.faq.map((f) => ({ question: f.q, answer: f.a }))} />
+            <Faq items={c.faq} />
           </div>
         </section>
 
