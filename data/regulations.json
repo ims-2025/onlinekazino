@@ -1,0 +1,171 @@
+{
+  "_meta": {
+    "description": "Authority-grade regulation pages on Latvian gambling oversight. Each entry renders at /regulejumi/[slug]/. Content is original editorial summary of public-domain regulatory information; sources cited inline.",
+    "primarySource": "https://www.iaui.gov.lv/lv",
+    "lastVerified": "2026-05-31"
+  },
+  "pages": {
+    "iaui": {
+      "title": "IAUI — Izložu un azartspēļu uzraudzības inspekcija 2026",
+      "metaDescription": "Pilns ceļvedis par IAUI — Latvijas azartspēļu regulatoru. Funkcijas, licenču izsniegšana, uzraudzība, sankcijas, publiskie reģistri un kontakti.",
+      "lede": "Izložu un azartspēļu uzraudzības inspekcija (IAUI) ir Latvijas valsts iestāde, kas uzrauga visu azartspēļu un izložu jomu. Šeit ir detalizēts ceļvedis par tās funkcijām, licencēšanas procesu un kā IAUI ietekmē jūs kā spēlētāju.",
+      "sections": [
+        {
+          "heading": "IAUI loma Latvijas azartspēļu sistēmā",
+          "body": "IAUI ir Finanšu ministrijas padotībā esoša tiešā pārvaldes iestāde, kas izveidota saskaņā ar Azartspēļu un izložu likumu. Tās primārais uzdevums ir nodrošināt, ka azartspēles Latvijā notiek likumīgi, droši, godīgi un sociāli atbildīgi. Tas ietver licenču izsniegšanu, regulāru operatoru auditus, atbildības par naudas atmazgāšanas novēršanu, atbildīgas spēles instrumentu uzraudzību un statistikas vākšanu par nozari.\n\nIAUI darbība attiecas uz visiem azartspēļu veidiem Latvijas teritorijā — gan klātienes kazino un spēļu zālēm, gan online operatoriem, gan totalizatoriem un loterijām. Visiem operatoriem, kuri piedāvā azartspēles Latvijas iedzīvotājiem, ir jābūt IAUI licencei. Operatoriem bez IAUI licences, kuri piedāvā pakalpojumus Latvijas spēlētājiem, IAUI bloķē piekļuvi savās interneta vietnēs sadarbībā ar interneta pakalpojumu sniedzējiem."
+        },
+        {
+          "heading": "Licenču kategorijas un izsniegšanas process",
+          "body": "IAUI izsniedz vairāku veidu azartspēļu organizēšanas licences. Galvenās kategorijas ir kazino licence (pilnvērtīgs kazino ar dzīvajiem dīleriem), spēļu zāles licence (tikai automāti un elektroniskie galda spēļu termināli), totalizatora un derību licence (sporta likmes), loteriju licence un interaktīvo (online) azartspēļu licence.\n\nLicences pieteikuma process ietver pieteikumu, kas satur konkrētas adreses (klātienes operatoriem) vai tīmekļa vietņu identifikāciju (online), telpu plānu vai tehnisko aprīkojuma aprakstu, finanšu izcelsmes apliecinājumu (parasti audita izziņa par pēdējiem trim gadiem), drošības sistēmu aprakstu un personāla sertifikācijas pierādījumus. IAUI veic objekta apsekošanu un tehnisko pārbaudi pirms licences izsniegšanas.\n\nLicences derīguma termiņš parasti ir 5 gadi ar iespēju pagarināt. Licences anulēšanas iemesli ir nopietns regulējumu pārkāpums, finansiālas grūtības, atkārtoti atbildīgas spēles regulējumu pārkāpumi vai KYC/AML noteikumu neievērošana."
+        },
+        {
+          "heading": "Audita un uzraudzības procedūras",
+          "body": "IAUI veic regulāras audita pārbaudes pie visiem licencētajiem operatoriem. Kazino licences turētājiem auditi notiek aptuveni reizi sešos mēnešos vai biežāk; spēļu zāļu licences turētājiem — reizi gadā ar papildu pārbaudēm pēc IAUI iniciatīvas. Online operatoriem auditi ietver tehnisko sistēmu pārbaudi, RTP atbilstības pārbaudi, KYC/AML procedūru novērtējumu un atbildīgas spēles instrumentu funkcionalitātes pārbaudi.\n\nUzraudzības process arī ietver datu analīzi par spēlētāju uzvedību — IAUI saņem regulārus ziņojumus no operatoriem par lielajiem darījumiem (KYC pārbaudes virs €2000 viena depozīta) un nereguliem spēlētāju paradumiem. Šī informācija tiek izmantota gan operatoru, gan plašākas nozares uzraudzībai.\n\nPārkāpumu gadījumā IAUI var izsniegt brīdinājumus, administratīvos sodus, ierobežot licences darbību vai pilnībā atsaukt licenci. Lielāki pārkāpumi var arī rezultēties kriminālprocesā pret operatora atbildīgajām personām."
+        },
+        {
+          "heading": "Publiskie reģistri un caurspīdība",
+          "body": "IAUI uztur vairākus publiski pieejamus reģistrus, kas pieejami iaui.gov.lv mājaslapā. Galvenais ir licenciātu reģistrs ar pilnu sarakstu par visiem operatoriem, kuri šobrīd darbojas Latvijas tirgū. Reģistrs ietver operatora juridisko nosaukumu, zīmolu (ja atšķiras), licences kategoriju, izsniegšanas datumu un derīguma termiņu, kā arī konkrētas atrašanās vietas (klātienes operatoriem).\n\nOtrs nozīmīgs publiskais reģistrs ir Pašatteikušos personu reģistrs (PPR) — anonīms reģistrs, kurā fiziskās personas var brīvprātīgi iekļauties, lai apturētu savu azartspēļu darbību. Šis reģistrs ir kritisks instruments atbildīgas spēles politikā.\n\nIAUI arī publicē gada pārskatus un nozares statistiku, kas ietver datus par operatoru ienākumiem, spēlētāju zaudējumiem, izdotajām licencēm un sankcijām. Šī caurspīdība ir augstākā līmenī, nekā vairākās citās Eiropas jurisdikcijās."
+        },
+        {
+          "heading": "Kā spēlētāji var sadarboties ar IAUI",
+          "body": "Spēlētāji var sazināties ar IAUI vairākos veidos. Pirmais — operatora sūdzību iesniegšanas process. Ja jums ir nesaskaņa ar IAUI licencētu operatoru, kas nav atrisinājusies caur operatora iekšējām sūdzību procedūrām, jūs varat iesniegt sūdzību tieši IAUI. Sūdzība jāiesniedz rakstveidā ar visiem attiecīgajiem dokumentiem un pierādījumiem.\n\nOtrais — pieteikšanās Pašatteikušos personu reģistram. Šī procedūra ir bezmaksas un anonīma; pieteikšanos var veikt online caur IAUI portālu vai personīgi IAUI birojā. Reģistrācijas periods ir 12 mēneši vai uz nenoteiktu laiku (klients pats izvēlas).\n\nTrešais — informācijas pieprasījumi. Spēlētāji var pieprasīt informāciju par konkrēta operatora licences statusu, audita rezultātiem (publiskā daļā) un licencēšanas procesu kopumā. IAUI atbild uz informācijas pieprasījumiem standarta valsts iestādes termiņos."
+        },
+        {
+          "heading": "IAUI kontakti un resursi",
+          "body": "IAUI birojs atrodas Rīgā. Oficiālā tīmekļa vietne ir iaui.gov.lv, kur pieejami licenciātu reģistri, normatīvie akti un kontaktinformācija. E-pasts: pasts@iaui.gov.lv. Tālrunis publicēts mājaslapā. IAUI strādā darba dienās, ar klientu pieņemšanu pēc iepriekšējas pieteikšanās.\n\nPlašāka informācija par IAUI funkcijām ietver arī sadarbību ar Eiropas līmeņa regulatoriem — IAUI ir Gambling Regulators European Forum (GREF) dalībnieks un piedalās ES līmeņa diskusijās par azartspēļu regulējuma harmonizāciju. Šī sadarbība atspoguļojas arī Latvijas atbildīgas spēles standartos, kas pakāpeniski tuvinās stingrākajām ES jurisdikciju (Vācija, Skandināvija) praksēm."
+        }
+      ],
+      "faq": [
+        { "q": "Kā pārbaudīt, vai operatoram ir derīga IAUI licence?", "a": "Pārbaudiet IAUI publisko licenciātu reģistru iaui.gov.lv vai meklējiet operatora oficiālajā tīmekļa vietnē licences numuru, kas tipiski parādīts kājenes daļā." },
+        { "q": "Cik ilgs ir IAUI licences pieteikuma izskatīšanas termiņš?", "a": "Atkarīgs no licences kategorijas un pieteikuma pilnīguma — vidēji no 3 līdz 6 mēnešiem pilnvērtīgai kazino licencei, īsāk spēļu zāles licencei." },
+        { "q": "Vai IAUI uzrauga arī ārvalstu operatorus, kas piedāvā pakalpojumus Latvijas spēlētājiem?", "a": "Operatoriem, kuri Latvijas iedzīvotājiem piedāvā azartspēles bez IAUI licences, IAUI bloķē piekļuvi sadarbībā ar interneta pakalpojumu sniedzējiem. Ārvalstu licences (piemēram, Maltas vai Kirasao) Latvijas tirgū nav derīgas." }
+      ]
+    },
+    "azartspelu-likums": {
+      "title": "Latvijas Azartspēļu un izložu likums — ceļvedis 2026",
+      "metaDescription": "Detalizēts ceļvedis par Latvijas Azartspēļu un izložu likumu — kas tas regulē, kā ietekmē spēlētājus, atbildīgas spēles prasības, jaunākās izmaiņas.",
+      "lede": "Azartspēļu un izložu likums ir Latvijas galvenais normatīvais akts, kas regulē visu azartspēļu jomu. Šeit ir ceļvedis spēlētājiem par to, ko šis likums pasaka un kā tas ietekmē jūs.",
+      "sections": [
+        {
+          "heading": "Likuma struktūra un vēsturiskais konteksts",
+          "body": "Pirmais Azartspēļu un izložu likums Latvijā tika pieņemts 1996. gadā, drīz pēc neatkarības atjaunošanas un atļaušanas privātās azartspēļu darbības. Likums kopš tā laika ir piedzīvojis vairākas būtiskas izmaiņas — 2006. gadā ar plašu pārstrādi, 2012. gadā saistībā ar online azartspēļu regulējuma ieviešanu, un jaunākās izmaiņas saistībā ar atbildīgas spēles instrumentu paplašināšanu un naudas atmazgāšanas novēršanas prasību stingrāku piemērošanu.\n\nLikuma struktūra ietver pamatdefinīcijas (kas ir azartspēle, kazino, spēļu zāle, loterija, totalizators), licencēšanas procedūras, operatoru pienākumus, IAUI funkcijas, spēlētāju aizsardzības normas, atbildīgas spēles prasības un sankciju sistēmu. Likums ir pieejams Latvijas Vēstnesī un Latvijas Republikas Tiesību aktu portālā likumi.lv."
+        },
+        {
+          "heading": "Galvenās prasības operatoriem",
+          "body": "Likums uzliek operatoriem virkni pienākumu. Galvenie ietver: derīgas IAUI licences saglabāšana, atbilstība finanšu izcelsmes prasībām, RTP atbilstība (sertificēti gadījuma skaitļu ģeneratori), KYC procedūru ieviešana (pārbaude no €2000 viena depozīta), atbildīgas spēles instrumentu pieejamība (depozīta limiti, sesijas laika limiti, pašatteikšanās iespēja), regulāri ziņojumi IAUI par lielajiem darījumiem, sadarbība ar Pašatteikušos personu reģistru un atbildīgas spēles brīdinājumi visās reklāmās un platformās.\n\nReklāmas regulējums ir īpaši stingrs — azartspēļu reklāmas Latvijā nedrīkst tieši piesaistīt nepilngadīgos, nedrīkst saturēt nepatiesus apgalvojumus par laimes iespējām, nedrīkst tikt rādītas TV un radio pirms plkst. 22:00, un visas reklāmas obligāti satur 18+ marķējumu un atbildīgas spēles brīdinājumu."
+        },
+        {
+          "heading": "Spēlētāju tiesības un aizsardzības normas",
+          "body": "Likums spēlētājiem garantē vairākas tiesības. Pirmā — tiesības uz pilnu informāciju par spēles noteikumiem, izmaksu nosacījumiem, bonusa T&C un atbildīgas spēles instrumentiem. Operatoram šī informācija jāpublicē saprotamā veidā latviešu valodā.\n\nOtrā — tiesības uz izņemšanas izpildīšanu likumā paredzētajos termiņos. Operatoriem nav atļauts patvaļīgi atturēties no izņemšanas — atteikumam jābūt pamatotam ar konkrētiem T&C vai KYC trūkumiem.\n\nTrešā — tiesības iekļauties Pašatteikušos personu reģistrā. Šis ir absolūts spēlētāja tiesību veids, ko operators nedrīkst atteikt.\n\nCeturtā — tiesības uz personas datu aizsardzību. Operatori ir saistīti ar GDPR un Latvijas Fizisko personu datu aizsardzības likumu. Spēlētāji var pieprasīt savu datu piekļuvi, dzēšanu vai pārnešanu.\n\nPiektā — tiesības sūdzēties IAUI, ja nesaskaņas ar operatoru nav atrisinātas."
+        },
+        {
+          "heading": "Vecuma cenzs un identitātes pārbaude",
+          "body": "Likums nosaka 18 gadu vecuma cenzu visām azartspēlēm Latvijā. Šis ir absolūts — nav nekādu izņēmumu, neatkarīgi no spēles veida, summas vai konteksta. Vecuma pārbaude pie ieejas klātienes vietās ir obligāta; online — pirms spēles sākuma ar verificētu identitātes dokumentu.\n\nKYC (Know Your Customer) procedūra ir obligāta visiem operatoriem. Standarta sliekšņi: identitātes pārbaude pie reģistrācijas (vārds, dzimšanas datums, adrese), padziļināta KYC no €2000 viena depozīta vai izņemšanas (dokumenta kopija, ienākumu izcelsmes apliecinājums), un nepārtraukta uzraudzība ar automātiskām ziņojumu sistēmām par nestandartām spēles paradumiem."
+        },
+        {
+          "heading": "Atbildīgas spēles prasības",
+          "body": "Likums uzliek operatoriem stingras atbildīgas spēles prasības. Visiem online operatoriem ir jāpiedāvā depozīta limiti (dienas, nedēļas, mēneša), sesijas laika limiti, reality check uznirstoši logi pēc noteikta laika, un brīvprātīgas pašatteikšanās iespēja. Klātienes operatoriem ir jāuztur informācijas materiāli par atbildīgu spēli un Pašatteikušos personu reģistru pie ieejas.\n\nDarbinieku apmācība ir obligāta — gan klātienes personāls, gan online klientu apkalpošanas darbinieki ir apmācīti atpazīt riska uzvedības pazīmes un, vajadzības gadījumā, piedāvāt informāciju par atbalsta resursiem. Likums arī nosaka, ka operatoriem ir tiesības (un dažos gadījumos pienākums) atteikt apkalpošanu spēlētājiem, kuri uzrāda nopietnas problemātiskas spēles pazīmes."
+        }
+      ],
+      "faq": [
+        { "q": "Kur atrast Azartspēļu un izložu likuma pilnu tekstu?", "a": "Latvijas Republikas Tiesību aktu portālā likumi.lv vai Latvijas Vēstnesī. Likuma identifikators — „Azartspēļu un izložu likums”." },
+        { "q": "Vai likums attiecas arī uz neformālām azartspēlēm starp privātpersonām?", "a": "Nē, likums regulē tikai komerciāli organizētas azartspēles. Privātas neformālas kartes vai poķera spēles starp draugiem nav regulētas, ja vien nenotiek skaidri komerciāla organizēšana." }
+      ]
+    },
+    "nodokli-laimestiem": {
+      "title": "Laimesti online kazino — nodokļi Latvijā 2026",
+      "metaDescription": "Cik daudz no jūsu laimesta jāmaksā nodokļos? Pilns ceļvedis par azartspēļu laimestu aplikšanu ar nodokli Latvijā — sliekšņi, deklarēšana, izņēmumi.",
+      "lede": "Latvija azartspēļu laimestus apliek ar nodokli ar specifiskiem sliekšņiem un procedūrām. Šeit ir pilns ceļvedis par to, kas ir apliekams, kas nav, un kā pareizi deklarēt laimes.",
+      "sections": [
+        {
+          "heading": "Pamatprincips: gada slieksnis",
+          "body": "Latvijas iedzīvotāju ienākuma nodokļa likuma ietvaros azartspēļu laimesti ir apliekami ar nodokli, bet ar gada slieksni. Šobrīd slieksnis ir €3000 gadā — laimesti zem šī slieksņa nav apliekami ar iedzīvotāju ienākuma nodokli. Tas attiecas uz visiem laimestu veidiem (online kazino, sauszemes kazino, loterijas, sporta likmes, totalizators), aprēķinātiem kopumā gadā.\n\nLaimestus virs €3000 slieksņa apliek ar standarta iedzīvotāju ienākuma nodokli (IIN) — šobrīd 25% no apliekamās summas. Apliekamā summa ir laimes summa, no kuras atskaita slieksni. Piemēram, ja gada laimes summa ir €5000, apliekamā summa ir €5000 − €3000 = €2000, un nodoklis ir €500.\n\nSvarīgi: aplikšanas slieksnis attiecas uz neto laimesta apjomu, nevis uz katra atsevišķa darījuma apjomu. Tas nozīmē, ka jums jāuztur dokumentācija par savām laimēm un zaudējumiem gada laikā."
+        },
+        {
+          "heading": "Kas tiek skaitīts kā laimests",
+          "body": "Laimests šī likuma kontekstā ir summas, ko spēlētājs saņem no licencēta operatora kā azartspēļu rezultātu. Tas ietver: laimes no spēļu automātiem, galda spēļu laimes, sporta likmju laimes, loteriju laimes, pokera turnīra ielikuma atgūšanu un cashback bonusu maksājumus, ja tie pārsniedz wagering nosacījumus.\n\nPretēji, laimests neietver: bonusu summas, kas vēl tikai gaida wagering izpildīšanu, brīvajos griezienos uzvarētās summas, kas vēl ir bonusa konta daļa, un bonusa konta atlikumu, kas vēl nav konvertēts uz reālas naudas atlikumu.\n\nIzmantoto depozītu un zaudējumu atskaitīšana no laimes summas nav atļauta — Latvijas IIN sistēma nepieļauj zaudējumu kompensāciju. Tas atšķiras no, piemēram, Apvienotās Karalistes vai dažu ASV štatu pieejas, kur spēlētāji var atskaitīt zaudējumus."
+        },
+        {
+          "heading": "Deklarēšanas pienākums",
+          "body": "Spēlētājiem ar gada laimes summu virs €3000 ir pienākums deklarēt šo summu gada ienākumu deklarācijā (Ikgadējais ienākumu deklarācijas iesniegums Valsts ieņēmumu dienestam). Deklarēšana parasti tiek veikta elektroniski caur Elektronisko deklarēšanas sistēmu (EDS) līdz 1. jūnijam par iepriekšējo gadu.\n\nDeklarācijā jāuzrāda kopējā gada laimes summa, slieksnis (€3000) un aprēķinātā apliekamā daļa. VID parasti automātiski aprēķina maksājumu, un spēlētājam jāveic samaksa līdz norādītajam termiņam (parasti 23. jūnijs).\n\nOperatoriem nav pienākuma automātiski ieturēt nodokli no spēlētāja laimēm — tā ir spēlētāja pašdeklarēšanas atbildība. Tomēr operatori uztur ierakstus par lielākajiem darījumiem un izņemšanām, kas IAUI un VID var pieprasīt audita gadījumā."
+        },
+        {
+          "heading": "Konkrēti piemēri un aprēķini",
+          "body": "Piemērs 1: Spēlētājs gada laikā saņem laimes €2500 kopā. Tas ir zem €3000 slieksņa, tāpēc IIN deklarācijā šī summa nav jāuzrāda un nodokli nav jāmaksā.\n\nPiemērs 2: Spēlētājs gada laikā saņem laimes €5000 (apvienojumā no vairākiem operatoriem). Slieksnis ir €3000, apliekamā summa ir €2000, un IIN ir 25% × €2000 = €500.\n\nPiemērs 3: Spēlētājs gada laikā saņem vienu lielu laimi €15 000 no online slota. Slieksnis ir €3000, apliekamā summa ir €12 000, un IIN ir 25% × €12 000 = €3000.\n\nPiemērs 4: Spēlētājs gada laikā saņem €4000 laimi un €6000 zaudējumus. Latvijas IIN sistēmā zaudējumus nedrīkst kompensēt. Apliekamā summa ir €4000 − €3000 = €1000, un IIN ir 25% × €1000 = €250."
+        },
+        {
+          "heading": "Praktiski padomi spēlētājiem",
+          "body": "Uzturiet personīgu reģistru par savām laimes summām un izņemšanām gada laikā. Lielākā daļa IAUI licencētu operatoru piedāvā transakciju vēstures eksportu CSV vai PDF formātā — periodiski lejupielādējiet šos pārskatus.\n\nJa jūsu laimes tuvinās €3000 slieksnim, plānojiet deklarēšanu jau iepriekš. Lieli laimesti (€10 000+) bieži tiek izmaksāti caur bankas pārskaitījumu, kas atstāj skaidru pierādījuma pēdu — bankas pārskaitījumus VID var redzēt audita gadījumā.\n\nIzņēmums profesionāliem pokera spēlētājiem: ja jūsu galvenā darbība un ienākumu avots ir azartspēles, VID var to traktēt kā pašnodarbinātās personas darbību ar citu nodokļu režīmu. Šī ir specifiska situācija, un ieteicams konsultēties ar grāmatvedi vai nodokļu konsultantu, ja jūs spēlējat profesionāli."
+        }
+      ],
+      "faq": [
+        { "q": "Vai man jāmaksā nodokļi par bezdepozīta bonusa laimēm?", "a": "Tikai pēc tam, kad bonuss ir konvertēts uz reālas naudas atlikumu (pēc wagering nosacījumu izpildes) un summa pārsniedz €3000 gadā kopā ar citām laimēm." },
+        { "q": "Cik bieži jāmaksā nodokļi par lielo laimi?", "a": "Reizi gadā, ar gada ienākumu deklarāciju. Spēlētāji paši veic samaksu pēc VID rēķina." },
+        { "q": "Vai zaudējumus var atskaitīt no laimes summas?", "a": "Nē, Latvijas IIN sistēma to nepieļauj. Apliekamā ir bruto laimes summa, neatskaitot zaudējumus." }
+      ]
+    },
+    "kyc-aml": {
+      "title": "KYC un AML procedūras online kazino — ko sagaidīt 2026",
+      "metaDescription": "Klienta identifikācija (KYC) un naudas atmazgāšanas novēršana (AML) Latvijas online kazino. Sliekšņi, dokumenti, laika rāmis, kāpēc tas ir nepieciešami.",
+      "lede": "KYC un AML procedūras ir obligātas visiem Latvijas IAUI licencētajiem operatoriem. Šeit ir ceļvedis par to, ko sagaidīt, kāpēc šīs procedūras pastāv un kā jūs varat tām ātrāk izpildīt.",
+      "sections": [
+        {
+          "heading": "Kas ir KYC un kāpēc tas ir svarīgi",
+          "body": "KYC (Know Your Customer) ir process, kurā operators verificē klienta identitāti pirms ļauj veikt finanšu darījumus. Tas ietver vārda, dzimšanas datuma, adreses un personas apliecinošā dokumenta pārbaudi. KYC ir Eiropas Savienības mēroga prasība, kas izriet no Naudas atmazgāšanas novēršanas direktīvas (AMLD), un Latvijā to ievieš caur Naudas atmazgāšanas un terorisma finansēšanas novēršanas likumu, kas piemērojas arī azartspēļu sektoram.\n\nIAUI uzrauga, lai visi licencētie operatori ievērotu KYC un AML standartus. Operatori, kuri šos noteikumus nepilda, riskē ar lieliem administratīvajiem sodiem un licences anulēšanu.\n\nLai gan KYC dažkārt šķiet apgrūtinošs spēlētājiem, tas ir tieši aizsardzības instruments — gan pret naudas atmazgāšanu un terorisma finansēšanu, gan pret konta zādzību un nepilngadīgo iekļūšanu sistēmā."
+        },
+        {
+          "heading": "KYC sliekšņi Latvijas IAUI licencētajos operatoros",
+          "body": "Standarta KYC prasība — pamata identitātes pārbaude pie reģistrācijas — attiecas uz visiem klientiem. Tas ietver vārda, dzimšanas datuma, e-pasta, tālruņa un adreses verificēšanu. Daudzi operatori arī pieprasa personas apliecinošā dokumenta foto vai skenējumu jau pie reģistrācijas.\n\nPadziļināta KYC tiek piemērota pie konkrētiem darījumu sliekšņiem. Standarta slieksnis ir €2000 viena depozīta vai izņemšanas vienā darījumā, vai kumulatīvi €2000 īsā periodā (parasti nedēļas laikā). Padziļināta KYC ietver: personas apliecinošā dokumenta abu pušu kopiju (pase, eID karte vai vadītāja apliecība), adreses pierādījuma kopiju (utility rēķins vai bankas izziņa, ne vecāka par 3 mēnešiem), un dažās konfigurācijās arī finanšu izcelsmes apliecinājumu lielākiem depozītiem.\n\nProfesionālā ASV/Apvienotās Karalistes terminoloģijā Latvijas pieeja atbilst „Enhanced Due Diligence” (EDD) standartam Eiropas līmenī."
+        },
+        {
+          "heading": "AML uzraudzība un automātiskie indikatori",
+          "body": "AML uzraudzība ir nepārtraukts process, kas darbojas paralēli KYC. Operatori uztur automātiskas sistēmas, kas atpazīst nestandartas spēles uzvedības pazīmes — neparasti lieli depozīti, ātri secīgi depozīti un izņemšanas, spēle ar neproporcionāli zemu vai augstu likmi salīdzinājumā ar konta vēsturi, vairāku kontu izmantošana no vienas IP adreses vai citas „red flag” situācijas.\n\nKad sistēma atpazīst potenciāli problemātisku darbību, operators vai nu uzdod papildu KYC jautājumus, ierobežo konta darbību līdz papildu pārbaudei, vai (nopietnos gadījumos) ziņo IAUI un Finanšu izlūkošanas dienestam. Šie ziņojumi ir konfidenciāli un netiek paziņoti klientam.\n\nKlientiem, kuri ir godīgi un pildot KYC prasības laicīgi, AML uzraudzība parasti ir neredzama. Problēmas rodas tikai tad, kad uzvedība atbilst riska kritērijiem."
+        },
+        {
+          "heading": "Kā paātrināt KYC procesu",
+          "body": "Ja jūs plānojat lielāku depozītu vai izņemšanu, ieteicams iesniegt padziļināto KYC dokumentāciju jau iepriekš, nevis gaidīt slieksni. Lielākā daļa operatoru ļauj augšupielādēt KYC dokumentus brīvprātīgi, un sistēma tos pārbauda iepriekš.\n\nDokumentu kvalitāte ir svarīga. Skenējumam vai fotogrāfijai ir jābūt skaidri lasāmai, ar redzamiem visiem datiem (numurs, derīguma termiņš, foto), bez bojājumiem vai apgrieztiem stūriem. Adreses pierādījumam ir jābūt nesenam (ne vecākam par 3 mēnešiem) un jāparāda klienta vārdu un adresi, kas atbilst kontā reģistrētajai.\n\nTrustly Pay-N-Play operatori (piemēram, Optibet un Laimz Pay-N-Play opcijā) faktiski veic KYC automātiski caur Latvijas bankas autentifikāciju — tas dramatiski paātrina procesu. Ja jūs reģistrējaties caur Pay-N-Play, lielāko daļu KYC veic tehniski klusu fonā."
+        },
+        {
+          "heading": "Spēlētāju tiesības un dati",
+          "body": "Iesniegto KYC dokumentu glabāšana operatora pusē ir regulēta. Operatori ir saistīti ar GDPR un Latvijas Fizisko personu datu aizsardzības likumu. Dokumenti tiek glabāti drošā veidā, ar piekļuvi ierobežotai personāla grupai, un netiek izpausti trešajām pusēm bez likumā paredzēta pamata (piemēram, IAUI vai Finanšu izlūkošanas dienesta pieprasījuma).\n\nKlientiem ir tiesības pieprasīt operatora glabāto personas datu kopiju (Article 15 GDPR), un, ja klients pārtrauc attiecības ar operatoru un nav AML ierakstu, pieprasīt datu dzēšanu. Tomēr AML ieraksti operatoram jāglabā vairākus gadus pēc darījuma (parasti 5 gadi), pat ja klients konta pārtraucis."
+        }
+      ],
+      "faq": [
+        { "q": "Cik ilgi aizņem KYC pārbaudes process?", "a": "Pamata KYC pie reģistrācijas — sekundes. Padziļināta KYC ar dokumentiem — parasti 1–24 stundas darba dienās. Trustly Pay-N-Play operatori — gandrīz tūlītēji." },
+        { "q": "Vai man jāuzrāda ienākumu izcelsme par mazāku depozītu?", "a": "Parasti ne. Ienākumu izcelsmes apliecinājums tiek pieprasīts no €2000 viena depozīta vai pie automātiskas riska sistēmu signalizācijas." },
+        { "q": "Vai Latvijas pase un eID karte tiek pieņemtas vienlīdz?", "a": "Jā, abas ir likumīgi personas apliecinoši dokumenti. Lielākā daļa operatoru pieņem arī ārvalstu pases ES klientiem." }
+      ]
+    },
+    "es-regulejums": {
+      "title": "ES azartspēļu regulējums — kā Latvija salīdzinās 2026",
+      "metaDescription": "Eiropas Savienības azartspēļu regulējumu salīdzinājums — kā Latvijas IAUI sistēma salīdzinās ar Vāciju, Zviedriju, Apvienoto Karalisti, Dāniju un Maltu.",
+      "lede": "Eiropas Savienībā azartspēļu regulējums ir galvenokārt nacionālā kompetencē, kas rada ievērojamas atšķirības starp dalībvalstīm. Šeit ir Latvijas IAUI sistēmas salīdzinājums ar dažām citām nozīmīgām ES jurisdikcijām.",
+      "sections": [
+        {
+          "heading": "ES regulējuma pamatprincipi",
+          "body": "Eiropas Savienībā azartspēles nav harmonizētas — katra dalībvalsts pati regulē savu azartspēļu tirgu, pakļaujoties tikai vispārējiem ES principiem (pakalpojumu brīva aprite, patērētāju aizsardzība, naudas atmazgāšanas novēršana). Tas ir radījis ievērojamu daudzveidību: dažas valstis ir izvēlējušās stingri regulētu monopolu (piemēram, Norvēģijas Norsk Tipping), citas — atvērtu licencēšanas sistēmu (piemēram, Malta), bet citas — kontrolētu vairāku operatoru sistēmu (piemēram, Latvija, Lietuva, Vācija).\n\nEs Komisija periodiski izdod ieteikumus par labu prakses standartiem azartspēļu regulējumā, bet šie ieteikumi nav saistoši dalībvalstīm. Galvenās ES līmeņa direktīvas, kas ietekmē azartspēļu sektoru, ir Naudas atmazgāšanas novēršanas direktīva (AMLD), Vispārīgā datu aizsardzības regula (GDPR) un dažas patērētāju aizsardzības direktīvas."
+        },
+        {
+          "heading": "Latvija (IAUI) salīdzinājumā ar Vāciju (GlüNeuRStV)",
+          "body": "Vācija ir 2021. gadā pārveidojusi savu azartspēļu regulējumu ar Glücksspielneuregulierungsstaatsvertrag (GlüNeuRStV). Vācijas pieeja ir izteikti stingra — depozīta limits €1000 mēnesī viena operatora kontā ir obligāts (ja vien klients to neatcēlis pēc EDD pārbaudes), spēļu automātu spēles ir ļoti ierobežotas (nav Megaways vai augstas variācijas slotu), un live kazino ir aizliegts ārpus monopola operatoriem.\n\nLatvijas IAUI sistēma ir daudz liberālāka — depozīta limiti ir klienta brīvprātīga izvēle (nevis obligāts standarts), slotu klāsts atbilst tirgus piedāvājumam (Megaways, augsta variācija pieejami), un live kazino ir pilnībā regulēts un atļauts. Tas dod Latvijas spēlētājiem plašāku izvēli, bet arī augstāku individuālu atbildību par spēles vadību."
+        },
+        {
+          "heading": "Latvija salīdzinājumā ar Zviedriju (Spelinspektionen)",
+          "body": "Zviedrija ar Spelinspektionen kā regulatoru darbojas izteikti stingrā režīmā. Galvenās specifiskās prasības: depozīta limita iespēja klientam obligāti redzama pie reģistrācijas, automātiska 18 mēnešu pārtraukums Sviinpause sistēmā ir pieejams un viegli izmantojams, un bonusu apjoms ir ierobežots ar viensauss reklāmu uz klientu.\n\nLatvijas IAUI sistēma ir mazāk uzbāzīga — depozīta limiti ir pieejami, bet ne aktīvi piedāvāti pie reģistrācijas; PPR pieteikšanās ir vienkārša, bet ne automatizēta visās interakcijās. Bonusu apjoms nav noteikts ar īpašiem ierobežojumiem. Tas atspoguļo plašāku Baltijas pieeju — regulēta brīvība, nevis aktīva paternalizācija."
+        },
+        {
+          "heading": "Latvija salīdzinājumā ar Apvienoto Karalisti (UKGC)",
+          "body": "Apvienotās Karalistes Gambling Commission (UKGC) ir vēsturiski viena no liberālākajām Eiropas regulatorēm, bet pēdējos gados ir kļuvusi stingrāka. Specifiskas UKGC prasības: GamStop sistēma kā analogs PPR, obligāta affordability check klientiem ar lielākiem zaudējumiem (zem €100/dienā vai €500/nedēļā), bonusu transparency prasības un stingri reklāmas standarti.\n\nLatvijas IAUI sistēma nav tik tālu attīstījusi affordability check pieeju — tā paliek brīvprātīga klientu pašvadība ar atbildīgas spēles instrumentiem, nevis tehniska finanšu iespēju pārbaude. Tas var mainīties tuvāko gadu laikā, jo Latvijas regulējums tradicionāli sekoja Eiropas tendencēm ar 2–5 gadu atpalicību."
+        },
+        {
+          "heading": "Latvija salīdzinājumā ar Maltu (MGA)",
+          "body": "Malta Gaming Authority (MGA) ir viena no pasaules vislielākajām online azartspēļu licenču izsniedzējām, ar simtiem operatoru kas darbojas ar MGA licenci. Atšķirībā no IAUI, MGA licence nedod tiesības darboties Latvijas tirgū — MGA licence ir atzīta dažās ES valstīs (piemēram, Maltā pašā), bet ne Latvijā. Latvijas spēlētājiem operators ar tikai MGA licenci ir neatļauts.\n\nMGA standarts pats par sevi ir augsts — caurspīdīga audita prasība, KYC standarts, atbildīgas spēles instrumenti. Bet tirgus piekļuves ziņā IAUI sistēma sniedz Latvijas spēlētājiem aizsardzību, kas MGA-only operators nesniedz. Tāpēc Latvijas IAUI licencēti operatori ir izvēles ar vislielāko juridisko un finanšu drošību Latvijas tirgus dalībniekiem."
+        }
+      ],
+      "faq": [
+        { "q": "Vai es varu legāli spēlēt MGA licencēta operatorā?", "a": "Tehniski jā, ja jūs atrodaties valstī, kur MGA licence ir atzīta. Latvijas iedzīvotāji bez papildu IAUI licences spēle MGA-only operatoros ir ierobežota — IAUI bloķē šādu operatoru piekļuvi Latvijas tīklā." },
+        { "q": "Kura ES regulējuma sistēma ir vislabākā spēlētājam?", "a": "Atkarīgs no preferences. Stingrākie režīmi (Zviedrija, Vācija) sniedz lielāku aizsardzību bet mazāku izvēli. Vidēji režīmi (Latvija, Apvienotā Karaliste) atrod līdzsvaru. Liberālie režīmi (Malta) dod plašu izvēli bet ar zemāku spēlētāju aizsardzību." }
+      ]
+    }
+  }
+}
