@@ -8,6 +8,7 @@ import {
 import { getTopicSlugs } from '@/lib/topics';
 import { getComparisonSlugs } from '@/lib/comparisons';
 import { getCitySlugs } from '@/lib/cities';
+import { getBestForSlugs } from '@/lib/bestFor';
 import { SITE } from '@/lib/site';
 
 /**
@@ -44,6 +45,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/maksajumi/`,                lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/spelu-izstradataji/`,       lastModified: now, changeFrequency: 'monthly', priority: 0.6 },
     { url: `${base}/salidzinajumi/`,            lastModified: now, changeFrequency: 'monthly', priority: 0.75 },
+    { url: `${base}/labakie/`,                  lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/sauszemes-kazino/`,                       lastModified: now, changeFrequency: 'monthly', priority: 0.85 },
     { url: `${base}/sauszemes-kazino/online-vs-sauszemes/`,   lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/sauszemes-kazino/turistiem/`,             lastModified: now, changeFrequency: 'monthly', priority: 0.65 },
@@ -122,6 +124,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.75,
   }));
 
+  const bestForPages: MetadataRoute.Sitemap = getBestForSlugs().map((slug) => ({
+    url: `${base}/labakie/${slug}/`,
+    lastModified: now,
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
+
   const comparisonPages: MetadataRoute.Sitemap = getComparisonSlugs().map((slug) => ({
     url: `${base}/salidzinajumi/${slug}/`,
     lastModified: now,
@@ -136,6 +145,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...categoryPages,
     ...topicPages,
     ...cityPages,
+    ...bestForPages,
     ...comparisonPages,
   ];
 }

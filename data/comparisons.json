@@ -34,5 +34,53 @@
     "intro": "Optibet un 11.lv ir abi vieni no IAUI licencētiem operatoriem ar visilgāko vēsturi LV tirgū — Optibet kopš 2011., 11.lv kopš 2012. gada. Abi piedāvā kombinētu kazino + sporta likmju paketi. Atšķirības ir mērogos, tehnoloģijā un mūsdienīgumā: Optibet izvērsies starptautiskā Entain Group platforma, 11.lv saglabājis vietējās identitātes raksturīgu UI un piedāvājumu.",
     "verdict": "Optibet uzvar visās tehnoloģiskajās dimensijās — native mobilās lietotnes, ātrākas izņemšanas, modernāks UI, plašāks katalogs. 11.lv saglabā priekšrocību gadu nepārtrauktas pieredzes ziņā un labākā wagering (30× vs Optibet 25×, kas faktiski padara Optibet izdevīgāku). Iesakām Optibet visiem, izņemot tradicionalistiem, kuri vērtē vietēja zīmola autentiskumu.",
     "winner": "optibet"
+  },
+  "klondaika-vs-laimz": {
+    "left": "klondaika-kazino",
+    "right": "laimz",
+    "title": "Klondaika vs Laimz — Vietējais veterāns pret moderno izaicinātāju",
+    "intro": "Klondaika un Laimz pārstāv divus dažādus pieejamus stilus Latvijas online kazino tirgū. Klondaika ir vietējais zīmols ar gandrīz divdesmit gadu sauszemes kazino vēsturi (kopš 2002. gada) un mūsdienu online platformu, kas dziļi sasaista vietējo autentiskumu ar modernu tehnoloģiju. Laimz ir 2018. gada redzami jaunāka platforma, kas izceļas ar agresīvu cashback piedāvājumu un izteikti tīru kazino fokusu — bez sporta likmēm vai pokera istabas.",
+    "verdict": "Klondaika uzvar kopējā vērtējumā (4.75 vs 4.4) — galvenokārt drošības, vietējā zīmola atpazīstamības un caurspīdības dimensijās. Laimz tomēr piedāvā labāku ekonomisko vērtību regulārajam slotu spēlētājam: cashback bāzes bonusu modelis ir caurspīdīgāks nekā tradicionālie wagering bonusi, un Laimz mobilais interfeiss ir modernākais latviešu valodā šobrīd pieejamais. Iesakām Klondaika tradicionalistiem un dažādu spēļu meklētājiem; Laimz — slotu fokusētiem spēlētājiem, kuriem patīk cashback caurspīdība.",
+    "winner": "klondaika-kazino"
+  },
+  "tonybet-vs-lvbet": {
+    "left": "tonybet",
+    "right": "lvbet-kazino",
+    "title": "Tonybet vs LVBet — Lietuvas mantojums pret Baltijas spēlētāju",
+    "intro": "Tonybet un LVBet ir abi 2018. gada paaudzes IAUI licencēti operatori Latvijas tirgū, bet ar atšķirīgu izcelsmi un fokusu. Tonybet pirmsākumi ir Lietuvā 2009. gadā ar profesionālā pokera spēlētāja Antanas Guoga (TonyG) vārdā nosaukto sporta likmju zīmolu; LV tirgū tas darbojas kopš 2017. gada ar kombinētu kazino un sporta paketi. LVBet ir Baltijas mēroga zīmols ar uzsvaru uz sporta likmju ergonomiju un kazino kā papildu produktu.",
+    "verdict": "Salīdzinājums ir tehniska neizšķiršana (3.85 vs 3.9) — abi operatori ieņem otra līmeņa pozīciju LV tirgū aiz Optibet, Klondaika un Laimz. LVBet nedaudz uzvar UI mūsdienīgumā un mobilās lietotnes ergonomikā; Tonybet izceļas pokera istabas piedāvājumā — viena no nedaudzām LV opcijām, kur pieejams live pokeris ar regulāriem turnīriem. Iesakām LVBet vispārējiem spēlētājiem, Tonybet — pokera entuziastiem.",
+    "winner": "tie"
+  },
+  "verde-vs-olybet": {
+    "left": "verde-kazino",
+    "right": "olybet",
+    "title": "Verde vs OlyBet — Jaunpienācējs pret Baltijas veterānu",
+    "intro": "Verde Casino un OlyBet pārstāv divas paaudzes LV tirgū. OlyBet (Olympic Entertainment Group) ir Baltijas mēroga zīmols, kas Latvijā darbojas kopš 2014. gada un uztur kombinētu kazino, sporta un pokera produktu. Verde Casino ir 2022. gada jaunpienācējs LV tirgū — daļa no starptautiskās grupas, kas pārvalda vairākus pakalpojumu zīmolus dažādās Eiropas jurisdikcijās. Verde piedāvā tīri kazino orientētu produktu ar uzsvaru uz vizuālo dizainu un modernizētu UX.",
+    "verdict": "OlyBet uzvar (4.15 vs 4.0) galvenokārt dēļ nostiprinātās Baltijas vēstures, daudzpakāpju produkta piedāvājuma (kazino + sports + pokers) un lojalitātes programmas, kas darbojas visā Olympic tīklā. Verde tomēr piedāvā vienu no mūsdienīgākajiem interfeisiem LV tirgū un izceļas welcome bonusa dāsnumā jaunajiem spēlētājiem. Iesakām OlyBet daudzpusīgam spēlētājam ar Baltijas iesakņojumu; Verde — slotu fokusētam spēlētājam, kurš vēlas testēt jaunāku platformu.",
+    "winner": "olybet"
+  },
+  "betsafe-vs-11lv": {
+    "left": "betsafe-lv",
+    "right": "11lv",
+    "title": "Betsafe vs 11.lv — Sporta DNS pret IAUI veterānu",
+    "intro": "Betsafe LV un 11.lv pieiet Latvijas tirgum no atšķirīgiem leņķiem. Betsafe LV ir daļa no Betsson Group portfeļa — starptautiska Skandināvijas izcelsmes operatora ar 2006. gadā dibinātā Betsafe zīmola tradīciju un izteiktu sporta likmju DNS. 11.lv ir vietējais IAUI licencēts veterāns kopš 2012. gada ar saliedētu kazino + sporta piedāvājumu un izteikti latvisku raksturu. Abi operatori uztur stabilu vidēji augstu kvalitātes līmeni.",
+    "verdict": "11.lv uzvar nedaudz (4.4 vs 4.25) galvenokārt pateicoties ilgākam IAUI nepārtrauktas darbības periodam un labākam tradicionālā wagering klāstam (30× vs Betsafe 35×). Betsafe izceļas sporta likmju ergonomijā, mobilās lietotnes kvalitātē un Skandināvijas regulētības standartu pārnešanā. Iesakām 11.lv spēlētājiem ar primāri kazino fokusu; Betsafe — tiem, kuri vēlas labu sporta likmju produktu apvienojumā ar kazino.",
+    "winner": "11lv"
+  },
+  "olybet-vs-lvbet": {
+    "left": "olybet",
+    "right": "lvbet-kazino",
+    "title": "OlyBet vs LVBet — Divi Baltijas operatori, dažādi mērogi",
+    "intro": "OlyBet un LVBet ir abi Baltijas mēroga zīmoli, bet ar atšķirīgu mērogu un piedāvājuma plašumu. OlyBet ir daļa no Olympic Entertainment Group — Baltijas tirgus līdera ar plašu sauszemes klātbūtni Igaunijā, Latvijā un Lietuvā un attiecīgi Baltijas mēroga online platformu. LVBet ir mērena izmēra Baltijas operators ar koncentrētāku produkta piedāvājumu un sporta likmju uzsvaru. Kazino kvalitātes ziņā abi uztur pieņemamu standartu.",
+    "verdict": "OlyBet uzvar (4.15 vs 3.9) pateicoties mēroga priekšrocībām — plašākam slotu katalogam, lielākam live kazino piedāvājumam, ilgākajai Baltijas vēsturei un Olympic Latvia Club lojalitātes programmas vērtībai (derīga arī sauszemes Olympic kazino). LVBet uztur konkurētspēju vienkāršākā UI un labākā cenu līmenī jaunajiem spēlētājiem. Iesakām OlyBet vairumam spēlētāju; LVBet — tiem, kuriem patīk vienkāršāks produkts ar mazāku izvēles paralīzi.",
+    "winner": "olybet"
+  },
+  "tonybet-vs-laimz": {
+    "left": "tonybet",
+    "right": "laimz",
+    "title": "Tonybet vs Laimz — Sporta zīmols pret kazino tīrsasinīti",
+    "intro": "Tonybet un Laimz darbojas pavisam dažādās stratēģiskās nišās. Tonybet ir Lietuvas izcelsmes sporta likmju zīmols ar kazino kā papildu produktu — pokera istaba ir nozīmīga sastāvdaļa, slotu katalogs ir mērens. Laimz ir tīrs kazino zīmols ar izteikti cashback orientētu bonusu modeli, bez sporta likmēm un bez pokera. Šis ir tipisks „īstais salīdzinājums” starp daudzfunkcionālu un specializētu operatoru.",
+    "verdict": "Laimz uzvar nepārprotami kazino kategorijā (4.4 vs 3.85) — labāks slotu katalogs, modernāks interfeiss, caurspīdīgāks cashback bonusu modelis. Tonybet tomēr piedāvā unikālu vērtību spēlētājiem, kuri vēlas vienā kontā apvienot kazino, sportu un pokeru. Iesakām Laimz tīriem kazino spēlētājiem; Tonybet — daudzpusīgiem spēlētājiem, kuri vēlas tikai vienu kontu visam Baltijas spēļu portfelim.",
+    "winner": "laimz"
   }
 }
