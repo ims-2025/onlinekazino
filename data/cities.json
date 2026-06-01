@@ -532,46 +532,63 @@
       "region": "Zemgale",
       "regionLabel": "Zemgale",
       "tier": "maza pilsēta",
-      "lede": "Tukums — Zemgales rietumu pilsēta — uztur mērenu IAUI licencētu spēļu zāļu piedāvājumu ar fokusu uz vietējiem spēlētājiem.",
+      "lede": "Tukums — Zemgales rietumu pilsēta uz pus ceļa starp Rīgu un Liepāju — uztur mērenu IAUI licencētu spēļu zāļu piedāvājumu, bet faktiskā kazino aina vietējiem spēlētājiem ir koncentrēta tuvākajā Jūrmalā un Rīgā.",
       "intro": [
-        "Tukumā darbojas dažas IAUI licencētas spēļu zāles, galvenokārt izvietotas centrā ap Talsu ielu un Brīvības laukumu. Pilnvērtīgs klasisks kazino Tukumā nav, un lielāku spēli vietējie iedzīvotāji meklē Rīgā (60 km) vai Jūrmalā (35 km).",
-        "Pilsētas tuvums Rīgai un Jūrmalai — visas trīs atrodas Rīgas līča dienvidu krastā — nozīmē, ka Tukuma spēlētājiem ir ērta piekļuve daudz lielākam kazino piedāvājumam ar īsu auto braucienu."
+        "Tukumā darbojas dažas IAUI licencētas spēļu zāles, galvenokārt izvietotas centrā ap Talsu ielu, Brīvības laukumu un Pasta ielu. Pilnvērtīgs klasisks kazino ar dzīvajiem dīleriem Tukumā nav, un lielāku spēli vietējie iedzīvotāji parasti meklē tuvākajā Jūrmalā (35 km) vai Rīgā (60 km). Tas atspoguļo Tukuma stāvokli kā mēreni lielas, bet ne lielpilsētas mēroga centra Kurzemes austrumu robežā.",
+        "Pilsētas tuvums Rīgai un Jūrmalai — visas trīs atrodas Rīgas līča dienvidu un dienvidrietumu krastā — nozīmē, ka Tukuma spēlētājiem ir ērta piekļuve daudz lielākam kazino piedāvājumam ar īsu auto braucienu. Tomēr Tukumam ir sava klientūra — vietējie regulārie spēļu zāļu apmeklētāji un Slampes, Engures, Smārdes apkārtnes iedzīvotāji, kuriem Tukums ir tuvākais cilvēka mēroga centrs.",
+        "Tukuma ekonomikas profils — pārtikas pārstrāde, kokapstrāde, tūrisma sezonālā darbība pie Engures ezera — nozīmē, ka kazino apmeklējums ir vairāk nedēļas nogales izklaide nekā ikdienas pieradums. Pilsētas latviskais kultūras raksturs un izteikti latviešu valodā runājoša klientūra atšķiras no, piemēram, Daugavpils vai Rēzeknes konteksta."
       ],
       "venueOverview": {
         "casinoCount": "0",
         "slotHallCount": "3–5",
         "dominantOperator": "vietējās IAUI licencētās zāles",
         "secondaryOperators": ["Alfor", "SIA Joker LTD"],
-        "districts": ["Centrs"]
+        "districts": ["Centrs", "Tukuma stacijas rajons"]
       },
       "sections": [
         {
           "heading": "Tukuma spēļu vide",
-          "body": "Tukuma spēļu zāles ir vidēji nelielas — 20–50 automāti, parasti bez galda spēļu galdiem. Strādā tirdzniecības laika robežās, dažas līdz pusnaktij."
+          "body": "Tukuma IAUI licencētās spēļu zāles ir vidēji nelielas — 20–50 automātu vienības katrā — un strādā galvenokārt no rīta līdz vēlam vakaram. Dažas centrālās zāles paildzina darba laiku līdz pusnaktij nedēļas nogalēs. Klasisku galda spēļu — dzīvas ruletes, blackjack ar dīleri — Tukumā šobrīd nav. Klients, kurš vēlas šādu pieredzi, brauc uz Jūrmalu vai Rīgu. Likmes Tukuma zālēs ir zemākas nekā lielpilsētās — automātos no €0,01–€0,05 par grieziena rindu, ar lielāku klasisko 3-rullīšu automātu īpatsvaru salīdzinājumā ar Rīgu, kur jaunākās video sloti dominē."
         },
         {
-          "heading": "Tuvākās lielākās opcijas",
-          "body": "Olympic Voyage Jūrmalā — 35 minūtes ar auto. Rīgas Olympic Park vai Klondaika — 60–75 minūtes ar auto. Daudzi Tukuma spēlētāji izvēlas nedēļas nogales braucienus uz Jūrmalu kā kombināciju ar SPA, vakariņām un kazino."
-        },
-        {
-          "heading": "Online opcijas",
-          "body": "Online kazino īpaši praktiskas Tukuma un Zemgales rietumu spēlētājiem, kuri nevēlas regulāri braukt uz Rīgu vai Jūrmalu.",
+          "heading": "Jūrmalas dienas brauciens kā populāra Tukuma opcija",
+          "body": "Tukuma spēlētāji, kuri meklē pilnvērtīgu kazino pieredzi vienā dienā, bieži izvēlas Jūrmalu. Olympic Voyage Casino Majoros ir 35 minūšu auto brauciens, bet sasniedzams arī ar vilcienu (Tukums I–Jūrmala–Rīga līnija). Nedēļas nogales paketes ar viesnīcas naktsmītni un SPA pakalpojumu izvēlas vidēja un augstāka ienākuma Tukuma iedzīvotāji — sevišķi vasaras sezonā, kad Jūrmala ir aktīva. Mazākie ceļojuma izdevumi padara šo opciju ekonomiski jēdzīgu pat reizi mēnesī.",
           "links": [
-            { "href": "/kazino/optibet/", "label": "Optibet" },
-            { "href": "/kazino/olybet/", "label": "OlyBet" },
-            { "href": "/bonusi/depozita-bonusi/", "label": "Depozīta bonusi" }
+            { "href": "/sauszemes-kazino/jurmala/", "label": "Sauszemes kazino Jūrmalā — pilns ceļvedis" }
           ]
         },
         {
-          "heading": "Atbildīga spēle",
-          "body": "Atbalsts pieejams caur Skalbes un DIA tīklu visā Latvijā. PPR vienots.",
+          "heading": "Rīgas opcijas Tukuma viesiem",
+          "body": "Rīgas Olympic Park un Klondaika ir 60–75 minūšu auto brauciens no Tukuma centra. Lielāku piedzīvojumu meklētāji — augstas likmes pokera turnīri, VIP zāles, plašs live galdu klāsts — izvēlas šo virzienu. No Tukuma I dzelzceļa stacijas vilciens uz Rīgas centrālstaciju kursē regulāri, brauciens ilgst aptuveni 1 h 10 min. Pēc tam — gājiena attālumā līdz vairākām centra kazino atrašanās vietām.",
           "links": [
-            { "href": "/atbildiga-spele/pasatteikuso-registrs/", "label": "PPR" }
+            { "href": "/sauszemes-kazino/riga/", "label": "Sauszemes kazino Rīgā" }
+          ]
+        },
+        {
+          "heading": "Online kazino kā pamatkanāls Tukuma spēlētājiem",
+          "body": "Lielākā daļa Tukuma spēlētāju, kuri spēlē regulāri, izmanto IAUI licencētus online kazino kā galveno spēles vietu. Iemesli ir vienkārši — 1500+ slotu izvēle pret 30–50 Tukuma zālē, dzīvi galdi 24 stundas diennaktī, latviešu valodas atbalsts un ērtas iemaksas caur Latvijas bankām (Swedbank Link, Citadele, SEB). Mobilā spēle ir īpaši izplatīta vakaros un nedēļas nogalēs.",
+          "links": [
+            { "href": "/kazino/optibet/", "label": "Optibet — populārākais Zemgales rietumu spēlētāju vidū" },
+            { "href": "/kazino/olybet/", "label": "OlyBet" },
+            { "href": "/kazino/laimz/", "label": "Laimz — moderns latviešu interfeiss" },
+            { "href": "/bonusi/depozita-bonusi/", "label": "Welcome depozīta bonusu salīdzinājums" },
+            { "href": "/maksajumi/swedbank-link/", "label": "Swedbank Link iemaksu ceļvedis" }
+          ]
+        },
+        {
+          "heading": "Atbildīga spēle Tukumā un Zemgalē",
+          "body": "Atbildīgas spēles atbalsts Tukuma iedzīvotājiem pieejams caur Skalbes diennakts uzticības tālruni (+371 67 222 922) un DIA atbalsta grupu tīklu, kas darbojas arī Zemgalē. Tukuma slimnīcas garīgās veselības speciālisti var sniegt sākotnēju konsultāciju; specializētāks atkarību speciālistu atbalsts biežāk pieejams Rīgā vai Jelgavā. Pašatteikušos personu reģistrs (PPR) ir vienots visā Latvijā — viens pieteikums slēdz piekļuvi gan klātienes zālēm Tukumā, gan visiem IAUI licencētajiem online operatoriem 12 mēnešus vai uz nenoteiktu laiku. Pieteikšanās caur IAUI portālu ir bezmaksas un aizņem aptuveni 10 minūtes.",
+          "links": [
+            { "href": "/atbildiga-spele/pasatteikuso-registrs/", "label": "PPR pieteikuma ceļvedis" },
+            { "href": "/atbildiga-spele/limitu-iestatisana/", "label": "Limitu iestatīšana" }
           ]
         }
       ],
       "faq": [
-        { "q": "Vai Tukumā ir live kazino?", "a": "Tukumā live dīleru galda spēles nav pieejamas. Šādu pieredzi meklējiet Jūrmalā, Rīgā vai online." }
+        { "q": "Vai Tukumā ir live kazino?", "a": "Tukumā dzīvo dīleru galda spēles nav pieejamas — IAUI licencētās vietas šeit ir spēļu zāles ar automātiem. Pilnvērtīgu live pieredzi meklējiet Jūrmalā (Olympic Voyage), Rīgā vai online platformās." },
+        { "q": "Cik tālu Tukums no Jūrmalas?", "a": "Aptuveni 35 km — auto brauciens 30–40 min, vilciens 45 min, autobuss apmēram 1 h." },
+        { "q": "Vai Tukuma spēļu zāles pieņem bankas kartes?", "a": "Lielākā daļa pieņem skaidru naudu eiro; kartes pieņemšana ir individuāla. Pirms apmeklējuma ieteicams pajautāt operatoram." },
+        { "q": "Kāds ir tuvākais pilnvērtīgs kazino Tukuma iedzīvotājam?", "a": "Olympic Voyage Casino Jūrmalā — 35 minūšu auto brauciens. Otrā tuvākā opcija — Olympic Park Casino Rīgā (~75 min)." }
       ]
     },
     {
@@ -583,46 +600,59 @@
       "region": "Pierīga",
       "regionLabel": "Vidzeme",
       "tier": "maza pilsēta",
-      "lede": "Ogre — Daugavas labā krasta Pierīgas pilsēta — uztur ierobežotu IAUI licencētu spēļu zāļu piedāvājumu, ar vietējiem spēlētājiem ērti pieejamu Rīgas alternatīvu.",
+      "lede": "Ogre — Daugavas labā krasta Pierīgas pilsēta — uztur ierobežotu IAUI licencētu spēļu zāļu piedāvājumu, ko vietējie spēlētāji bieži papildina ar regulāriem Rīgas apmeklējumiem un mobilo online spēli.",
       "intro": [
-        "Ogrē kā Rīgas tuvākajā Pierīgas pilsētā darbojas dažas IAUI licencētas spēļu zāles. Pilnvērtīgs klasisks kazino Ogrē nav, jo Rīga atrodas tikai 40 km attālumā — daudzi vietējie spēlētāji izvēlas tieši braukt uz Rīgas Olympic Park, Klondaika vai citiem lielajiem kazino.",
-        "Pilsētas profils — galvenokārt dzīvojamā, ar pendlēšanu uz Rīgu — nozīmē, ka kazino apmeklējums bieži vien notiek tieši Rīgā darba dienas beigās, nevis vietējās Ogres zālēs."
+        "Ogrē kā vienā no Rīgas tuvākajām Pierīgas pilsētām darbojas dažas IAUI licencētas spēļu zāles centrā. Pilnvērtīgs klasisks kazino ar dzīvajiem dīleriem Ogrē nav un nav arī plānots — Rīga atrodas tikai 40 km attālumā, un lielākā daļa vietējo spēlētāju, kuri meklē nopietnu kazino pieredzi, izvēlas tieši braukt uz Rīgas Olympic Park, Klondaika vai citu lielo kazino vietu.",
+        "Pilsētas profils ir izteikti dzīvojamais — Ogre ir viena no klasiskajām pendletāju pilsētām, kur ievērojama daļa darbaspējīgo iedzīvotāju katru darba dienu brauc uz Rīgu strādāt un atgriežas vakarā. Tas tieši ietekmē kazino apmeklējumu paradumus: spēles brīži bieži notiek vilcienā ar mobilo lietotni, pēc darba Rīgas centrā pirms vilciena uz mājām, vai vakaros mājās online.",
+        "Ogres ekonomikas profils — pārtikas pārstrāde (Latvijas bekons un piena pārstrāde), kokapstrāde, tekstilrūpniecība un tūrisms gar Daugavu — apvienots ar mērenu vidējo ienākumu līmeni, padara Ogres spēlētāju klientūru piesardzīgāku par likmēm. Vairāk budžeta apzinīga spēle, mazāk impulsīva."
       ],
       "venueOverview": {
         "casinoCount": "0",
         "slotHallCount": "3–5",
         "dominantOperator": "vietējās IAUI licencētās zāles",
         "secondaryOperators": ["Alfor"],
-        "districts": ["Centrs"]
+        "districts": ["Centrs", "Daugavpils ielas rajons"]
       },
       "sections": [
         {
           "heading": "Ogres spēļu zāles",
-          "body": "Ogres spēļu zāles ir vidēji nelielas, ar 20–50 automātiem katrā. Galvenokārt izvietotas centrā ap Brīvības ielu. Strādā parastās tirdzniecības laika robežās."
+          "body": "Ogres IAUI licencētās spēļu zāles ir vidēji nelielas — 20–50 automātu vienības katrā. Galvenokārt izvietotas centrā ap Brīvības ielu, Mednieku ielu un dzelzceļa stacijas tuvumā. Strādā parastās tirdzniecības laika robežās, lielākā daļa līdz vēlam vakaram. Klasisku galda spēļu galdi Ogrē nav. Klientūra — galvenokārt vietējie regulārie spēlētāji un dažkārt apmeklētāji no apkārtējiem Ikšķiles, Lielvārdes un Ķeguma ciematiem."
         },
         {
-          "heading": "Rīga — vairāk vai mazāk 40 km",
-          "body": "Auto brauciens līdz Rīgas centrālajām kazino atrašanās vietām — 35–45 minūtes. Sabiedriskais transports — autobuss vai vilciens (Rīga–Ogre–Aizkraukle) — darbojas vairākas reizes stundā. Ogres iedzīvotāji bieži apvieno kazino apmeklējumu ar Rīgas vakara izklaidi."
+          "heading": "Vilciens Rīga–Ogre — pendletāju asinsrite",
+          "body": "Vilciens Rīga–Ogre–Aizkraukle līnijā kursē ļoti regulāri — darba dienās ik pēc 20–30 minūtēm rīta un vakara stundās, dienā mazāk biežāk. Brauciens no Ogres līdz Rīgas centrālstacijai ilgst 40 minūtes; biļete maksā aptuveni €2,50 vienam virzienam, abonementa cena ievērojami zemāka. No Centrālstacijas līdz lielākajām Rīgas kazino atrašanās vietām — Olympic Park (Brīvības gatve), Klondaika (centrs), Olympic Voyage (Elizabetes iela) — gājiena attālumā vai īsa autobusa brauciena attālumā. Tas padara nedēļas vai mēneša kazino apmeklējumu praktisku Ogres pendletājiem bez papildu transporta plānošanas."
         },
         {
-          "heading": "Online opcijas",
-          "body": "Pendlētāju dzīvesveids nozīmē, ka Ogres spēlētāji bieži izmanto mobilās kazino lietotnes vilcienā vai pēc darba dienas. Latvijas IAUI licencētie operatori atbalsta pilnvērtīgu mobilo spēli.",
+          "heading": "Daugavas augšteces tūrisma konteksts",
+          "body": "Ogre atrodas Daugavas augšteces tūrisma maršrutā — Sigulda, Līgatne, Ķegums un Aizkraukle ir tuvākie pievilcīgākie galamērķi. Ne vienā no šīm vietām nav lielu kazino, tāpēc Daugavas tūristiem, kuri vēlas pievienot kazino vakaru savai dienai, Ogre praktiski kalpo kā vārti uz Rīgas plašāku piedāvājumu. Vasarā Daugavas līkločos pie Ogres ir aktīva ūdens tūrisma sezona, bet kazino apmeklējums šeit nav primārais piedāvājums."
+        },
+        {
+          "heading": "Online kazino — pendletāju mobilā realitāte",
+          "body": "Pendletāju dzīvesveids nosaka, ka Ogres spēlētāji ir vieni no aktīvākajiem mobilās kazino spēles lietotājiem Pierīgā. Tipiska sesija — 15–30 minūtes vilcienā uz Rīgu vai atpakaļ, ar zemām likmēm, izmantojot iesāktu sloga turnīru vai live ruletes ātro raundu. IAUI licencētie online operatori uztur pilnvērtīgas mobilās lietotnes ar latviešu valodas atbalstu, ātru iemaksu caur Trustly vai bankas saiti, un izņemšanu, kas ievērojami ātrāka nekā vēsturiski (vidēji 1–6 stundas pie Optibet vai OlyBet).",
           "links": [
-            { "href": "/kazino/optibet/", "label": "Optibet" },
-            { "href": "/kazino/laimz/", "label": "Laimz — laba mobilā lietotne" },
-            { "href": "/speles/spelu-automati/", "label": "Spēļu automātu ceļvedis" }
+            { "href": "/kazino/optibet/", "label": "Optibet — visstabilākā mobilā lietotne" },
+            { "href": "/kazino/laimz/", "label": "Laimz — moderns latviešu mobilais interfeiss" },
+            { "href": "/kazino/olybet/", "label": "OlyBet" },
+            { "href": "/maksajumi/trustly/", "label": "Trustly Pay-N-Play — ātrākais iemaksu veids" },
+            { "href": "/speles/spelu-automati/", "label": "Spēļu automātu ceļvedis" },
+            { "href": "/speles/live-kazino/", "label": "Live kazino" }
           ]
         },
         {
-          "heading": "Atbildīga spēle",
-          "body": "Atbalsts pieejams caur Latvijas tīklu. PPR un limiti pieejami visā valstī.",
+          "heading": "Atbildīga spēle un pendletāju riski",
+          "body": "Pendletāju dzīvesveids — ar regulāriem 40 minūšu „brīviem” laika logiem vilcienā divreiz dienā — rada specifisku risku impulsīvai mobilai spēlei. Iesakām Ogres spēlētājiem aktīvi izmantot depozīta un sesijas laika limitus, kurus visi IAUI licencētie online operatori piedāvā standartā. Pašatteikušos personu reģistrs (PPR) pieejams caur IAUI portālu — bezmaksas, anonīma pieteikšanās, kas slēdz piekļuvi gan visiem online operatoriem, gan klātienes zālēm Latvijā 12 mēnešus vai uz nenoteiktu laiku. Skalbes uzticības tālrunis (+371 67 222 922) ir pieejams 24 stundas diennaktī.",
           "links": [
-            { "href": "/atbildiga-spele/", "label": "Atbildīgas spēles ceļvedis" }
+            { "href": "/atbildiga-spele/", "label": "Atbildīgas spēles ceļvedis" },
+            { "href": "/atbildiga-spele/limitu-iestatisana/", "label": "Sesijas limitu iestatīšana" },
+            { "href": "/atbildiga-spele/pasatteikuso-registrs/", "label": "Pašatteikušos personu reģistrs" }
           ]
         }
       ],
       "faq": [
-        { "q": "Cik tālu Ogre no Rīgas?", "a": "Aptuveni 40 km — auto 35–45 min, vilciens 40 min." }
+        { "q": "Cik tālu Ogre no Rīgas?", "a": "Aptuveni 40 km — auto 35–45 min, vilciens 40 min. Vilciens kursē ik pēc 20–30 minūtēm rīta un vakara stundās." },
+        { "q": "Vai Ogrē ir pilnvērtīgs kazino?", "a": "Nē, tikai IAUI licencētas spēļu zāles ar automātiem. Tuvākais pilnvērtīgs kazino — Olympic Park vai Klondaika Rīgā, 40–50 minūšu attālumā." },
+        { "q": "Kāds maksājuma veids vislabāk darbojas Ogres spēlētājiem online?", "a": "Trustly Pay-N-Play ir populārs, jo tas ļauj iemaksāt bez ilgas reģistrācijas, izmantojot Latvijas bankas autentifikāciju. Swedbank Link, SEB un Citadele tiešsaistes maksājumi ir pieejami visos IAUI licencētajos operatoros." },
+        { "q": "Vai mobilā spēle vilcienā ir likumīga?", "a": "Jā, IAUI licencēti operatori atļauj spēli no jebkuras vietas Latvijā ar interneta savienojumu. Vienīgais nosacījums — spēlētājam jābūt vismaz 18 gadu vecam un atrastam Latvijā." }
       ]
     },
     {
@@ -634,10 +664,11 @@
       "region": "Pierīga",
       "regionLabel": "Vidzeme",
       "tier": "maza pilsēta",
-      "lede": "Salaspils — Rīgas tiešs satelītpilsēta — uztur minimālu IAUI licencētu spēļu zāļu skaitu, jo vairums vietējo spēlētāju izmanto Rīgas piedāvājumu tikai 20 km attālumā.",
+      "lede": "Salaspils — Rīgas satelītpilsēta uz Daugavas labā krasta — uztur minimālu IAUI licencētu spēļu zāļu klātbūtni, jo gandrīz visi vietējie spēlētāji izmanto Rīgas piedāvājumu tikai 20 km attālumā vai pārceļ spēli pilnīgi uz online platformām.",
       "intro": [
-        "Salaspils ir viena no Rīgas tuvākajām pilsētām — tikai 20 km no Rīgas centra — un tāpēc IAUI licencētu spēļu zāļu skaits šeit ir neliels. Lielākā daļa Salaspils iedzīvotāju, kas vēlas spēlēt kazino, brauc uz Rīgu.",
-        "Pilsētas profils — galvenokārt dzīvojamā un zinātnes (Salaspils Botāniskais dārzs, kodolfizikas institūta vēsturiskā vieta) — nozīmē, ka kazino apmeklējums Salaspilī ir vairāk izņēmums nekā regulāra darbība."
+        "Salaspils ir viena no Rīgas tuvākajām pilsētām — tikai 20 km no Rīgas centra Daugavas labajā krastā — un tāpēc IAUI licencētu spēļu zāļu skaits šeit ir mazs. Lielākā daļa Salaspils iedzīvotāju, kuri vēlas spēlēt kazino klātienē, brauc uz Rīgu, un ikdienas spēli pārvieto uz mobilo lietotni vai datoru.",
+        "Pilsētas profils ir izteikti specifisks Latvijas kontekstā — Salaspils ir vēsturiska zinātnes pilsēta, kuras vārds saistīts gan ar Salaspils Botānisko dārzu (viens no lielākajiem ārtelpu botāniskajiem dārziem Baltijā), gan ar bijušā padomju laika kodolzinātnes pētniecības institūta atstāto infrastruktūru. Latvijas Universitātes Bioloģijas institūts un vairāki citi pētniecības centri darbojas Salaspilī, kas nozīmē, ka pilsētas iedzīvotāju vidū ir augstāks akadēmiski izglītotu darbinieku īpatsvars nekā Latvijas vidējais.",
+        "Šis demogrāfiskais profils — apvienots ar pendletāju dzīvesveidu uz Rīgu un tuvumu lielpilsētai — tieši ietekmē kazino apmeklējumu paradumus. Salaspils spēlētāji ir tipiski analītiskāki, ar mērenu, bet stabilu spēles ritmu, un izteikti dod priekšroku online platformām, kuras piedāvā detalizētus RTP datus, statistikas vēsturi un atbildīgas spēles instrumentus."
       ],
       "venueOverview": {
         "casinoCount": "0",
@@ -649,31 +680,50 @@
       "sections": [
         {
           "heading": "Salaspils spēļu vide",
-          "body": "Salaspilī ir tikai dažas mazas IAUI licencētas spēļu zāles, lielākoties centrā. Pilnvērtīgs kazino nav."
+          "body": "Salaspilī ir tikai dažas mazas IAUI licencētas spēļu zāles, lielākoties izvietotas centrā ap Rīgas ielu vai stacijas tuvumā. Pilnvērtīgs klasisks kazino šeit nav un netiek plānots — pilsētas izmērs un tuvums Rīgai nav ekonomiski pamatojuma šādam projektam. Esošās zāles ir nelielas (20–40 automātu vienības katrā), strādā galvenokārt pievakara stundās, un to klientūru veido vietējie regulārie apmeklētāji, kuri vēlas īsu spēles pārtraukumu bez braucieniem."
         },
         {
-          "heading": "Rīga — 20 km",
-          "body": "Auto brauciens līdz Rīgas centra kazino — 25–30 minūtes. Sabiedriskais transports — autobuss vai vilciens — darbojas ļoti regulāri."
-        },
-        {
-          "heading": "Online — primārā opcija",
-          "body": "Lielākajai daļai Salaspils spēlētāju online kazino ir primārā opcija, jo gan vietējais piedāvājums ir ierobežots, gan Rīgas alternatīva nozīmē papildu ceļošanu.",
+          "heading": "Rīga — 20 km, ļoti vienkāršs brauciens",
+          "body": "Auto brauciens līdz Rīgas centra kazino atrašanās vietām — 25–30 minūtes pie normālas satiksmes, līdz 45 minūtēm rīta vai vakara sastrēgumstundā. Sabiedriskais transports — autobuss Nr. 14 un Nr. 16, kā arī vilciens Rīga–Aizkraukle līnijā — kursē regulāri. Vilciens no Salaspils stacijas līdz Rīgas centrālstacijai aizņem aptuveni 20 minūtes; biļete maksā mazāk par €2. No centrālstacijas līdz Olympic Park, Klondaika, Olympic Voyage un citām lielākajām kazino atrašanās vietām — gājiena attālumā vai īsa autobusa brauciena attālumā. Tādējādi Rīgas kazino aina ir tikpat ērti pieejama Salaspils iedzīvotājam, cik daudziem Rīgas centra iedzīvotājiem pašiem.",
           "links": [
-            { "href": "/kazino/optibet/", "label": "Optibet" },
-            { "href": "/kazino/klondaika-kazino/", "label": "Klondaika Online" },
-            { "href": "/bonusi/", "label": "Welcome bonusi" }
+            { "href": "/sauszemes-kazino/riga/", "label": "Sauszemes kazino Rīgā — pilns ceļvedis" }
           ]
         },
         {
-          "heading": "Atbildīga spēle",
-          "body": "Atbalsts pieejams caur Skalbes un DIA tīklu.",
+          "heading": "Zinātnes pilsēta un analītiska spēles pieeja",
+          "body": "Salaspils demogrāfiskais profils — augstāks akadēmisko un STEM darbinieku īpatsvars nekā Latvijas vidējais — atspoguļojas spēles paradumos. Salaspils spēlētāji bieži ir vieni no aktīvākajiem RTP, varianses un mājas malas analīzes meklētājiem; Olympic un Klondaika lojalitātes programmu nosacījumus rūpīgi salīdzina; bonusu wagering matemātiku detalizēti pārbauda pirms reģistrēšanās. Šim klientūras tipam mūsu detalizētie operatoru salīdzinājumi un metodoloģijas dokumentācija ir vērtīgāka nekā skaļākais welcome bonuss.",
           "links": [
-            { "href": "/atbildiga-spele/", "label": "Atbildīgas spēles ceļvedis" }
+            { "href": "/metodologija/", "label": "Mūsu vērtēšanas metodoloģija — pieci kritēriji" },
+            { "href": "/salidzinajumi/", "label": "Operatoru tieši salīdzinājumi" }
+          ]
+        },
+        {
+          "heading": "Online kazino — Salaspils spēlētāju primārais kanāls",
+          "body": "Lielākajai daļai Salaspils spēlētāju online kazino nav alternatīva — tā ir pamata spēles vieta. Iemesli ir vairāki: pirmais — pilsētas mēroga zāles ir mazas un piedāvājums salīdzinoši ierobežots; otrais — Rīgas kazino, lai gan ērti sasniedzami, prasa apzinātu plānošanu un laika ieguldījumu; trešais — pendletāju ritms padara mājas spēli pēc darba dienas vai nedēļas nogalē par dabisku izvēli. IAUI licencētie online operatori atbalsta latviešu valodu, ātras iemaksas caur Latvijas bankām, mobilās lietotnes un caurspīdīgu RTP datu publikāciju.",
+          "links": [
+            { "href": "/kazino/optibet/", "label": "Optibet — populārākais Pierīgas spēlētāju vidū" },
+            { "href": "/kazino/klondaika-kazino/", "label": "Klondaika Online — vietējais zīmols" },
+            { "href": "/kazino/laimz/", "label": "Laimz — modernākais latviešu interfeiss" },
+            { "href": "/kazino/olybet/", "label": "OlyBet" },
+            { "href": "/bonusi/", "label": "Welcome bonusu salīdzinājums" },
+            { "href": "/spelu-izstradataji/netent/", "label": "NetEnt — augsta RTP slotu izstrādātājs" }
+          ]
+        },
+        {
+          "heading": "Atbildīga spēle Pierīgā",
+          "body": "Atbildīgas spēles atbalsts Salaspils iedzīvotājiem pieejams caur Skalbes diennakts uzticības tālruni (+371 67 222 922) un DIA atbalsta grupu tīklu, kas darbojas visā Pierīgā un Rīgā. Specializētāks atkarību speciālistu atbalsts pieejams Rīgas Stradiņa universitātes klīnikā un dažās privātās praksēs Rīgā. Pašatteikušos personu reģistrs (PPR) caur IAUI portālu ir bezmaksas un attiecas vienlīdz uz visiem Latvijas operatoriem — gan online, gan klātienē. Tā kā Salaspils spēlētāji galvenokārt izmanto online platformas, ir īpaši svarīgi izmantot platformas iebūvētos depozīta un sesijas laika limitus.",
+          "links": [
+            { "href": "/atbildiga-spele/", "label": "Atbildīgas spēles ceļvedis" },
+            { "href": "/atbildiga-spele/limitu-iestatisana/", "label": "Limitu iestatīšana — soli pa solim" },
+            { "href": "/atbildiga-spele/pasatteikuso-registrs/", "label": "Pašatteikušos personu reģistrs" }
           ]
         }
       ],
       "faq": [
-        { "q": "Cik tālu Salaspils no Rīgas?", "a": "Aptuveni 20 km — auto 25 min, vilciens 20 min." }
+        { "q": "Cik tālu Salaspils no Rīgas?", "a": "Aptuveni 20 km — auto 25–30 min, vilciens 20 min. Vilciens Rīga–Aizkraukle līnijā kursē ļoti regulāri, ar biļeti zem €2." },
+        { "q": "Vai Salaspilī ir kāds pilnvērtīgs kazino?", "a": "Nē, tikai dažas mazas IAUI licencētas spēļu zāles. Tuvākais pilnvērtīgs klasisks kazino ir Olympic Park vai Klondaika Rīgā — 25–30 minūšu attālumā." },
+        { "q": "Vai online kazino ir Salaspils spēlētājiem labākā izvēle?", "a": "Lielākajai daļai jā — gan ērtuma, gan piedāvājuma plašuma dēļ. IAUI licencētie operatori piedāvā 1500+ slotus pret 20–40 vietējās spēļu zālē, dzīvos dīleru galdus 24 stundas diennaktī un caurspīdīgu RTP datu publikāciju." },
+        { "q": "Vai Salaspils zinātnes institūta darbiniekiem ir kādi īpaši kazino piedāvājumi?", "a": "Nē. IAUI regulējumi neatļauj specifiskas atlaides darba grupām vai profesijām. Lojalitātes programmas ir vienotas visiem klientiem un balstītas uz spēles vēsturi, nevis demogrāfiju." }
       ]
     }
   ]

@@ -8,7 +8,7 @@ import { buildMetadata, trimDescription } from '@/lib/seo';
 import { getCities, getCitiesMeta } from '@/lib/cities';
 
 export const metadata = buildMetadata({
-  title: 'Sauszemes kazino Latvijā 2026 — IAUI licencētu vietu ceļvedis',
+  title: 'Sauszemes kazino Latvijā 2026 — IAUI ceļvedis',
   description: trimDescription(
     'Sauszemes kazino un spēļu zāles visā Latvijā — Rīgā, Liepājā, Daugavpilī, Jūrmalā, Ventspilī un citur. IAUI licencēts piedāvājums pa pilsētām, salīdzinājumi ar online opcijām.',
   ),

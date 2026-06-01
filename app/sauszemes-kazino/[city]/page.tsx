@@ -20,7 +20,10 @@ export async function generateMetadata({ params }: Props) {
   const c = getCityBySlug(params.city);
   if (!c) return {};
   return buildMetadata({
-    title: `Sauszemes kazino ${c.nameLocative} — IAUI licencēto vietu ceļvedis 2026`,
+    // Compact title: "Sauszemes kazino {Locative} — IAUI ceļvedis 2026"
+    // — kept under 55 chars for every Latvian locative form so Google
+    // never truncates in the SERP and trimTitle() never has to cut.
+    title: `Sauszemes kazino ${c.nameLocative} — IAUI ceļvedis 2026`,
     description: trimDescription(c.lede),
     path: `/sauszemes-kazino/${params.city}/`,
     type: 'article',
