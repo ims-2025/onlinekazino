@@ -177,6 +177,71 @@ export default function CasinoVsSlotHallPage() {
             kazino nav pieejams.
           </p>
 
+          <h2>Spēļu zāļu licences procedūra un IAUI uzraudzība</h2>
+          <p>
+            Spēļu zāles licences iegūšana IAUI ir samērā strukturēta
+            procedūra. Operators iesniedz pieteikumu, kas ietver konkrētu
+            adresi, telpas plānu, automātu specifikācijas, drošības
+            sistēmu aprakstu, finanšu izcelsmes apliecinājumu un personāla
+            sertifikāciju. IAUI veic objekta apsekošanu pirms licences
+            izsniegšanas, pārbauda tā, lai atrašanās vieta atbilstu
+            ģeogrāfiskajiem ierobežojumiem (ne tuvāk noteiktajiem
+            attālumiem no skolām, baznīcām, jaunatnes iestādēm) un lai
+            tehniskais aprīkojums atbilstu sertificētiem RTP standartiem.
+          </p>
+          <p>
+            Kazino licence ir vēl prasīgāka — papildus visiem spēļu zāļu
+            prasībām nepieciešams dīleru sertifikācijas pierādījums,
+            atsevišķa kasieres telpas konfigurācija, plašāka kameru un
+            drošības sistēma, kā arī augstāka finanšu izcelsmes prasība.
+            Tas izskaidro, kāpēc kazino licenču Latvijā ir mazāk nekā
+            spēļu zāļu — entry barjera ir augstāka gan finanšu, gan
+            operacionālā līmenī. IAUI uztur publisku{' '}
+            <a href="https://www.iaui.gov.lv/lv/licences" target="_blank" rel="noopener noreferrer" className="underline decoration-line hover:decoration-carmine-500">
+              licenciātu reģistru
+            </a>{' '}
+            ar pilnu sarakstu, ko ieteicams pārbaudīt pirms apmeklējuma.
+          </p>
+
+          <h2>Spēļu zāļu segmenti — kuri operatori dominē</h2>
+          <p>
+            Latvijas spēļu zāļu tirgu dominē trīs galvenie operatori:
+            Olympic Entertainment Group (caur Olympic Park un mazākiem
+            Olympic spēļu zāļu formātiem), SIA Joker LTD (dažādu vietējo
+            zīmolu konfigurācijās) un Alfor (specializēts spēļu zāļu
+            operators ar fokusu uz mazākām pilsētām un dzīvojamiem
+            rajoniem). Bez šīm trim ir vairāk neatkarīgu mazāku operatoru,
+            kas uztur 1–3 atrašanās vietas, parasti reģionos.
+          </p>
+          <p>
+            Konsolidācijas tendence — pēdējos 5–7 gados Latvijas spēļu zāļu
+            tirgus ir konsolidējies. Mazākie neatkarīgie operatori ir pārdoti
+            vai pārņemti, un Olympic, Joker un Alfor kontrolē lielāko tirgus
+            daļu. Šī tendence ir paralēla pārējās Eiropas — regulējumu
+            prasības pieaug, un mērogs paliek izšķirošs faktors.
+          </p>
+
+          <h2>Klientūras atšķirības — kazino vs spēļu zāles</h2>
+          <p>
+            Statistiski Latvijas kazino klienti ir vidēji vecāki (35–55
+            gadi), augstāka ienākuma līmeņa un biežāk apmeklē kazino kā
+            vakara izklaides daļu — ar vakariņām, dzērieniem un sociālo
+            kontekstu. Spēļu zāles klienti — vidēji jaunāki (25–45 gadi),
+            mērena ienākuma līmeņa un apmeklē biežāk, bet īsāk — vidēji
+            sesija ir 15–45 minūtes spēļu zālē pretēji 2–4 stundām
+            kazino.
+          </p>
+          <p>
+            Spēles motīvi arī atšķiras. Kazino apmeklējums bieži ir
+            saistīts ar pasākumu — dzimšanas diena, biznesa vakariņas
+            tuvumā, tūrisma vakars Rīgā. Spēļu zāles apmeklējums bieži ir
+            ierasta darbība — pa ceļam no darba, vakara pastaigā, vai
+            naktī pēc nakts mēģinājuma aizmigt. Šī uzvedības atšķirība ir
+            arī iemesls, kāpēc atbildīgas spēles risks spēļu zāļu sektorā
+            ir augstāks — ierasta uzvedība var ātrāk pārvērsties par
+            atkarību nekā gadījuma rakstura apmeklējums.
+          </p>
+
           <h2>Trešā opcija: online</h2>
           <p>
             Ja ne kazino, ne spēļu zāle nešķiet pilnvērtīga atbilde — vai ja

@@ -173,6 +173,58 @@ export default function OnlineVsSauszemesPage() {
             .
           </p>
 
+          <h2>Vai sauszemes ir drošāks pret krāpniecību?</h2>
+          <p>
+            Šī ir izplatīta intuīcija — fiziska kazino ar dīleru pretī ir
+            taustāms, un tas radīs sajūtu, ka tas ir drošāks pret apšaubāmu
+            spēles ietekmēšanu nekā online platforma. Realitāte ir niansēta.
+            Sauszemes kazino apkrāpšana ir reta, bet ne neeksistējoša —
+            pasaules vēsturē ir bijuši dīleru un spēlētāju krāpniecības
+            gadījumi. IAUI veic regulāras audita pārbaudes, un Olympic un
+            Klondaika uztur kameras virs visiem galdiem un automātiem.
+          </p>
+          <p>
+            Online — IAUI licencētiem operatoriem RNG (gadījuma skaitļu
+            ģeneratorus) sertificē trešās puses laboratorijas (eCOGRA, GLI),
+            kuru sertifikāti ir publiski pārbaudāmi. Spēļu RTP procentus
+            publicē. Live kazino studijas — galvenokārt Evolution Gaming un
+            Pragmatic Play Live — uztur diennakts ierakstus un IAUI saņem
+            piekļuvi audita pārbaudēs. Tehniskā ziņā IAUI licencēta online
+            kazino caurspīdība ir vienlīdz augsta vai augstāka nekā sauszemes
+            kontekstā.
+          </p>
+          <p>
+            Risks abās vidēs galvenokārt nav krāpniecībā, bet spēlētāja paša
+            uzvedībā — impulsīva spēle, bonusu T&amp;C neievērošana, KYC
+            dokumentu kavēšanās. Mūsu{' '}
+            <Link href="/metodologija/" className="underline decoration-line hover:decoration-carmine-500">
+              metodoloģijas lapā
+            </Link>{' '}
+            ir detalizēti aprakstīts, kā mēs vērtējam operatoru drošību.
+          </p>
+
+          <h2>Mājas mala — kāpēc online slotu RTP parasti ir augstāks</h2>
+          <p>
+            Sauszemes kazino slotu RTP parasti ir 91–94%, online — vidēji
+            96%, ar dažiem titulu sasniedzot 97–99%. Iemesls ir vienkāršs:
+            sauszemes operatoram jāmaksā par nekustamo īpašumu, personālu un
+            elektrību, kas tehniski paaugstina izmaksu struktūru. Online
+            operatora izmaksas ir zemākas, un konkurence par spēlētāju
+            uzmanību lielāka — tas spiež RTP procentu augstāk. Latvijas IAUI
+            licencēti operatori publicē RTP procentus katra slota līmenī, kas
+            ļauj salīdzināt pirms spēles. Sauszemes kazino RTP — daudzās
+            valstīs (ne visās) tā nav publiski pieejama informācija; spēlētāji
+            spēlē „akli”.
+          </p>
+          <p>
+            Dzīvo galda spēļu (ruletes, blackjack) gadījumā RTP atšķirības
+            starp online un sauszemes ir minimālas — noteikumi ir vienādi,
+            un mājas mala nāk no spēles struktūras, ne no operatora. Eiropas
+            ruletes mājas mala — 2,7% gan online, gan sauszemes; amerikāņu
+            ruletes — 5,26%. Tāpēc šeit izvēle ir vairāk par pieredzi nekā
+            par matemātiku.
+          </p>
+
           <h2>Verdikts pa scenārijiem</h2>
           <p>
             <strong>Izvēlieties sauszemes</strong>, ja meklējat vakara

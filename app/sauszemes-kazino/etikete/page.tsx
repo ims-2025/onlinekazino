@@ -198,6 +198,83 @@ export default function EtiquettePage() {
             iekārtoties. Nekad nepārtrauciet partiju pusceļā.
           </p>
 
+          <h2>Skaidras naudas un žetonu maiņas dinamika</h2>
+          <p>
+            Tipisks Olympic vai Klondaika kazino apmeklējums sākas ar
+            skaidras naudas vai bankas kartes nodošanu kasieres logā, kur
+            klients saņem žetonus. Pirmā transakcija parasti notiek viegli;
+            arodu klienti zina, ka KYC pārbaude sākas pie €2000 viena
+            depozīta. Ja jūs plānojat lielāku sesiju (€3000+), iesakām
+            jau iepriekš noskaidrot KYC prasības tās konkrētā kazino —
+            personu apliecinošs dokuments un dažās konfigurācijās arī
+            finanšu izcelsmes apliecinājums tiek prasīts.
+          </p>
+          <p>
+            Žetonu kategorijas — vienāds krāsu shēmas standarts visā Olympic
+            tīklā: balti €1, sarkani €5, zaļi €25, melni €100, violeti €500,
+            oranži €1000. Lielāku nomināla žetoni VIP zonās uzturēti zaļi-zelta
+            tonalitātē. Klondaika izmanto līdzīgu, bet ne identisku shēmu.
+            Vienmēr pārbaudiet žetonus pirms pirmās likmes — kasiere kļūdas
+            ir retas, bet ne neeksistējošas.
+          </p>
+          <p>
+            Žetonu izmaksa pēc sesijas — kasieres logā vai dažās lielākās
+            vietās pie galda, ja dīleris ir apstiprinājis. Lielāku summu
+            (€2000+) izmaksu parasti veic atsevišķā kasieres logā ar
+            papildu identitātes pārbaudi. Mājām nesiet sev līdzi izziņu —
+            tas var būt noderīgi nodokļu deklarācijas mērķiem, ja gada
+            laimesti pārsniedz €3000 (Latvijas nodokļu likumdošanas
+            slieksnis).
+          </p>
+
+          <h2>Sociālā dinamika pie galda — kā uzvesties profesionāli</h2>
+          <p>
+            Sauszemes kazino vide ir kolektīva — pie galda parasti spēlē
+            5–8 cilvēki, un katra spēlētāja uzvedība ietekmē citu pieredzi.
+            Pamatprincipi: nepieskarieties saviem žetoniem pēc dīlera „Nē
+            vairāk likmju” paziņojuma; nekomentējiet citu spēlētāju izvēles
+            (pat ja jūs uzskatāt, ka stratēģija ir neoptimāla); nedalieties
+            ar savām likmju prognozēm vai sapņiem skaļi; klusi reaģējiet uz
+            laimi vai zaudējumu.
+          </p>
+          <p>
+            Blackjack galdā ir īpaši svarīgi neaiznest citu spēlētāju
+            stratēģiju — daudzi vēsturiski uzskata, ka cita spēlētāja
+            „nepareizs” gājiens (piemēram, hit ar 16 pret dīlera 10) maina
+            visas tabulas izredzes. Matemātiski tas nav patiess: katra
+            spēlētāja gājiens ietekmē tikai viņa pašu rezultātu. Bet
+            sociāli šis mīts dzīvs un izpaužas sūdzībās, ja kāds spēlē
+            ārpus „pamata stratēģijas”. Iesakām: ja jūs nepārzināt blackjack
+            pamata stratēģiju, vai nu izvēlieties zemākas slodzes galdu, vai
+            mācieties iepriekš online.
+          </p>
+          <p>
+            Ruletes galdā sociālā dinamika ir mērenāka — katrs spēlētājs
+            liek savas likmes, un cita spēlētāja izvēle tehniski nevar
+            ietekmēt rezultātu. Bet etiķete saglabā: nepārklājiet savu
+            likmju vietu virs cita spēlētāja žetoniem, un, ja likmju lauks
+            ir blīvs, palūdziet dīlerim ievietot likmi.
+          </p>
+
+          <h2>Reakcija uz laimi vai zaudējumu</h2>
+          <p>
+            Latvijas kazino kultūra — atšķirībā no Las Vegas vai dažām
+            Vidusjūras vietām — pārsvarā ir mierīga. Lielas laimes svētku
+            izpaušana skaļi vai paceltu rokām nav pieņemta. Tas neizskatās
+            netaktiski tikai dīlerim, bet arī citiem spēlētājiem, kuri var
+            spēlēt zem laimes vai pat zaudēt blakus. Vidējais Latvijas
+            kazino apmeklētājs reaģē uz lielu laimi ar mierīgu pasmaidi un
+            varbūt dīlera apsveikuma toke. Tas ir kultūras parocīgums.
+          </p>
+          <p>
+            Zaudējumi — vēl jo svarīgāka mierīga reakcija. Sasituma vai
+            naidīgs verbāls izpaužums pret dīleri vai galda apkārtni var
+            izraisīt brīdinājumu vai pat izdošanu ārā no kazino. Atcerieties
+            — dīleris nesankcionē rezultātus, viņš tikai vada galda spēli.
+            Ja jūs jūtaties emocionāli neapmierināti, atstājiet galda
+            spēli, paejiet pastaigāties un pārtraucat sesiju.
+          </p>
+
           <h2>Kad iziet — beigu etiķete</h2>
           <p>
             Pēc spēles beigām dodiet dīlerim iespēju pateikt „Good game” vai

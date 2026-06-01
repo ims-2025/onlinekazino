@@ -212,6 +212,61 @@ export default function TouristsPage() {
             </li>
           </ol>
 
+          <h2>Drošības un finanšu padomi ārvalstu viesiem</h2>
+          <p>
+            Lieli skaidras naudas darījumi piesaista uzmanību — gan kazino
+            personāla, gan dažkārt no malas. Iesakām neiet uz kazino ar
+            visu naudu kabatā; izmantojiet viesnīcas seifu lielākajām summām
+            un nesiet sev līdzi tikai plānoto sesijas budžetu plus mēreno
+            rezervi. KYC procedūra no €2000 viena depozīta nozīmē, ka kazino
+            tehniski reģistrēs jūsu identitāti un summu — tas ir IAUI prasība
+            pret naudas atmazgāšanas riskiem, nevis kazino izvēle.
+          </p>
+          <p>
+            Skaidras naudas izmaksa pēc laimes tiek veikta tūlītēji eiro
+            banknotēs lielākajām summām (līdz €5000) vai ar bankas pārskaitījumu
+            uz norādīto kontu lielākiem laimestiem. Eksportējot lielas naudas
+            summas no Latvijas (virs €10 000), Eiropas Savienības robežu
+            kontrolē ir obligāti deklarēt summu — tas attiecas uz visiem
+            ES iekšējiem un ārējiem robežu šķērsojumiem.
+          </p>
+          <p>
+            Kartes apmaksas — Visa un Mastercard tiek pieņemtas lielākajos
+            Rīgas kazino. American Express — retāk. Skaidras naudas
+            izņemšana no automātiem Latvijā ir vidēja maksa €3–€5 par
+            transakciju, plus jūsu bankas konvertēšanas maksa. Lielāko
+            ASV un Apvienotās Karalistes banku karšu lietotājiem ir vērts
+            iepriekš pārbaudīt savas bankas ārvalstu darījumu maksas.
+          </p>
+
+          <h2>Sezonālas atšķirības un labākais apmeklējuma laiks</h2>
+          <p>
+            Latvijas kazino aina nav lineāra visa gada garumā. Vasaras sezona
+            (jūnijs–augusts) — Jūrmala ir kulminācijā, Rīgas kazino noslodze
+            palielinās ar Vecrīgas tūristu plūsmu, festivālu nedēļas nogales
+            rada periodiski augstu pieprasījumu. Šajā periodā labākās VIP
+            zonas iepriekšēja rezervēšana ir ieteicama, un dažas augstas
+            klases vakara programmas ir pilnas.
+          </p>
+          <p>
+            Rudens (septembris–novembris) — kazino kalendāra augstākais
+            punkts pokera turnīriem. Olympic Park Rīgā un Klondaika periodiski
+            organizē reģionāla mēroga Texas Hold&apos;em turnīrus, kuros
+            piedalās dalībnieki no visas Baltijas. Ja jūs interesē turnīra
+            spēle, septembris–novembris ir vislabākais laiks.
+          </p>
+          <p>
+            Ziema (decembris–februāris) — mērenāka plūsma, mierīgāka
+            atmosfēra. Klusākas VIP zāles, lielāka iespēja iegūt personīgu
+            apkalpošanu. Ziemas svētku periodā (decembra trešā un ceturtā
+            nedēļa) daudzas Rīgas kazino piedāvā tematiskus vakarus.
+          </p>
+          <p>
+            Pavasaris (marts–maijs) — līdzīgi mērena. Aprīlis un maijs ir
+            vasaras sezonas sākums Jūrmalā, bet Rīga vēl darbojas
+            ārpussezonā. Tas padara šo periodu par labu kompromisu.
+          </p>
+
           <h2>Online alternatīva tūristiem</h2>
           <p>
             Ja jūsu apmeklējums ir īss vai grafiks neļauj klātienes
