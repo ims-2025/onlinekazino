@@ -239,6 +239,49 @@ export default function TouristsPage() {
             iepriekš pārbaudīt savas bankas ārvalstu darījumu maksas.
           </p>
 
+          <h2>Atrašanās vietas tūristu maršrutā</h2>
+          <p>
+            Lielākā daļa ārvalstu viesu Latvijā paliek Rīgas Vecpilsētā vai
+            Centrāldistriktā — šajā teritorijā ar īsām pastaigām sasniedzami
+            vairāki kazino. Tipiska tūristu pastaigas distance no Brīvības
+            pieminekļa līdz Olympic Voyage Casino Elizabetes ielā — 8 minūtes.
+            Olympic Park Casino atrodas tālāk no Vecpilsētas — Brīvības
+            gatvē uz austrumiem no centra, sasniedzams ar 4. tramvaju vai
+            13. trolejbusu (10 minūtes), vai 8 minūšu taksi brauciens.
+            Klondaika centrālā zāle atrodas tikai pāris minūšu attālumā no
+            Rīgas centrāltirgus, kas pats par sevi ir tūristu apskates
+            objekts.
+          </p>
+          <p>
+            Tūristi, kuri plāno piecu vai septiņu dienu Baltijas maršrutu,
+            bieži apvieno Latvijas kazino apmeklējumu ar Tallinas (Olympic
+            Park Tallin) un Viļņas (Olympia Casino Vilnius) atrašanās vietām.
+            Šādiem apmeklētājiem Olympic Latvia Club lojalitātes karte ir
+            īpaši izdevīga — punkti uzkrājas un izmantojami visā Baltijas
+            tīklā, kas ietver vairāk nekā 20 atrašanās vietas trīs valstīs.
+            Reģistrācija ir bezmaksas un aizņem 5 minūtes pie kasieres.
+          </p>
+
+          <h2>Viesnīcas un transfera pakalpojumi</h2>
+          <p>
+            Vairākas Rīgas viesnīcas piedāvā transfera pakalpojumus uz tuvākajiem
+            kazino — bieži bez papildu maksas viesiem ar augstāko klases
+            numuru rezervāciju. Radisson Blu Hotel Latvija atrodas tieši virs
+            Olympic Voyage Casino, kas padara to par populāru izvēli
+            kazino orientētiem viesiem. Grand Hotel Kempinski un Hotel
+            Bergs uztur sadarbību ar Olympic Park kā oficiālu „premium klubu”
+            ar paātrināto piekļuvi VIP zonai. Šādu paketes detalizētus
+            nosacījumus pārbaudiet tieši pie viesnīcas, jo IAUI regulējumi
+            ierobežo, ko operators var piedāvāt tieši.
+          </p>
+          <p>
+            Jūrmalas viesi, kuri vēlas izmēģināt arī Rīgas kazino, var
+            ērti izmantot vilcienu līniju Tornakalns–Majori. Vilciens kursē
+            ik pēc 20–30 minūtēm, brauciens ilgst aptuveni 35 minūtes.
+            Olympic Park un Klondaika ir 5–10 minūšu pastaigā no Rīgas
+            centrālstacijas.
+          </p>
+
           <h2>Sezonālas atšķirības un labākais apmeklējuma laiks</h2>
           <p>
             Latvijas kazino aina nav lineāra visa gada garumā. Vasaras sezona

@@ -203,6 +203,44 @@ export default function OnlineVsSauszemesPage() {
             ir detalizēti aprakstīts, kā mēs vērtējam operatoru drošību.
           </p>
 
+          <h2>Klientūras tipu analīze — kuram katra opcija piemērota</h2>
+          <p>
+            <strong>Klasiskais sauszemes spēlētājs:</strong> 45–65 gadi, vidēji
+            augstāks ienākumu līmenis, vērtē sociālo pieredzi vairāk par
+            spēļu klāstu. Apmeklē Olympic Park vai Klondaika reti — varbūt
+            reizi mēnesī, ar plānotu vakara budžetu €100–€500. Šim klientam
+            sauszemes ir gandrīz vienīgā saprātīgā izvēle: online platformas
+            piedāvājuma plašums nav viņa pievilcības faktors, un mājās
+            spēlēt vienam pretī tiešraides studijai nav tā pati pieredze.
+          </p>
+          <p>
+            <strong>Pendletājs un mobilais spēlētājs:</strong> 28–42 gadi,
+            tehnoloģiski pratīgs, spēlē regulāri ar mērenu sesijas budžetu
+            (€10–€50). Šim klientam online ir dabisks izvēles iemesls —
+            pieejamība jebkurā laikā, plašs slotu klāsts ar augstu RTP,
+            sociālo dinamiku tehnoloģiski aizstāj live kazino studijas un
+            čata funkcija. Sauszemes apmeklējums šim klientam ir reti
+            izvēlēts — varbūt par dzimšanas dienu vai svētkos.
+          </p>
+          <p>
+            <strong>High roller:</strong> Specifiska niša 5–10 cilvēku
+            grupā Latvijā ar regulārām likmēm €1000+ par roku. Šie klienti
+            izmanto abas vides — sauszemes Olympic Park VIP zāli specifiskām
+            galda spēļu sesijām un online IAUI licencētu high-roller
+            programmu lielākai elastībai. Online opcija šim klientam
+            piedāvā arī augstāko izņemšanas limitu pielāgojumu, kas
+            sauszemes vidē tehniski nav iespējams ārpus banku darbības
+            laika.
+          </p>
+          <p>
+            <strong>Tūrists:</strong> Ārvalstu viesis Latvijā uz 2–5 dienām.
+            Šim klientam sauszemes ir dominējošā izvēle — Olympic Park,
+            Olympic Voyage Jūrmalā vai Klondaika kā vietējās pieredzes
+            sastāvdaļa. Online ir tehniski iespējama, bet tā kā KYC prasa
+            ES vai EEZ adresi, daudzi tūristi nevar pilnvērtīgi reģistrēties
+            uz vienu vai divām dienām.
+          </p>
+
           <h2>Mājas mala — kāpēc online slotu RTP parasti ir augstāks</h2>
           <p>
             Sauszemes kazino slotu RTP parasti ir 91–94%, online — vidēji

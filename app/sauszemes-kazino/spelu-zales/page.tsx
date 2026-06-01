@@ -177,6 +177,30 @@ export default function CasinoVsSlotHallPage() {
             kazino nav pieejams.
           </p>
 
+          <h2>Latvijas regulējuma evolūcija</h2>
+          <p>
+            Latvijas spēļu zāļu un kazino regulējums ir attīstījies vairākos
+            posmos kopš neatkarības atjaunošanas. Pirmais Azartspēļu un
+            izložu likums tika pieņemts 1996. gadā, un kopš tā laika ir
+            piedzīvojis vairākas būtiskas izmaiņas — 2006. gadā, 2012. gadā un
+            jaunākās izmaiņas saistībā ar online azartspēļu regulējumu un
+            atbildīgas spēles instrumentu paplašināšanu. IAUI kā uzraudzības
+            iestāde ir pakāpeniski paplašinājusi savu kapacitāti — sākotnēji
+            galvenokārt licenču izsniegšana, šodien arī aktīva uzraudzība
+            ar regulārām audita pārbaudēm, datu analīzi un sadarbību ar
+            Eiropas regulatoriem.
+          </p>
+          <p>
+            Pēdējos gados Latvijas regulējums ir kļuvis stingrāks ģeogrāfiski
+            ierobežojumos — spēļu zāles nevar atrasties tuvāk noteiktiem
+            attālumiem no skolām, baznīcām un jaunatnes iestādēm. Tas ir
+            radījis konsolidācijas spiedienu — daudzas mazākas zāles, kuras
+            atradās blīvākajos rajonos, ir pārvietotas vai slēgtas. Olympic
+            un lielākie operatori ir labāk pielāgojušies šim spiedienam,
+            jo viņu atrašanās vietas parasti ir tirdzniecības centros vai
+            tālāk no aizliegtajām zonām.
+          </p>
+
           <h2>Spēļu zāļu licences procedūra un IAUI uzraudzība</h2>
           <p>
             Spēļu zāles licences iegūšana IAUI ir samērā strukturēta
@@ -219,6 +243,37 @@ export default function CasinoVsSlotHallPage() {
             vai pārņemti, un Olympic, Joker un Alfor kontrolē lielāko tirgus
             daļu. Šī tendence ir paralēla pārējās Eiropas — regulējumu
             prasības pieaug, un mērogs paliek izšķirošs faktors.
+          </p>
+
+          <h2>Nākotnes tendences Latvijas spēļu zāļu tirgū</h2>
+          <p>
+            Vairākas tendences ietekmē Latvijas spēļu zāļu sektoru tuvāko
+            piecu līdz desmit gadu perspektīvā. Pirmā — online tirgus
+            izaugsme — turpina nodrošināt augstu konkurences spiedienu
+            sauszemes operatoriem. Mobilās lietotnes un Pay-N-Play
+            instantās reģistrācijas funkcijas samazina barjeras online
+            spēlei, savukārt sauszemes apmeklējums prasa ievērojami lielāku
+            laika ieguldījumu. Lielāka daļa jaunās paaudzes spēlētāju —
+            tehnoloģiski pratīgi, ar laika ierobežojumiem — dabīgi izvēlas
+            online platformu.
+          </p>
+          <p>
+            Otra tendence — paaugstinātas atbildīgas spēles prasības — paredz
+            stingrāku spēlētāju identifikāciju, automātiskos riska
+            indikatorus un agrāku iejaukšanos riska gadījumos. Eiropas
+            Savienības līmeņa regulējuma iniciatīvas (galvenokārt no
+            Vācijas un Skandināvijas regulatoriem) ietekmē arī Latvijas
+            standartus. Spēļu zāles, kuras šobrīd uztur mazāku tehnoloģisko
+            ieguldījumu klientu uzraudzībā, var saskarties ar lielākiem
+            atbilstības izdevumiem.
+          </p>
+          <p>
+            Trešā tendence — konsolidācija. Mazākie un mērenas izmēra
+            operatori, kuri uztur tikai dažas atrašanās vietas, var
+            saskarties ar pieaugošu spiedienu pārdot vai apvienoties ar
+            lielākiem konkurentiem. Olympic, Joker un Alfor pārstāvēto
+            tirgus daļu var sagaidīt vēl palielinājumu, lai gan tas vēl
+            arvien atstāj telpu specializētiem nišu operatoriem.
           </p>
 
           <h2>Klientūras atšķirības — kazino vs spēļu zāles</h2>

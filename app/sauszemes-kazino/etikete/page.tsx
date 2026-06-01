@@ -198,6 +198,34 @@ export default function EtiquettePage() {
             iekārtoties. Nekad nepārtrauciet partiju pusceļā.
           </p>
 
+          <h2>VIP zonas etiķete — papildu noteikumi</h2>
+          <p>
+            Olympic Park un Klondaika VIP zonu piekļuve nāk ar paaugstinātām
+            etiķetes prasībām. Apģērba kodekss ir striktākais — vīriešiem
+            krekls ar apkakli vai dažās konfigurācijās žakete obligāta vakara
+            stundās; sieviešu ekvivalents ir eleganta kleita vai biznesa
+            stila ansamblis. Sporta apavi nav pieņemami. Klubu apavi ar
+            mīkstu zoles materiālu ir piemērotākais izvēles veids.
+          </p>
+          <p>
+            VIP zonu sociālā dinamika ir mērenāka un mierīgāka — mazāk
+            spēlētāju pie galda, vairāk individuālas dīlera uzmanības.
+            Tas nozīmē, ka etiķetes pārkāpumi ir redzamāki. Telefoni VIP
+            zonā praktiski aizliegti — pat klusi ziņojumi var pievērst
+            personālo uzmanību. Dzeramnauda mērenāka, bet personālāka —
+            VIP klients, kurš regulāri atgriežas, bieži piedāvā fiksētu
+            mēneša dzeramnaudu „savam” konsjeržam vai kapteinim, atkarīgi
+            no ieguldījuma.
+          </p>
+          <p>
+            Privātās VIP zāles — dažās lielākajās Olympic atrašanās vietās
+            ir pieejamas pilnīgi privātas zāles ar dīleru, kuras klients var
+            rezervēt iepriekš. Šādu vietu rezervācijas process notiek caur
+            konsjeržu, parasti 24–48 stundas iepriekš. Apģērba un etiķetes
+            prasības privātā zālē pielāgojas klienta vēlmēm, bet alkohola
+            apkalpošana un fotografēšanas aizliegums saglabājas standarts.
+          </p>
+
           <h2>Skaidras naudas un žetonu maiņas dinamika</h2>
           <p>
             Tipisks Olympic vai Klondaika kazino apmeklējums sākas ar
