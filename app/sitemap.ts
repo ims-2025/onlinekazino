@@ -7,6 +7,7 @@ import {
 } from '@/lib/data';
 import { getTopicSlugs } from '@/lib/topics';
 import { getComparisonSlugs } from '@/lib/comparisons';
+import { getCitySlugs } from '@/lib/cities';
 import { SITE } from '@/lib/site';
 
 /**
@@ -43,6 +44,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/maksajumi/`,                lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/spelu-izstradataji/`,       lastModified: now, changeFrequency: 'monthly', priority: 0.6 },
     { url: `${base}/salidzinajumi/`,            lastModified: now, changeFrequency: 'monthly', priority: 0.75 },
+    { url: `${base}/sauszemes-kazino/`,                       lastModified: now, changeFrequency: 'monthly', priority: 0.85 },
+    { url: `${base}/sauszemes-kazino/online-vs-sauszemes/`,   lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${base}/sauszemes-kazino/turistiem/`,             lastModified: now, changeFrequency: 'monthly', priority: 0.65 },
+    { url: `${base}/sauszemes-kazino/etikete/`,               lastModified: now, changeFrequency: 'monthly', priority: 0.6 },
+    { url: `${base}/sauszemes-kazino/spelu-zales/`,           lastModified: now, changeFrequency: 'monthly', priority: 0.6 },
     { url: `${base}/raksti/`,                   lastModified: now, changeFrequency: 'daily',   priority: 0.8 },
     { url: `${base}/atbildiga-spele/`,          lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/par-mums/`,                 lastModified: now, changeFrequency: 'yearly',  priority: 0.4 },
@@ -109,6 +115,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   );
 
+  const cityPages: MetadataRoute.Sitemap = getCitySlugs().map((slug) => ({
+    url: `${base}/sauszemes-kazino/${slug}/`,
+    lastModified: now,
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
+
   const comparisonPages: MetadataRoute.Sitemap = getComparisonSlugs().map((slug) => ({
     url: `${base}/salidzinajumi/${slug}/`,
     lastModified: now,
@@ -122,6 +135,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...articlePages,
     ...categoryPages,
     ...topicPages,
+    ...cityPages,
     ...comparisonPages,
   ];
 }

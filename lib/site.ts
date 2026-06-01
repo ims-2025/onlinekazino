@@ -68,6 +68,7 @@ export const NAV_FOOTER = {
     { href: '/autori/', label: 'Autori' },
     { href: '/redakcionala-politika/', label: 'Redakcionālā politika' },
     { href: '/metodologija/', label: 'Vērtēšanas metodoloģija' },
+    { href: '/sauszemes-kazino/', label: 'Sauszemes kazino' },
     { href: '/kontakti/', label: 'Kontakti' },
   ],
   legal: [
